@@ -1,0 +1,541 @@
+file_name,class_name,label,pred_label,pred_class,fold
+class_3_carvin_sl100_1_3.wav,sweep picking,3,0,alternate picking,fold_0
+class_6_carvin_dc-modern_1_5.wav,pull off,6,5,hammer on,fold_0
+class_7_carvin_dc-modern_1_1.wav,slide,7,7,slide,fold_0
+class_0_carvin_plexiglass_2_2.wav,alternate picking,0,1,legato,fold_0
+class_2_carvin_sl100_1_3.wav,tapping,2,1,legato,fold_0
+class_5_carvin_sl100_1_3.wav,hammer on,5,6,pull off,fold_0
+class_2_palm-bay_plexiglass_1_3.wav,tapping,2,2,tapping,fold_0
+class_1_rwg_dc-modern_3_3.wav,legato,1,2,tapping,fold_0
+class_7_rwg_dc-modern_1_1.wav,slide,7,7,slide,fold_0
+class_1_carvin_dc-modern_3_3.wav,legato,1,2,tapping,fold_0
+class_0_rwg_sl100_2_2.wav,alternate picking,0,0,alternate picking,fold_0
+class_2_carvin_dc-modern_1_3.wav,tapping,2,1,legato,fold_0
+class_6_rwg_sl100_1_5.wav,pull off,6,4,vibrato,fold_0
+class_2_carvin_plexiglass_3_1.wav,tapping,2,2,tapping,fold_0
+class_1_carvin_plexiglass_1_3.wav,legato,1,1,legato,fold_0
+class_0_rwg_dc-modern_2_2.wav,alternate picking,0,0,alternate picking,fold_0
+class_2_palm-bay_dc-modern_1_3.wav,tapping,2,2,tapping,fold_0
+class_2_carvin_dc-modern_3_1.wav,tapping,2,2,tapping,fold_0
+class_8_carvin_sl100_1_6.wav,bend,8,1,legato,fold_0
+class_0_carvin_sl100_2_2.wav,alternate picking,0,0,alternate picking,fold_0
+class_1_rwg_dc-modern_1_3.wav,legato,1,1,legato,fold_0
+class_7_palm-bay_plexiglass_1_1.wav,slide,7,7,slide,fold_0
+class_0_palm-bay_dc-modern_1.wav,alternate picking,0,0,alternate picking,fold_0
+class_0_palm-bay_sl100_2_2.wav,alternate picking,0,0,alternate picking,fold_0
+class_6_palm-bay_dc-modern_1_5.wav,pull off,6,5,hammer on,fold_0
+class_3_rwg_plexiglass_1_3.wav,sweep picking,3,3,sweep picking,fold_0
+class_4_palm-bay_sl100_2.wav,vibrato,4,4,vibrato,fold_0
+class_7_carvin_plexiglass_1_1.wav,slide,7,2,tapping,fold_0
+class_2_carvin_sl100_3_1.wav,tapping,2,2,tapping,fold_0
+class_2_rwg_plexiglass_1_3.wav,tapping,2,1,legato,fold_0
+class_1_palm-bay_plexiglass_3_3.wav,legato,1,1,legato,fold_0
+class_1_carvin_sl100_1_3.wav,legato,1,1,legato,fold_0
+class_2_rwg_sl100_1_3.wav,tapping,2,2,tapping,fold_0
+class_4_palm-bay_dc-modern_2.wav,vibrato,4,4,vibrato,fold_0
+class_8_palm-bay_dc-modern_1_6.wav,bend,8,8,bend,fold_0
+class_0_rwg_plexiglass_2_2.wav,alternate picking,0,0,alternate picking,fold_0
+class_0_carvin_dc-modern_2_2.wav,alternate picking,0,0,alternate picking,fold_0
+class_0_carvin_dc-modern_1.wav,alternate picking,0,0,alternate picking,fold_0
+class_3_palm-bay_sl100_1_3.wav,sweep picking,3,3,sweep picking,fold_0
+class_1_carvin_plexiglass_3_3.wav,legato,1,1,legato,fold_0
+class_2_rwg_dc-modern_3_1.wav,tapping,2,2,tapping,fold_0
+class_2_palm-bay_sl100_3_1.wav,tapping,2,2,tapping,fold_0
+class_5_rwg_sl100_1_3.wav,hammer on,5,6,pull off,fold_0
+class_2_palm-bay_dc-modern_3_1.wav,tapping,2,2,tapping,fold_0
+class_3_carvin_dc-modern_1_3.wav,sweep picking,3,2,tapping,fold_0
+class_1_carvin_dc-modern_1_3.wav,legato,1,1,legato,fold_0
+class_1_palm-bay_sl100_3_3.wav,legato,1,1,legato,fold_0
+class_0_rwg_sl100_1.wav,alternate picking,0,0,alternate picking,fold_0
+class_3_palm-bay_dc-modern_1_3.wav,sweep picking,3,0,alternate picking,fold_0
+class_3_rwg_sl100_1_3.wav,sweep picking,3,3,sweep picking,fold_0
+class_3_palm-bay_plexiglass_1_3.wav,sweep picking,3,0,alternate picking,fold_0
+class_5_carvin_dc-modern_1_3.wav,hammer on,5,6,pull off,fold_0
+class_8_rwg_dc-modern_1_6.wav,bend,8,8,bend,fold_0
+class_7_rwg_plexiglass_1_1.wav,slide,7,2,tapping,fold_0
+class_1_palm-bay_plexiglass_1_3.wav,legato,1,1,legato,fold_0
+class_4_rwg_plexiglass_2.wav,vibrato,4,4,vibrato,fold_0
+class_8_rwg_plexiglass_1_6.wav,bend,8,8,bend,fold_0
+class_6_palm-bay_plexiglass_1_5.wav,pull off,6,5,hammer on,fold_0
+class_7_palm-bay_dc-modern_1_1.wav,slide,7,2,tapping,fold_0
+class_0_carvin_plexiglass_1.wav,alternate picking,0,0,alternate picking,fold_0
+class_6_carvin_plexiglass_1_5.wav,pull off,6,5,hammer on,fold_0
+class_6_palm-bay_sl100_1_5.wav,pull off,6,5,hammer on,fold_0
+class_5_palm-bay_dc-modern_1_3.wav,hammer on,5,6,pull off,fold_0
+class_3_carvin_plexiglass_1_3.wav,sweep picking,3,0,alternate picking,fold_0
+class_6_carvin_sl100_1_5.wav,pull off,6,5,hammer on,fold_0
+class_4_palm-bay_plexiglass_2.wav,vibrato,4,4,vibrato,fold_0
+class_1_carvin_sl100_3_3.wav,legato,1,1,legato,fold_0
+class_0_rwg_dc-modern_1.wav,alternate picking,0,0,alternate picking,fold_0
+class_2_rwg_plexiglass_3_1.wav,tapping,2,2,tapping,fold_0
+class_5_rwg_dc-modern_1_3.wav,hammer on,5,6,pull off,fold_0
+class_2_palm-bay_sl100_1_3.wav,tapping,2,0,alternate picking,fold_0
+class_5_rwg_plexiglass_1_3.wav,hammer on,5,6,pull off,fold_0
+class_1_rwg_sl100_3_3.wav,legato,1,2,tapping,fold_0
+class_0_rwg_plexiglass_1.wav,alternate picking,0,0,alternate picking,fold_0
+class_0_carvin_sl100_1.wav,alternate picking,0,0,alternate picking,fold_0
+class_1_rwg_sl100_1_3.wav,legato,1,1,legato,fold_0
+class_4_carvin_dc-modern_2.wav,vibrato,4,7,slide,fold_0
+class_6_rwg_dc-modern_1_5.wav,pull off,6,5,hammer on,fold_0
+class_2_palm-bay_plexiglass_3_1.wav,tapping,2,2,tapping,fold_0
+class_5_palm-bay_plexiglass_1_3.wav,hammer on,5,4,vibrato,fold_0
+class_4_carvin_plexiglass_2.wav,vibrato,4,4,vibrato,fold_0
+class_6_rwg_plexiglass_1_5.wav,pull off,6,5,hammer on,fold_0
+class_1_palm-bay_sl100_1_3.wav,legato,1,1,legato,fold_0
+class_2_rwg_dc-modern_1_3.wav,tapping,2,2,tapping,fold_0
+class_3_rwg_dc-modern_1_3.wav,sweep picking,3,0,alternate picking,fold_0
+class_0_palm-bay_plexiglass_2_2.wav,alternate picking,0,0,alternate picking,fold_0
+class_5_carvin_plexiglass_1_3.wav,hammer on,5,6,pull off,fold_0
+class_1_palm-bay_dc-modern_1_3.wav,legato,1,1,legato,fold_0
+class_7_rwg_sl100_1_1.wav,slide,7,7,slide,fold_0
+class_2_carvin_plexiglass_1_3.wav,tapping,2,6,pull off,fold_0
+class_8_palm-bay_plexiglass_1_6.wav,bend,8,1,legato,fold_0
+class_1_rwg_plexiglass_3_3.wav,legato,1,2,tapping,fold_0
+class_0_palm-bay_dc-modern_2_2.wav,alternate picking,0,0,alternate picking,fold_0
+class_0_palm-bay_sl100_1.wav,alternate picking,0,1,legato,fold_0
+class_7_palm-bay_sl100_1_1.wav,slide,7,7,slide,fold_0
+class_4_carvin_sl100_2.wav,vibrato,4,5,hammer on,fold_0
+class_8_palm-bay_sl100_1_6.wav,bend,8,8,bend,fold_0
+class_4_rwg_dc-modern_2.wav,vibrato,4,5,hammer on,fold_0
+class_1_palm-bay_dc-modern_3_3.wav,legato,1,1,legato,fold_0
+class_4_rwg_sl100_2.wav,vibrato,4,4,vibrato,fold_0
+class_0_palm-bay_plexiglass_1.wav,alternate picking,0,0,alternate picking,fold_0
+class_7_carvin_sl100_1_1.wav,slide,7,7,slide,fold_0
+class_8_rwg_sl100_1_6.wav,bend,8,8,bend,fold_0
+class_8_carvin_plexiglass_1_6.wav,bend,8,8,bend,fold_0
+class_5_palm-bay_sl100_1_3.wav,hammer on,5,6,pull off,fold_0
+class_1_rwg_plexiglass_1_3.wav,legato,1,1,legato,fold_0
+class_8_carvin_dc-modern_1_6.wav,bend,8,2,tapping,fold_0
+class_2_rwg_sl100_3_1.wav,tapping,2,2,tapping,fold_0
+class_5_rwg_dc-modern_1_1.wav,hammer on,5,6,pull off,fold_1
+class_3_palm-bay_plexiglass_2.wav,sweep picking,3,2,tapping,fold_1
+class_7_palm-bay_dc-modern_1_3.wav,slide,7,6,pull off,fold_1
+class_7_rwg_plexiglass_1_3.wav,slide,7,6,pull off,fold_1
+class_3_carvin_sl100_2.wav,sweep picking,3,2,tapping,fold_1
+class_6_palm-bay_plexiglass_1_2.wav,pull off,6,5,hammer on,fold_1
+class_3_carvin_dc-modern_2.wav,sweep picking,3,2,tapping,fold_1
+class_2_carvin_plexiglass_3_2.wav,tapping,2,2,tapping,fold_1
+class_3_carvin_plexiglass_2.wav,sweep picking,3,2,tapping,fold_1
+class_3_rwg_sl100_2.wav,sweep picking,3,2,tapping,fold_1
+class_2_palm-bay_dc-modern_3_2.wav,tapping,2,2,tapping,fold_1
+class_0_palm-bay_dc-modern_2.wav,alternate picking,0,0,alternate picking,fold_1
+class_0_palm-bay_sl100_2.wav,alternate picking,0,0,alternate picking,fold_1
+class_7_carvin_dc-modern_1_3.wav,slide,7,6,pull off,fold_1
+class_4_palm-bay_sl100_1_4.wav,vibrato,4,4,vibrato,fold_1
+class_6_palm-bay_dc-modern_1_2.wav,pull off,6,5,hammer on,fold_1
+class_0_rwg_sl100_2.wav,alternate picking,0,0,alternate picking,fold_1
+class_4_carvin_plexiglass_1_4.wav,vibrato,4,4,vibrato,fold_1
+class_1_carvin_dc-modern_2_3.wav,legato,1,1,legato,fold_1
+class_1_palm-bay_sl100_1_1.wav,legato,1,1,legato,fold_1
+class_4_carvin_dc-modern_1_4.wav,vibrato,4,4,vibrato,fold_1
+class_2_carvin_sl100_1_2.wav,tapping,2,2,tapping,fold_1
+class_0_carvin_dc-modern_3_1.wav,alternate picking,0,0,alternate picking,fold_1
+class_4_rwg_plexiglass_1_4.wav,vibrato,4,4,vibrato,fold_1
+class_7_carvin_sl100_1_3.wav,slide,7,6,pull off,fold_1
+class_5_rwg_sl100_1_1.wav,hammer on,5,6,pull off,fold_1
+class_5_carvin_plexiglass_1_1.wav,hammer on,5,6,pull off,fold_1
+class_4_palm-bay_plexiglass_1_4.wav,vibrato,4,4,vibrato,fold_1
+class_6_rwg_sl100_1_2.wav,pull off,6,5,hammer on,fold_1
+class_0_rwg_sl100_3_1.wav,alternate picking,0,0,alternate picking,fold_1
+class_5_carvin_dc-modern_1_1.wav,hammer on,5,6,pull off,fold_1
+class_0_rwg_dc-modern_2.wav,alternate picking,0,0,alternate picking,fold_1
+class_1_palm-bay_dc-modern_1_1.wav,legato,1,2,tapping,fold_1
+class_2_palm-bay_sl100_1_2.wav,tapping,2,2,tapping,fold_1
+class_8_carvin_plexiglass_1_4.wav,bend,8,8,bend,fold_1
+class_7_palm-bay_sl100_1_3.wav,slide,7,5,hammer on,fold_1
+class_8_rwg_sl100_1_4.wav,bend,8,8,bend,fold_1
+class_1_rwg_plexiglass_1_1.wav,legato,1,1,legato,fold_1
+class_7_rwg_sl100_1_3.wav,slide,7,6,pull off,fold_1
+class_1_palm-bay_sl100_2_3.wav,legato,1,1,legato,fold_1
+class_6_palm-bay_sl100_1_2.wav,pull off,6,5,hammer on,fold_1
+class_2_palm-bay_dc-modern_1_2.wav,tapping,2,2,tapping,fold_1
+class_0_carvin_sl100_2.wav,alternate picking,0,0,alternate picking,fold_1
+class_1_rwg_sl100_1_1.wav,legato,1,1,legato,fold_1
+class_6_carvin_plexiglass_1_2.wav,pull off,6,5,hammer on,fold_1
+class_7_carvin_plexiglass_1_3.wav,slide,7,6,pull off,fold_1
+class_1_carvin_plexiglass_1_1.wav,legato,1,1,legato,fold_1
+class_4_rwg_dc-modern_1_4.wav,vibrato,4,5,hammer on,fold_1
+class_6_carvin_sl100_1_2.wav,pull off,6,5,hammer on,fold_1
+class_8_palm-bay_dc-modern_1_4.wav,bend,8,8,bend,fold_1
+class_2_rwg_sl100_3_2.wav,tapping,2,2,tapping,fold_1
+class_7_rwg_dc-modern_1_3.wav,slide,7,6,pull off,fold_1
+class_2_rwg_sl100_1_2.wav,tapping,2,2,tapping,fold_1
+class_0_rwg_plexiglass_3_1.wav,alternate picking,0,0,alternate picking,fold_1
+class_0_palm-bay_plexiglass_2.wav,alternate picking,0,0,alternate picking,fold_1
+class_7_palm-bay_plexiglass_1_3.wav,slide,7,1,legato,fold_1
+class_2_palm-bay_sl100_3_2.wav,tapping,2,2,tapping,fold_1
+class_6_rwg_plexiglass_1_2.wav,pull off,6,5,hammer on,fold_1
+class_0_rwg_plexiglass_2.wav,alternate picking,0,0,alternate picking,fold_1
+class_0_carvin_dc-modern_2.wav,alternate picking,0,0,alternate picking,fold_1
+class_8_rwg_plexiglass_1_4.wav,bend,8,8,bend,fold_1
+class_0_carvin_plexiglass_2.wav,alternate picking,0,0,alternate picking,fold_1
+class_3_rwg_dc-modern_2.wav,sweep picking,3,2,tapping,fold_1
+class_1_palm-bay_plexiglass_1_1.wav,legato,1,1,legato,fold_1
+class_0_carvin_plexiglass_3_1.wav,alternate picking,0,0,alternate picking,fold_1
+class_0_palm-bay_dc-modern_3_1.wav,alternate picking,0,0,alternate picking,fold_1
+class_2_palm-bay_plexiglass_1_2.wav,tapping,2,2,tapping,fold_1
+class_8_rwg_dc-modern_1_4.wav,bend,8,8,bend,fold_1
+class_2_rwg_dc-modern_1_2.wav,tapping,2,2,tapping,fold_1
+class_1_rwg_dc-modern_2_3.wav,legato,1,1,legato,fold_1
+class_2_rwg_plexiglass_3_2.wav,tapping,2,2,tapping,fold_1
+class_2_carvin_dc-modern_1_2.wav,tapping,2,2,tapping,fold_1
+class_0_palm-bay_sl100_3_1.wav,alternate picking,0,0,alternate picking,fold_1
+class_5_rwg_plexiglass_1_1.wav,hammer on,5,6,pull off,fold_1
+class_2_carvin_dc-modern_3_2.wav,tapping,2,2,tapping,fold_1
+class_5_palm-bay_dc-modern_1_1.wav,hammer on,5,6,pull off,fold_1
+class_4_rwg_sl100_1_4.wav,vibrato,4,4,vibrato,fold_1
+class_8_palm-bay_sl100_1_4.wav,bend,8,8,bend,fold_1
+class_1_carvin_plexiglass_2_3.wav,legato,1,1,legato,fold_1
+class_6_rwg_dc-modern_1_2.wav,pull off,6,5,hammer on,fold_1
+class_4_palm-bay_dc-modern_1_4.wav,vibrato,4,5,hammer on,fold_1
+class_1_palm-bay_dc-modern_2_3.wav,legato,1,1,legato,fold_1
+class_8_carvin_sl100_1_4.wav,bend,8,4,vibrato,fold_1
+class_2_rwg_dc-modern_3_2.wav,tapping,2,2,tapping,fold_1
+class_0_carvin_sl100_3_1.wav,alternate picking,0,0,alternate picking,fold_1
+class_1_palm-bay_plexiglass_2_3.wav,legato,1,1,legato,fold_1
+class_3_palm-bay_dc-modern_2.wav,sweep picking,3,1,legato,fold_1
+class_1_carvin_sl100_1_1.wav,legato,1,1,legato,fold_1
+class_1_rwg_plexiglass_2_3.wav,legato,1,0,alternate picking,fold_1
+class_5_carvin_sl100_1_1.wav,hammer on,5,6,pull off,fold_1
+class_1_carvin_dc-modern_1_1.wav,legato,1,1,legato,fold_1
+class_3_rwg_plexiglass_2.wav,sweep picking,3,2,tapping,fold_1
+class_5_palm-bay_plexiglass_1_1.wav,hammer on,5,6,pull off,fold_1
+class_2_carvin_plexiglass_1_2.wav,tapping,2,2,tapping,fold_1
+class_0_palm-bay_plexiglass_3_1.wav,alternate picking,0,0,alternate picking,fold_1
+class_8_palm-bay_plexiglass_1_4.wav,bend,8,8,bend,fold_1
+class_8_carvin_dc-modern_1_4.wav,bend,8,8,bend,fold_1
+class_0_rwg_dc-modern_3_1.wav,alternate picking,0,0,alternate picking,fold_1
+class_2_rwg_plexiglass_1_2.wav,tapping,2,1,legato,fold_1
+class_1_rwg_dc-modern_1_1.wav,legato,1,1,legato,fold_1
+class_2_carvin_sl100_3_2.wav,tapping,2,2,tapping,fold_1
+class_4_carvin_sl100_1_4.wav,vibrato,4,4,vibrato,fold_1
+class_6_carvin_dc-modern_1_2.wav,pull off,6,5,hammer on,fold_1
+class_1_rwg_sl100_2_3.wav,legato,1,1,legato,fold_1
+class_3_palm-bay_sl100_2.wav,sweep picking,3,1,legato,fold_1
+class_5_palm-bay_sl100_1_1.wav,hammer on,5,6,pull off,fold_1
+class_1_carvin_sl100_2_3.wav,legato,1,2,tapping,fold_1
+class_2_palm-bay_plexiglass_3_2.wav,tapping,2,2,tapping,fold_1
+class_6_rwg_dc-modern_1_1.wav,pull off,6,5,hammer on,fold_2
+class_2_carvin_sl100_1_1.wav,tapping,2,1,legato,fold_2
+class_7_carvin_plexiglass_1_5.wav,slide,7,7,slide,fold_2
+class_7_carvin_sl100_1_5.wav,slide,7,7,slide,fold_2
+class_2_rwg_dc-modern_2_2.wav,tapping,2,0,alternate picking,fold_2
+class_2_rwg_dc-modern_1_1.wav,tapping,2,1,legato,fold_2
+class_8_rwg_dc-modern_1_2.wav,bend,8,8,bend,fold_2
+class_1_palm-bay_dc-modern_3_2.wav,legato,1,2,tapping,fold_2
+class_3_rwg_dc-modern_1_2.wav,sweep picking,3,3,sweep picking,fold_2
+class_3_carvin_dc-modern_1_2.wav,sweep picking,3,3,sweep picking,fold_2
+class_5_carvin_dc-modern_1_2.wav,hammer on,5,6,pull off,fold_2
+class_4_carvin_dc-modern_1_1.wav,vibrato,4,6,pull off,fold_2
+class_0_rwg_sl100_1_2.wav,alternate picking,0,0,alternate picking,fold_2
+class_3_carvin_sl100_1_2.wav,sweep picking,3,3,sweep picking,fold_2
+class_4_palm-bay_dc-modern_1_1.wav,vibrato,4,4,vibrato,fold_2
+class_2_carvin_plexiglass_2_2.wav,tapping,2,1,legato,fold_2
+class_2_palm-bay_sl100_2_2.wav,tapping,2,2,tapping,fold_2
+class_0_palm-bay_plexiglass_1_2.wav,alternate picking,0,0,alternate picking,fold_2
+class_4_palm-bay_plexiglass_1_1.wav,vibrato,4,6,pull off,fold_2
+class_5_rwg_dc-modern_1_2.wav,hammer on,5,5,hammer on,fold_2
+class_0_rwg_sl100_3.wav,alternate picking,0,0,alternate picking,fold_2
+class_8_rwg_plexiglass_1_2.wav,bend,8,8,bend,fold_2
+class_0_palm-bay_dc-modern_1_2.wav,alternate picking,0,0,alternate picking,fold_2
+class_6_palm-bay_dc-modern_1_1.wav,pull off,6,5,hammer on,fold_2
+class_7_palm-bay_dc-modern_1_5.wav,slide,7,7,slide,fold_2
+class_4_rwg_sl100_1_1.wav,vibrato,4,6,pull off,fold_2
+class_3_rwg_sl100_1_2.wav,sweep picking,3,3,sweep picking,fold_2
+class_5_palm-bay_sl100_1_2.wav,hammer on,5,6,pull off,fold_2
+class_0_palm-bay_sl100_3.wav,alternate picking,0,0,alternate picking,fold_2
+class_6_rwg_sl100_1_1.wav,pull off,6,5,hammer on,fold_2
+class_1_carvin_plexiglass_3_2.wav,legato,1,1,legato,fold_2
+class_6_rwg_plexiglass_1_1.wav,pull off,6,5,hammer on,fold_2
+class_0_rwg_dc-modern_3.wav,alternate picking,0,0,alternate picking,fold_2
+class_0_palm-bay_dc-modern_3.wav,alternate picking,0,0,alternate picking,fold_2
+class_1_palm-bay_plexiglass_3_2.wav,legato,1,1,legato,fold_2
+class_0_palm-bay_sl100_1_2.wav,alternate picking,0,0,alternate picking,fold_2
+class_7_palm-bay_plexiglass_1_5.wav,slide,7,7,slide,fold_2
+class_5_rwg_sl100_1_2.wav,hammer on,5,6,pull off,fold_2
+class_1_palm-bay_sl100_2_1.wav,legato,1,1,legato,fold_2
+class_6_carvin_plexiglass_1_1.wav,pull off,6,5,hammer on,fold_2
+class_0_rwg_plexiglass_3.wav,alternate picking,0,0,alternate picking,fold_2
+class_4_rwg_plexiglass_1_1.wav,vibrato,4,4,vibrato,fold_2
+class_8_palm-bay_plexiglass_1_2.wav,bend,8,8,bend,fold_2
+class_6_palm-bay_sl100_1_1.wav,pull off,6,5,hammer on,fold_2
+class_0_carvin_dc-modern_1_2.wav,alternate picking,0,0,alternate picking,fold_2
+class_1_palm-bay_plexiglass_2_1.wav,legato,1,1,legato,fold_2
+class_0_carvin_plexiglass_1_2.wav,alternate picking,0,0,alternate picking,fold_2
+class_2_carvin_dc-modern_1_1.wav,tapping,2,7,slide,fold_2
+class_4_palm-bay_sl100_1_1.wav,vibrato,4,6,pull off,fold_2
+class_4_carvin_sl100_1_1.wav,vibrato,4,6,pull off,fold_2
+class_8_palm-bay_sl100_1_2.wav,bend,8,8,bend,fold_2
+class_0_rwg_plexiglass_1_2.wav,alternate picking,0,0,alternate picking,fold_2
+class_2_palm-bay_dc-modern_1_1.wav,tapping,2,1,legato,fold_2
+class_7_rwg_plexiglass_1_5.wav,slide,7,7,slide,fold_2
+class_8_carvin_sl100_1_2.wav,bend,8,8,bend,fold_2
+class_7_carvin_dc-modern_1_5.wav,slide,7,7,slide,fold_2
+class_0_carvin_sl100_1_2.wav,alternate picking,0,0,alternate picking,fold_2
+class_8_carvin_dc-modern_1_2.wav,bend,8,8,bend,fold_2
+class_0_rwg_dc-modern_1_2.wav,alternate picking,0,0,alternate picking,fold_2
+class_2_carvin_sl100_2_2.wav,tapping,2,1,legato,fold_2
+class_0_carvin_plexiglass_3.wav,alternate picking,0,0,alternate picking,fold_2
+class_1_carvin_dc-modern_2_1.wav,legato,1,1,legato,fold_2
+class_4_carvin_plexiglass_1_1.wav,vibrato,4,4,vibrato,fold_2
+class_0_palm-bay_plexiglass_3.wav,alternate picking,0,0,alternate picking,fold_2
+class_1_carvin_sl100_2_1.wav,legato,1,2,tapping,fold_2
+class_8_palm-bay_dc-modern_1_2.wav,bend,8,8,bend,fold_2
+class_4_rwg_dc-modern_1_1.wav,vibrato,4,4,vibrato,fold_2
+class_5_rwg_plexiglass_1_2.wav,hammer on,5,6,pull off,fold_2
+class_2_palm-bay_dc-modern_2_2.wav,tapping,2,0,alternate picking,fold_2
+class_2_rwg_sl100_1_1.wav,tapping,2,2,tapping,fold_2
+class_1_palm-bay_dc-modern_2_1.wav,legato,1,1,legato,fold_2
+class_5_palm-bay_dc-modern_1_2.wav,hammer on,5,6,pull off,fold_2
+class_2_rwg_plexiglass_1_1.wav,tapping,2,1,legato,fold_2
+class_1_rwg_dc-modern_2_1.wav,legato,1,1,legato,fold_2
+class_3_palm-bay_dc-modern_1_2.wav,sweep picking,3,3,sweep picking,fold_2
+class_1_carvin_sl100_3_2.wav,legato,1,1,legato,fold_2
+class_7_rwg_sl100_1_5.wav,slide,7,7,slide,fold_2
+class_2_carvin_plexiglass_1_1.wav,tapping,2,1,legato,fold_2
+class_2_carvin_dc-modern_2_2.wav,tapping,2,2,tapping,fold_2
+class_1_carvin_plexiglass_2_1.wav,legato,1,3,sweep picking,fold_2
+class_3_palm-bay_plexiglass_1_2.wav,sweep picking,3,3,sweep picking,fold_2
+class_2_rwg_sl100_2_2.wav,tapping,2,2,tapping,fold_2
+class_6_carvin_dc-modern_1_1.wav,pull off,6,5,hammer on,fold_2
+class_3_palm-bay_sl100_1_2.wav,sweep picking,3,3,sweep picking,fold_2
+class_5_carvin_sl100_1_2.wav,hammer on,5,6,pull off,fold_2
+class_2_palm-bay_plexiglass_1_1.wav,tapping,2,2,tapping,fold_2
+class_1_rwg_plexiglass_3_2.wav,legato,1,1,legato,fold_2
+class_5_carvin_plexiglass_1_2.wav,hammer on,5,6,pull off,fold_2
+class_7_palm-bay_sl100_1_5.wav,slide,7,7,slide,fold_2
+class_6_carvin_sl100_1_1.wav,pull off,6,5,hammer on,fold_2
+class_6_palm-bay_plexiglass_1_1.wav,pull off,6,5,hammer on,fold_2
+class_0_carvin_dc-modern_3.wav,alternate picking,0,0,alternate picking,fold_2
+class_2_rwg_plexiglass_2_2.wav,tapping,2,1,legato,fold_2
+class_1_rwg_plexiglass_2_1.wav,legato,1,1,legato,fold_2
+class_1_rwg_dc-modern_3_2.wav,legato,1,1,legato,fold_2
+class_5_palm-bay_plexiglass_1_2.wav,hammer on,5,6,pull off,fold_2
+class_7_rwg_dc-modern_1_5.wav,slide,7,7,slide,fold_2
+class_1_palm-bay_sl100_3_2.wav,legato,1,1,legato,fold_2
+class_1_rwg_sl100_3_2.wav,legato,1,2,tapping,fold_2
+class_0_carvin_sl100_3.wav,alternate picking,0,0,alternate picking,fold_2
+class_2_palm-bay_sl100_1_1.wav,tapping,2,1,legato,fold_2
+class_8_carvin_plexiglass_1_2.wav,bend,8,8,bend,fold_2
+class_3_carvin_plexiglass_1_2.wav,sweep picking,3,3,sweep picking,fold_2
+class_1_carvin_dc-modern_3_2.wav,legato,1,1,legato,fold_2
+class_2_palm-bay_plexiglass_2_2.wav,tapping,2,2,tapping,fold_2
+class_8_rwg_sl100_1_2.wav,bend,8,8,bend,fold_2
+class_1_rwg_sl100_2_1.wav,legato,1,1,legato,fold_2
+class_3_rwg_plexiglass_1_2.wav,sweep picking,3,3,sweep picking,fold_2
+class_1_carvin_sl100_3_1.wav,legato,1,1,legato,fold_3
+class_6_palm-bay_sl100_1_3.wav,pull off,6,5,hammer on,fold_3
+class_3_palm-bay_plexiglass_1_1.wav,sweep picking,3,3,sweep picking,fold_3
+class_1_carvin_plexiglass_3_1.wav,legato,1,2,tapping,fold_3
+class_3_rwg_dc-modern_1_1.wav,sweep picking,3,3,sweep picking,fold_3
+class_5_carvin_plexiglass_1_4.wav,hammer on,5,6,pull off,fold_3
+class_6_carvin_sl100_1_3.wav,pull off,6,5,hammer on,fold_3
+class_7_rwg_dc-modern_1_2.wav,slide,7,7,slide,fold_3
+class_3_carvin_sl100_1_1.wav,sweep picking,3,3,sweep picking,fold_3
+class_4_palm-bay_dc-modern_1_2.wav,vibrato,4,5,hammer on,fold_3
+class_2_carvin_sl100_2_3.wav,tapping,2,2,tapping,fold_3
+class_0_rwg_plexiglass_3_2.wav,alternate picking,0,0,alternate picking,fold_3
+class_8_carvin_sl100_1_5.wav,bend,8,8,bend,fold_3
+class_1_rwg_plexiglass_1_2.wav,legato,1,1,legato,fold_3
+class_5_palm-bay_sl100_1_4.wav,hammer on,5,6,pull off,fold_3
+class_1_carvin_plexiglass_1_2.wav,legato,1,1,legato,fold_3
+class_5_rwg_dc-modern_1_4.wav,hammer on,5,6,pull off,fold_3
+class_4_palm-bay_plexiglass_1_2.wav,vibrato,4,4,vibrato,fold_3
+class_1_carvin_dc-modern_1_2.wav,legato,1,1,legato,fold_3
+class_1_rwg_sl100_3_1.wav,legato,1,1,legato,fold_3
+class_6_carvin_plexiglass_1_3.wav,pull off,6,5,hammer on,fold_3
+class_1_rwg_sl100_1_2.wav,legato,1,1,legato,fold_3
+class_2_carvin_dc-modern_2_3.wav,tapping,2,2,tapping,fold_3
+class_5_carvin_dc-modern_1_4.wav,hammer on,5,6,pull off,fold_3
+class_1_palm-bay_plexiglass_1_2.wav,legato,1,0,alternate picking,fold_3
+class_2_carvin_plexiglass_3_3.wav,tapping,2,2,tapping,fold_3
+class_1_palm-bay_dc-modern_3_1.wav,legato,1,1,legato,fold_3
+class_2_rwg_sl100_2_3.wav,tapping,2,2,tapping,fold_3
+class_1_palm-bay_dc-modern_1_2.wav,legato,1,2,tapping,fold_3
+class_7_palm-bay_plexiglass_1_2.wav,slide,7,2,tapping,fold_3
+class_2_carvin_dc-modern_3_3.wav,tapping,2,2,tapping,fold_3
+class_7_palm-bay_sl100_1_2.wav,slide,7,5,hammer on,fold_3
+class_1_palm-bay_sl100_1_2.wav,legato,1,1,legato,fold_3
+class_3_carvin_plexiglass_1_1.wav,sweep picking,3,2,tapping,fold_3
+class_4_rwg_plexiglass_1_2.wav,vibrato,4,5,hammer on,fold_3
+class_0_rwg_plexiglass_2_1.wav,alternate picking,0,0,alternate picking,fold_3
+class_2_rwg_dc-modern_2_3.wav,tapping,2,2,tapping,fold_3
+class_0_rwg_dc-modern_2_1.wav,alternate picking,0,0,alternate picking,fold_3
+class_0_palm-bay_sl100_2_1.wav,alternate picking,0,0,alternate picking,fold_3
+class_1_palm-bay_plexiglass_3_1.wav,legato,1,1,legato,fold_3
+class_8_palm-bay_plexiglass_1_5.wav,bend,8,8,bend,fold_3
+class_3_carvin_dc-modern_1_1.wav,sweep picking,3,3,sweep picking,fold_3
+class_0_palm-bay_plexiglass_3_2.wav,alternate picking,0,0,alternate picking,fold_3
+class_0_palm-bay_dc-modern_2_1.wav,alternate picking,0,0,alternate picking,fold_3
+class_2_palm-bay_dc-modern_2_3.wav,tapping,2,2,tapping,fold_3
+class_8_palm-bay_sl100_1_5.wav,bend,8,8,bend,fold_3
+class_5_carvin_sl100_1_4.wav,hammer on,5,6,pull off,fold_3
+class_6_palm-bay_dc-modern_1_3.wav,pull off,6,5,hammer on,fold_3
+class_0_carvin_sl100_3_2.wav,alternate picking,0,0,alternate picking,fold_3
+class_6_rwg_plexiglass_1_3.wav,pull off,6,5,hammer on,fold_3
+class_7_rwg_sl100_1_2.wav,slide,7,5,hammer on,fold_3
+class_6_carvin_dc-modern_1_3.wav,pull off,6,5,hammer on,fold_3
+class_3_rwg_plexiglass_1_1.wav,sweep picking,3,3,sweep picking,fold_3
+class_4_carvin_plexiglass_1_2.wav,vibrato,4,4,vibrato,fold_3
+class_8_palm-bay_dc-modern_1_5.wav,bend,8,8,bend,fold_3
+class_2_rwg_plexiglass_2_3.wav,tapping,2,2,tapping,fold_3
+class_6_palm-bay_plexiglass_1_3.wav,pull off,6,5,hammer on,fold_3
+class_8_rwg_plexiglass_1_5.wav,bend,8,8,bend,fold_3
+class_0_rwg_sl100_3_2.wav,alternate picking,0,0,alternate picking,fold_3
+class_0_carvin_dc-modern_2_1.wav,alternate picking,0,0,alternate picking,fold_3
+class_0_palm-bay_dc-modern_3_2.wav,alternate picking,0,0,alternate picking,fold_3
+class_7_rwg_plexiglass_1_2.wav,slide,7,7,slide,fold_3
+class_7_palm-bay_dc-modern_1_2.wav,slide,7,7,slide,fold_3
+class_8_carvin_dc-modern_1_5.wav,bend,8,8,bend,fold_3
+class_4_palm-bay_sl100_1_2.wav,vibrato,4,4,vibrato,fold_3
+class_5_rwg_plexiglass_1_4.wav,hammer on,5,6,pull off,fold_3
+class_4_carvin_sl100_1_2.wav,vibrato,4,5,hammer on,fold_3
+class_1_rwg_plexiglass_3_1.wav,legato,1,1,legato,fold_3
+class_1_palm-bay_sl100_3_1.wav,legato,1,1,legato,fold_3
+class_1_carvin_sl100_1_2.wav,legato,1,1,legato,fold_3
+class_0_palm-bay_sl100_3_2.wav,alternate picking,0,0,alternate picking,fold_3
+class_5_rwg_sl100_1_4.wav,hammer on,5,6,pull off,fold_3
+class_8_rwg_sl100_1_5.wav,bend,8,8,bend,fold_3
+class_2_palm-bay_plexiglass_3_3.wav,tapping,2,2,tapping,fold_3
+class_1_rwg_dc-modern_1_2.wav,legato,1,2,tapping,fold_3
+class_2_carvin_plexiglass_2_3.wav,tapping,2,2,tapping,fold_3
+class_2_palm-bay_plexiglass_2_3.wav,tapping,2,2,tapping,fold_3
+class_2_rwg_dc-modern_3_3.wav,tapping,2,2,tapping,fold_3
+class_4_rwg_sl100_1_2.wav,vibrato,4,4,vibrato,fold_3
+class_8_rwg_dc-modern_1_5.wav,bend,8,8,bend,fold_3
+class_2_rwg_sl100_3_3.wav,tapping,2,2,tapping,fold_3
+class_0_carvin_plexiglass_3_2.wav,alternate picking,0,0,alternate picking,fold_3
+class_7_carvin_sl100_1_2.wav,slide,7,5,hammer on,fold_3
+class_0_rwg_sl100_2_1.wav,alternate picking,0,0,alternate picking,fold_3
+class_5_palm-bay_plexiglass_1_4.wav,hammer on,5,6,pull off,fold_3
+class_0_rwg_dc-modern_3_2.wav,alternate picking,0,0,alternate picking,fold_3
+class_5_palm-bay_dc-modern_1_4.wav,hammer on,5,6,pull off,fold_3
+class_0_palm-bay_plexiglass_2_1.wav,alternate picking,0,0,alternate picking,fold_3
+class_0_carvin_plexiglass_2_1.wav,alternate picking,0,0,alternate picking,fold_3
+class_4_carvin_dc-modern_1_2.wav,vibrato,4,4,vibrato,fold_3
+class_2_palm-bay_sl100_2_3.wav,tapping,2,2,tapping,fold_3
+class_0_carvin_sl100_2_1.wav,alternate picking,0,0,alternate picking,fold_3
+class_2_palm-bay_sl100_3_3.wav,tapping,2,2,tapping,fold_3
+class_4_rwg_dc-modern_1_2.wav,vibrato,4,4,vibrato,fold_3
+class_2_palm-bay_dc-modern_3_3.wav,tapping,2,2,tapping,fold_3
+class_2_rwg_plexiglass_3_3.wav,tapping,2,2,tapping,fold_3
+class_0_carvin_dc-modern_3_2.wav,alternate picking,0,0,alternate picking,fold_3
+class_6_rwg_dc-modern_1_3.wav,pull off,6,5,hammer on,fold_3
+class_1_carvin_dc-modern_3_1.wav,legato,1,1,legato,fold_3
+class_7_carvin_dc-modern_1_2.wav,slide,7,2,tapping,fold_3
+class_7_carvin_plexiglass_1_2.wav,slide,7,2,tapping,fold_3
+class_3_palm-bay_dc-modern_1_1.wav,sweep picking,3,3,sweep picking,fold_3
+class_1_rwg_dc-modern_3_1.wav,legato,1,1,legato,fold_3
+class_3_rwg_sl100_1_1.wav,sweep picking,3,2,tapping,fold_3
+class_6_rwg_sl100_1_3.wav,pull off,6,6,pull off,fold_3
+class_8_carvin_plexiglass_1_5.wav,bend,8,8,bend,fold_3
+class_3_palm-bay_sl100_1_1.wav,sweep picking,3,3,sweep picking,fold_3
+class_2_carvin_sl100_3_3.wav,tapping,2,2,tapping,fold_3
+class_5_carvin_sl100_1_5.wav,hammer on,5,4,vibrato,fold_4
+class_5_palm-bay_dc-modern_1_5.wav,hammer on,5,6,pull off,fold_4
+class_3_carvin_sl100_1_3.wav,sweep picking,3,3,sweep picking,fold_4
+class_4_carvin_dc-modern_1_3.wav,vibrato,4,4,vibrato,fold_4
+class_2_carvin_sl100_2_1.wav,tapping,2,2,tapping,fold_4
+class_2_carvin_sl100_2_3.wav,tapping,2,2,tapping,fold_4
+class_0_carvin_plexiglass_1_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_1_carvin_dc-modern_2_3.wav,legato,1,1,legato,fold_4
+class_6_palm-bay_dc-modern_1_4.wav,pull off,6,5,hammer on,fold_4
+class_7_palm-bay_sl100_1_6.wav,slide,7,5,hammer on,fold_4
+class_8_carvin_dc-modern_1_3.wav,bend,8,8,bend,fold_4
+class_4_palm-bay_sl100_1_3.wav,vibrato,4,4,vibrato,fold_4
+class_6_rwg_plexiglass_1_4.wav,pull off,6,1,legato,fold_4
+class_2_carvin_dc-modern_2_3.wav,tapping,2,2,tapping,fold_4
+class_2_carvin_plexiglass_2_1.wav,tapping,2,2,tapping,fold_4
+class_8_carvin_sl100_1_3.wav,bend,8,8,bend,fold_4
+class_5_carvin_plexiglass_1_5.wav,hammer on,5,4,vibrato,fold_4
+class_7_carvin_sl100_1_6.wav,slide,7,5,hammer on,fold_4
+class_5_palm-bay_sl100_1_5.wav,hammer on,5,6,pull off,fold_4
+class_3_rwg_plexiglass_1_3.wav,sweep picking,3,3,sweep picking,fold_4
+class_1_palm-bay_plexiglass_2_2.wav,legato,1,1,legato,fold_4
+class_2_rwg_sl100_2_3.wav,tapping,2,2,tapping,fold_4
+class_0_rwg_dc-modern_1_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_1_carvin_sl100_2_2.wav,legato,1,2,tapping,fold_4
+class_0_palm-bay_sl100_1_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_6_carvin_plexiglass_1_4.wav,pull off,6,5,hammer on,fold_4
+class_1_palm-bay_sl100_2_3.wav,legato,1,1,legato,fold_4
+class_6_rwg_dc-modern_1_4.wav,pull off,6,5,hammer on,fold_4
+class_4_carvin_sl100_1_3.wav,vibrato,4,5,hammer on,fold_4
+class_0_rwg_plexiglass_2_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_8_rwg_dc-modern_1_3.wav,bend,8,8,bend,fold_4
+class_3_palm-bay_sl100_1_3.wav,sweep picking,3,3,sweep picking,fold_4
+class_6_carvin_dc-modern_1_4.wav,pull off,6,5,hammer on,fold_4
+class_4_palm-bay_dc-modern_1_3.wav,vibrato,4,5,hammer on,fold_4
+class_1_rwg_sl100_2_2.wav,legato,1,1,legato,fold_4
+class_8_palm-bay_dc-modern_1_3.wav,bend,8,8,bend,fold_4
+class_0_carvin_dc-modern_1_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_4_rwg_plexiglass_1_3.wav,vibrato,4,4,vibrato,fold_4
+class_0_carvin_sl100_1_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_2_rwg_sl100_2_1.wav,tapping,2,2,tapping,fold_4
+class_2_rwg_dc-modern_2_3.wav,tapping,2,2,tapping,fold_4
+class_0_rwg_dc-modern_2_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_5_rwg_dc-modern_1_5.wav,hammer on,5,6,pull off,fold_4
+class_5_rwg_sl100_1_5.wav,hammer on,5,6,pull off,fold_4
+class_8_carvin_plexiglass_1_3.wav,bend,8,8,bend,fold_4
+class_1_rwg_dc-modern_2_2.wav,legato,1,1,legato,fold_4
+class_0_palm-bay_sl100_2_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_3_carvin_dc-modern_1_3.wav,sweep picking,3,2,tapping,fold_4
+class_8_rwg_plexiglass_1_3.wav,bend,8,8,bend,fold_4
+class_0_rwg_plexiglass_1_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_0_palm-bay_dc-modern_2_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_2_palm-bay_dc-modern_2_3.wav,tapping,2,2,tapping,fold_4
+class_3_palm-bay_dc-modern_1_3.wav,sweep picking,3,3,sweep picking,fold_4
+class_3_rwg_sl100_1_3.wav,sweep picking,3,3,sweep picking,fold_4
+class_3_palm-bay_plexiglass_1_3.wav,sweep picking,3,3,sweep picking,fold_4
+class_2_palm-bay_dc-modern_2_1.wav,tapping,2,1,legato,fold_4
+class_7_rwg_plexiglass_1_6.wav,slide,7,5,hammer on,fold_4
+class_2_rwg_plexiglass_2_3.wav,tapping,2,1,legato,fold_4
+class_0_carvin_dc-modern_2_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_1_rwg_dc-modern_2_3.wav,legato,1,1,legato,fold_4
+class_6_palm-bay_plexiglass_1_4.wav,pull off,6,5,hammer on,fold_4
+class_8_palm-bay_plexiglass_1_3.wav,bend,8,8,bend,fold_4
+class_3_carvin_plexiglass_1_3.wav,sweep picking,3,3,sweep picking,fold_4
+class_8_palm-bay_sl100_1_3.wav,bend,8,8,bend,fold_4
+class_6_carvin_sl100_1_4.wav,pull off,6,5,hammer on,fold_4
+class_5_rwg_plexiglass_1_5.wav,hammer on,5,6,pull off,fold_4
+class_1_carvin_dc-modern_2_2.wav,legato,1,2,tapping,fold_4
+class_4_palm-bay_plexiglass_1_3.wav,vibrato,4,4,vibrato,fold_4
+class_1_rwg_plexiglass_2_2.wav,legato,1,1,legato,fold_4
+class_1_carvin_plexiglass_2_3.wav,legato,1,1,legato,fold_4
+class_7_palm-bay_dc-modern_1_6.wav,slide,7,7,slide,fold_4
+class_0_rwg_sl100_1_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_7_palm-bay_plexiglass_1_6.wav,slide,7,7,slide,fold_4
+class_5_carvin_dc-modern_1_5.wav,hammer on,5,6,pull off,fold_4
+class_7_carvin_dc-modern_1_6.wav,slide,7,5,hammer on,fold_4
+class_6_palm-bay_sl100_1_4.wav,pull off,6,5,hammer on,fold_4
+class_1_palm-bay_dc-modern_2_3.wav,legato,1,1,legato,fold_4
+class_2_carvin_plexiglass_2_3.wav,tapping,2,2,tapping,fold_4
+class_2_palm-bay_plexiglass_2_3.wav,tapping,2,2,tapping,fold_4
+class_4_carvin_plexiglass_1_3.wav,vibrato,4,4,vibrato,fold_4
+class_2_rwg_plexiglass_2_1.wav,tapping,2,2,tapping,fold_4
+class_1_palm-bay_dc-modern_2_2.wav,legato,1,2,tapping,fold_4
+class_1_palm-bay_sl100_2_2.wav,legato,1,1,legato,fold_4
+class_1_palm-bay_plexiglass_2_3.wav,legato,1,1,legato,fold_4
+class_0_rwg_sl100_2_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_3_rwg_dc-modern_1_3.wav,sweep picking,3,6,pull off,fold_4
+class_4_rwg_sl100_1_3.wav,vibrato,4,4,vibrato,fold_4
+class_1_rwg_plexiglass_2_3.wav,legato,1,0,alternate picking,fold_4
+class_0_palm-bay_plexiglass_2_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_0_carvin_plexiglass_2_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_2_palm-bay_sl100_2_3.wav,tapping,2,2,tapping,fold_4
+class_0_carvin_sl100_2_1.wav,alternate picking,0,1,legato,fold_4
+class_4_rwg_dc-modern_1_3.wav,vibrato,4,4,vibrato,fold_4
+class_7_rwg_sl100_1_6.wav,slide,7,5,hammer on,fold_4
+class_0_palm-bay_dc-modern_1_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_8_rwg_sl100_1_3.wav,bend,8,8,bend,fold_4
+class_7_rwg_dc-modern_1_6.wav,slide,7,5,hammer on,fold_4
+class_1_carvin_plexiglass_2_2.wav,legato,1,1,legato,fold_4
+class_7_carvin_plexiglass_1_6.wav,slide,7,7,slide,fold_4
+class_2_palm-bay_sl100_2_1.wav,tapping,2,2,tapping,fold_4
+class_2_palm-bay_plexiglass_2_1.wav,tapping,2,2,tapping,fold_4
+class_0_palm-bay_plexiglass_1_1.wav,alternate picking,0,0,alternate picking,fold_4
+class_5_palm-bay_plexiglass_1_5.wav,hammer on,5,6,pull off,fold_4
+class_6_rwg_sl100_1_4.wav,pull off,6,5,hammer on,fold_4
+class_2_rwg_dc-modern_2_1.wav,tapping,2,1,legato,fold_4
+class_1_rwg_sl100_2_3.wav,legato,1,1,legato,fold_4
+class_1_carvin_sl100_2_3.wav,legato,1,2,tapping,fold_4
+class_2_carvin_dc-modern_2_1.wav,tapping,2,2,tapping,fold_4

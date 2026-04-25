@@ -1,0 +1,9 @@
+{
+  "schema": "amplifiers",
+  "num_folds": 3,
+  "accuracy_mean": 0.9162112932604737,
+  "accuracy_std": 0.048943638770653566,
+  "f1_macro_mean": 0.9121549304969162,
+  "f1_macro_std": 0.05117884646873029,
+  "cnn_replication": true
+}

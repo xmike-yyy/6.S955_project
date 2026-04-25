@@ -1,0 +1,9 @@
+{
+  "schema": "folds",
+  "num_folds": 5,
+  "accuracy_mean": 0.8592592592592594,
+  "accuracy_std": 0.023715274953454994,
+  "f1_macro_mean": 0.8492356640939895,
+  "f1_macro_std": 0.03661659669827141,
+  "cnn_replication": true
+}

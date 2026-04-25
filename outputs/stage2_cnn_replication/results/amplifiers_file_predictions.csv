@@ -1,0 +1,550 @@
+fold,file_name,class_name,label,pred_label,pred_class,num_segments,vote_count,mean_confidence
+dc-modern,class_0_carvin_dc-modern_1.wav,alternate picking,0,0,alternate picking,5,5,1.0
+dc-modern,class_0_carvin_dc-modern_1_1.wav,alternate picking,0,0,alternate picking,4,4,1.0
+dc-modern,class_0_carvin_dc-modern_1_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_carvin_dc-modern_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_carvin_dc-modern_2_1.wav,alternate picking,0,0,alternate picking,4,4,1.0
+dc-modern,class_0_carvin_dc-modern_2_2.wav,alternate picking,0,0,alternate picking,4,4,1.0
+dc-modern,class_0_carvin_dc-modern_3.wav,alternate picking,0,0,alternate picking,19,19,0.9999994039535522
+dc-modern,class_0_carvin_dc-modern_3_1.wav,alternate picking,0,0,alternate picking,21,21,1.0
+dc-modern,class_0_carvin_dc-modern_3_2.wav,alternate picking,0,0,alternate picking,20,20,1.0
+dc-modern,class_0_palm-bay_dc-modern_1_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_palm-bay_dc-modern_1_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_palm-bay_dc-modern_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_palm-bay_dc-modern_2_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_palm-bay_dc-modern_2_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_palm-bay_dc-modern_3.wav,alternate picking,0,0,alternate picking,10,10,0.99998939037323
+dc-modern,class_0_palm-bay_dc-modern_3_1.wav,alternate picking,0,0,alternate picking,9,9,1.0
+dc-modern,class_0_palm-bay_dc-modern_3_2.wav,alternate picking,0,0,alternate picking,9,9,1.0
+dc-modern,class_0_rwg_dc-modern_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_palm-bay_dc-modern_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_rwg_dc-modern_1_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_rwg_dc-modern_1_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_rwg_dc-modern_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_rwg_dc-modern_2_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_rwg_dc-modern_2_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+dc-modern,class_0_rwg_dc-modern_3.wav,alternate picking,0,0,alternate picking,10,10,1.0
+dc-modern,class_0_rwg_dc-modern_3_1.wav,alternate picking,0,0,alternate picking,10,10,1.0
+dc-modern,class_0_rwg_dc-modern_3_2.wav,alternate picking,0,0,alternate picking,10,10,0.9999992251396179
+dc-modern,class_8_carvin_dc-modern_1_1.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_carvin_dc-modern_1_2.wav,bend,8,8,bend,2,2,1.0
+dc-modern,class_8_carvin_dc-modern_1_3.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_carvin_dc-modern_1_4.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_carvin_dc-modern_1_5.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_carvin_dc-modern_1_6.wav,bend,8,8,bend,3,3,0.9999866485595703
+dc-modern,class_8_palm-bay_dc-modern_1_1.wav,bend,8,8,bend,3,3,0.8526255488395691
+dc-modern,class_8_palm-bay_dc-modern_1_2.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_palm-bay_dc-modern_1_3.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_palm-bay_dc-modern_1_4.wav,bend,8,8,bend,3,3,0.9999887347221375
+dc-modern,class_8_palm-bay_dc-modern_1_5.wav,bend,8,8,bend,3,3,0.9999659657478333
+dc-modern,class_8_palm-bay_dc-modern_1_6.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_rwg_dc-modern_1_1.wav,bend,8,8,bend,2,2,1.0
+dc-modern,class_8_rwg_dc-modern_1_2.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_rwg_dc-modern_1_3.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_rwg_dc-modern_1_4.wav,bend,8,8,bend,2,2,1.0
+dc-modern,class_8_rwg_dc-modern_1_5.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_8_rwg_dc-modern_1_6.wav,bend,8,8,bend,3,3,1.0
+dc-modern,class_5_carvin_dc-modern_1_1.wav,hammer on,5,5,hammer on,31,15,0.5029801726341248
+dc-modern,class_5_carvin_dc-modern_1_2.wav,hammer on,5,5,hammer on,31,25,0.7861225008964539
+dc-modern,class_5_carvin_dc-modern_1_3.wav,hammer on,5,5,hammer on,31,30,0.9692830443382263
+dc-modern,class_5_carvin_dc-modern_1_4.wav,hammer on,5,5,hammer on,31,31,0.9938305616378784
+dc-modern,class_5_carvin_dc-modern_1_5.wav,hammer on,5,5,hammer on,30,30,0.994286298751831
+dc-modern,class_5_carvin_dc-modern_1_6.wav,hammer on,5,5,hammer on,30,28,0.9514264464378357
+dc-modern,class_5_palm-bay_dc-modern_1_1.wav,hammer on,5,7,slide,19,13,0.6822611093521118
+dc-modern,class_5_palm-bay_dc-modern_1_2.wav,hammer on,5,7,slide,18,9,0.43446335196495056
+dc-modern,class_5_palm-bay_dc-modern_1_3.wav,hammer on,5,5,hammer on,18,14,0.7802823781967163
+dc-modern,class_5_palm-bay_dc-modern_1_4.wav,hammer on,5,5,hammer on,21,20,0.9131991863250732
+dc-modern,class_5_palm-bay_dc-modern_1_5.wav,hammer on,5,5,hammer on,17,13,0.7684016823768616
+dc-modern,class_5_palm-bay_dc-modern_1_6.wav,hammer on,5,5,hammer on,39,39,0.9969743490219116
+dc-modern,class_5_rwg_dc-modern_1_1.wav,hammer on,5,5,hammer on,23,23,0.9723413586616516
+dc-modern,class_5_rwg_dc-modern_1_2.wav,hammer on,5,5,hammer on,33,33,0.9993500113487244
+dc-modern,class_5_rwg_dc-modern_1_3.wav,hammer on,5,5,hammer on,30,30,0.9997532367706299
+dc-modern,class_5_rwg_dc-modern_1_4.wav,hammer on,5,6,pull off,19,14,0.6625461578369141
+dc-modern,class_5_rwg_dc-modern_1_5.wav,hammer on,5,6,pull off,19,15,0.7367405295372009
+dc-modern,class_5_rwg_dc-modern_1_6.wav,hammer on,5,6,pull off,19,10,0.48126721382141113
+dc-modern,class_1_carvin_dc-modern_1_1.wav,legato,1,1,legato,3,3,0.7627232074737549
+dc-modern,class_1_carvin_dc-modern_1_2.wav,legato,1,1,legato,3,2,0.6489424109458923
+dc-modern,class_1_carvin_dc-modern_1_3.wav,legato,1,1,legato,3,2,0.37416473031044006
+dc-modern,class_1_carvin_dc-modern_2_1.wav,legato,1,0,alternate picking,3,2,0.4142564833164215
+dc-modern,class_1_carvin_dc-modern_2_2.wav,legato,1,7,slide,4,2,0.529116690158844
+dc-modern,class_1_carvin_dc-modern_2_3.wav,legato,1,2,tapping,3,2,0.39800670742988586
+dc-modern,class_1_carvin_dc-modern_3_1.wav,legato,1,1,legato,10,7,0.6356920003890991
+dc-modern,class_1_carvin_dc-modern_3_2.wav,legato,1,1,legato,9,7,0.7779313325881958
+dc-modern,class_1_carvin_dc-modern_3_3.wav,legato,1,1,legato,9,6,0.5768980383872986
+dc-modern,class_1_palm-bay_dc-modern_1_1.wav,legato,1,1,legato,3,1,0.3677985966205597
+dc-modern,class_1_palm-bay_dc-modern_1_2.wav,legato,1,1,legato,3,2,0.6595712304115295
+dc-modern,class_1_palm-bay_dc-modern_1_3.wav,legato,1,1,legato,3,3,0.9009465575218201
+dc-modern,class_1_palm-bay_dc-modern_2_1.wav,legato,1,2,tapping,3,1,0.43069231510162354
+dc-modern,class_1_rwg_dc-modern_3_3.wav,legato,1,1,legato,8,7,0.7799326181411743
+dc-modern,class_1_palm-bay_dc-modern_2_2.wav,legato,1,7,slide,3,2,0.46475228667259216
+dc-modern,class_1_palm-bay_dc-modern_2_3.wav,legato,1,1,legato,3,2,0.503180980682373
+dc-modern,class_1_palm-bay_dc-modern_3_1.wav,legato,1,1,legato,8,7,0.8288953900337219
+dc-modern,class_1_palm-bay_dc-modern_3_2.wav,legato,1,2,tapping,8,4,0.55086749792099
+dc-modern,class_1_palm-bay_dc-modern_3_3.wav,legato,1,1,legato,8,7,0.7206359505653381
+dc-modern,class_1_rwg_dc-modern_1_1.wav,legato,1,2,tapping,3,2,0.3920785188674927
+dc-modern,class_1_rwg_dc-modern_1_2.wav,legato,1,1,legato,3,3,0.8467469811439514
+dc-modern,class_1_rwg_dc-modern_1_3.wav,legato,1,1,legato,3,3,0.8975099921226501
+dc-modern,class_1_rwg_dc-modern_2_1.wav,legato,1,1,legato,2,1,0.5861433744430542
+dc-modern,class_1_rwg_dc-modern_2_2.wav,legato,1,1,legato,2,1,0.5350164771080017
+dc-modern,class_1_rwg_dc-modern_2_3.wav,legato,1,1,legato,2,1,0.5849562883377075
+dc-modern,class_1_rwg_dc-modern_3_1.wav,legato,1,1,legato,10,5,0.5321961641311646
+dc-modern,class_1_rwg_dc-modern_3_2.wav,legato,1,1,legato,8,6,0.6444564461708069
+dc-modern,class_6_carvin_dc-modern_1_1.wav,pull off,6,6,pull off,21,16,0.7538418769836426
+dc-modern,class_6_carvin_dc-modern_1_2.wav,pull off,6,6,pull off,31,22,0.6974607706069946
+dc-modern,class_6_carvin_dc-modern_1_3.wav,pull off,6,5,hammer on,31,17,0.5662388801574707
+dc-modern,class_6_carvin_dc-modern_1_4.wav,pull off,6,5,hammer on,31,17,0.5728543996810913
+dc-modern,class_6_carvin_dc-modern_1_5.wav,pull off,6,6,pull off,23,16,0.5883955359458923
+dc-modern,class_6_carvin_dc-modern_1_6.wav,pull off,6,6,pull off,23,12,0.5152550339698792
+dc-modern,class_6_palm-bay_dc-modern_1_1.wav,pull off,6,7,slide,17,16,0.9507107734680176
+dc-modern,class_6_palm-bay_dc-modern_1_2.wav,pull off,6,6,pull off,21,10,0.4767839014530182
+dc-modern,class_6_palm-bay_dc-modern_1_3.wav,pull off,6,5,hammer on,20,12,0.6061512231826782
+dc-modern,class_6_palm-bay_dc-modern_1_4.wav,pull off,6,6,pull off,19,12,0.526155948638916
+dc-modern,class_6_palm-bay_dc-modern_1_5.wav,pull off,6,5,hammer on,18,12,0.5916374325752258
+dc-modern,class_6_palm-bay_dc-modern_1_6.wav,pull off,6,5,hammer on,16,7,0.46940916776657104
+dc-modern,class_6_rwg_dc-modern_1_1.wav,pull off,6,6,pull off,20,17,0.7431203722953796
+dc-modern,class_6_rwg_dc-modern_1_2.wav,pull off,6,6,pull off,20,19,0.9392757415771484
+dc-modern,class_6_rwg_dc-modern_1_3.wav,pull off,6,6,pull off,20,20,0.9594525098800659
+dc-modern,class_6_rwg_dc-modern_1_4.wav,pull off,6,6,pull off,18,17,0.895700216293335
+dc-modern,class_6_rwg_dc-modern_1_5.wav,pull off,6,6,pull off,19,18,0.900104820728302
+dc-modern,class_6_rwg_dc-modern_1_6.wav,pull off,6,6,pull off,21,18,0.8182437419891357
+dc-modern,class_7_carvin_dc-modern_1_1.wav,slide,7,7,slide,22,22,0.9891276955604553
+dc-modern,class_7_carvin_dc-modern_1_2.wav,slide,7,7,slide,24,23,0.9541559219360352
+dc-modern,class_7_carvin_dc-modern_1_3.wav,slide,7,7,slide,25,24,0.9601876139640808
+dc-modern,class_7_carvin_dc-modern_1_4.wav,slide,7,7,slide,24,24,0.9999501705169678
+dc-modern,class_7_carvin_dc-modern_1_5.wav,slide,7,7,slide,23,23,0.9999998211860657
+dc-modern,class_7_carvin_dc-modern_1_6.wav,slide,7,7,slide,24,24,0.9992106556892395
+dc-modern,class_7_palm-bay_dc-modern_1_1.wav,slide,7,7,slide,22,22,0.9999991059303284
+dc-modern,class_7_palm-bay_dc-modern_1_2.wav,slide,7,7,slide,22,21,0.9581232666969299
+dc-modern,class_7_palm-bay_dc-modern_1_3.wav,slide,7,7,slide,23,23,1.0
+dc-modern,class_7_palm-bay_dc-modern_1_4.wav,slide,7,7,slide,22,22,1.0
+dc-modern,class_7_palm-bay_dc-modern_1_5.wav,slide,7,7,slide,22,22,1.0
+dc-modern,class_7_palm-bay_dc-modern_1_6.wav,slide,7,7,slide,22,22,1.0
+dc-modern,class_7_rwg_dc-modern_1_1.wav,slide,7,7,slide,25,25,0.999909520149231
+dc-modern,class_7_rwg_dc-modern_1_2.wav,slide,7,7,slide,24,24,0.999986469745636
+dc-modern,class_7_rwg_dc-modern_1_3.wav,slide,7,7,slide,22,22,0.9999996423721313
+dc-modern,class_7_rwg_dc-modern_1_4.wav,slide,7,7,slide,22,22,0.9998330473899841
+dc-modern,class_7_rwg_dc-modern_1_5.wav,slide,7,7,slide,22,22,0.9999890923500061
+dc-modern,class_7_rwg_dc-modern_1_6.wav,slide,7,7,slide,21,21,1.0
+dc-modern,class_3_palm-bay_dc-modern_1_2.wav,sweep picking,3,3,sweep picking,4,3,0.6859132051467896
+dc-modern,class_3_carvin_dc-modern_1_1.wav,sweep picking,3,3,sweep picking,3,3,0.9999392032623291
+dc-modern,class_3_carvin_dc-modern_1_2.wav,sweep picking,3,3,sweep picking,3,3,0.9999381899833679
+dc-modern,class_3_carvin_dc-modern_1_3.wav,sweep picking,3,3,sweep picking,3,3,0.9940812587738037
+dc-modern,class_3_carvin_dc-modern_2.wav,sweep picking,3,3,sweep picking,9,8,0.8196727633476257
+dc-modern,class_3_palm-bay_dc-modern_1_1.wav,sweep picking,3,7,slide,4,3,0.5668487548828125
+dc-modern,class_3_palm-bay_dc-modern_1_3.wav,sweep picking,3,3,sweep picking,3,3,0.9133046269416809
+dc-modern,class_3_palm-bay_dc-modern_2.wav,sweep picking,3,3,sweep picking,9,6,0.6839960217475891
+dc-modern,class_3_rwg_dc-modern_1_1.wav,sweep picking,3,3,sweep picking,5,3,0.6270943880081177
+dc-modern,class_3_rwg_dc-modern_1_2.wav,sweep picking,3,3,sweep picking,2,2,0.9701838493347168
+dc-modern,class_3_rwg_dc-modern_1_3.wav,sweep picking,3,3,sweep picking,3,3,0.8257710337638855
+dc-modern,class_3_rwg_dc-modern_2.wav,sweep picking,3,0,alternate picking,10,6,0.4836283326148987
+dc-modern,class_2_carvin_dc-modern_1_1.wav,tapping,2,2,tapping,3,3,0.8540815711021423
+dc-modern,class_2_carvin_dc-modern_1_2.wav,tapping,2,2,tapping,3,3,0.8541156649589539
+dc-modern,class_2_carvin_dc-modern_1_3.wav,tapping,2,2,tapping,3,3,0.7896735072135925
+dc-modern,class_2_carvin_dc-modern_2_1.wav,tapping,2,2,tapping,3,3,0.9344756603240967
+dc-modern,class_2_carvin_dc-modern_2_2.wav,tapping,2,2,tapping,2,2,0.9999926686286926
+dc-modern,class_2_carvin_dc-modern_2_3.wav,tapping,2,2,tapping,3,3,0.7503299117088318
+dc-modern,class_2_carvin_dc-modern_3_1.wav,tapping,2,2,tapping,9,8,0.9404588341712952
+dc-modern,class_2_carvin_dc-modern_3_2.wav,tapping,2,2,tapping,9,9,0.9498171210289001
+dc-modern,class_2_carvin_dc-modern_3_3.wav,tapping,2,2,tapping,9,7,0.8065186142921448
+dc-modern,class_2_palm-bay_dc-modern_1_2.wav,tapping,2,2,tapping,2,2,0.9999374747276306
+dc-modern,class_2_palm-bay_dc-modern_1_3.wav,tapping,2,2,tapping,2,2,0.9999992847442627
+dc-modern,class_2_palm-bay_dc-modern_2_1.wav,tapping,2,2,tapping,2,2,0.9996352195739746
+dc-modern,class_2_palm-bay_dc-modern_2_2.wav,tapping,2,2,tapping,2,2,0.99989914894104
+dc-modern,class_2_palm-bay_dc-modern_2_3.wav,tapping,2,2,tapping,2,2,1.0
+dc-modern,class_2_palm-bay_dc-modern_3_1.wav,tapping,2,2,tapping,8,7,0.8657450675964355
+dc-modern,class_2_palm-bay_dc-modern_3_2.wav,tapping,2,2,tapping,8,8,0.9997624158859253
+dc-modern,class_2_palm-bay_dc-modern_3_3.wav,tapping,2,2,tapping,8,7,0.8047220706939697
+dc-modern,class_2_rwg_dc-modern_1_1.wav,tapping,2,2,tapping,3,3,0.9708368182182312
+dc-modern,class_2_palm-bay_dc-modern_1_1.wav,tapping,2,2,tapping,2,2,0.9733347296714783
+dc-modern,class_2_rwg_dc-modern_1_2.wav,tapping,2,2,tapping,3,3,0.985788106918335
+dc-modern,class_2_rwg_dc-modern_1_3.wav,tapping,2,2,tapping,3,2,0.5058428645133972
+dc-modern,class_2_rwg_dc-modern_2_1.wav,tapping,2,2,tapping,3,1,0.42513248324394226
+dc-modern,class_2_rwg_dc-modern_2_2.wav,tapping,2,2,tapping,2,2,0.995769202709198
+dc-modern,class_2_rwg_dc-modern_2_3.wav,tapping,2,7,slide,3,2,0.6663426160812378
+dc-modern,class_2_rwg_dc-modern_3_1.wav,tapping,2,2,tapping,7,5,0.5967351198196411
+dc-modern,class_2_rwg_dc-modern_3_2.wav,tapping,2,2,tapping,7,4,0.5290130376815796
+dc-modern,class_2_rwg_dc-modern_3_3.wav,tapping,2,2,tapping,7,6,0.7052254676818848
+dc-modern,class_4_carvin_dc-modern_1_1.wav,vibrato,4,4,vibrato,7,5,0.7403531074523926
+dc-modern,class_4_carvin_dc-modern_1_2.wav,vibrato,4,4,vibrato,6,6,0.9999854564666748
+dc-modern,class_4_carvin_dc-modern_1_3.wav,vibrato,4,4,vibrato,6,5,0.8852294087409973
+dc-modern,class_4_carvin_dc-modern_1_4.wav,vibrato,4,4,vibrato,6,4,0.6953725814819336
+dc-modern,class_4_carvin_dc-modern_2.wav,vibrato,4,4,vibrato,6,2,0.39767131209373474
+dc-modern,class_4_carvin_dc-modern_3.wav,vibrato,4,7,slide,5,3,0.6079354286193848
+dc-modern,class_4_palm-bay_dc-modern_1_1.wav,vibrato,4,4,vibrato,12,11,0.9359070658683777
+dc-modern,class_4_palm-bay_dc-modern_1_2.wav,vibrato,4,4,vibrato,12,10,0.8384738564491272
+dc-modern,class_4_palm-bay_dc-modern_1_3.wav,vibrato,4,4,vibrato,11,9,0.7996446490287781
+dc-modern,class_4_palm-bay_dc-modern_1_4.wav,vibrato,4,4,vibrato,11,8,0.6986728310585022
+dc-modern,class_4_palm-bay_dc-modern_2.wav,vibrato,4,4,vibrato,7,4,0.5626822710037231
+dc-modern,class_4_palm-bay_dc-modern_3.wav,vibrato,4,7,slide,6,5,0.5596107244491577
+dc-modern,class_4_rwg_dc-modern_1_1.wav,vibrato,4,4,vibrato,11,8,0.7319017052650452
+dc-modern,class_4_rwg_dc-modern_1_2.wav,vibrato,4,4,vibrato,10,10,0.9881153106689453
+dc-modern,class_4_rwg_dc-modern_1_3.wav,vibrato,4,4,vibrato,11,9,0.776745617389679
+dc-modern,class_4_rwg_dc-modern_1_4.wav,vibrato,4,4,vibrato,11,6,0.5486072897911072
+dc-modern,class_4_rwg_dc-modern_2.wav,vibrato,4,4,vibrato,7,4,0.4429810345172882
+dc-modern,class_4_rwg_dc-modern_3.wav,vibrato,4,7,slide,5,3,0.503228485584259
+plexiglass,class_0_carvin_plexiglass_1.wav,alternate picking,0,0,alternate picking,4,4,1.0
+plexiglass,class_0_carvin_plexiglass_1_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_carvin_plexiglass_1_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_carvin_plexiglass_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_carvin_plexiglass_2_2.wav,alternate picking,0,0,alternate picking,4,4,1.0
+plexiglass,class_0_carvin_plexiglass_3.wav,alternate picking,0,0,alternate picking,10,10,1.0
+plexiglass,class_0_carvin_plexiglass_3_1.wav,alternate picking,0,0,alternate picking,10,10,1.0
+plexiglass,class_0_carvin_plexiglass_3_2.wav,alternate picking,0,0,alternate picking,10,10,1.0
+plexiglass,class_0_palm-bay_plexiglass_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_palm-bay_plexiglass_1_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_palm-bay_plexiglass_1_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_palm-bay_plexiglass_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_palm-bay_plexiglass_2_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_palm-bay_plexiglass_3.wav,alternate picking,0,0,alternate picking,9,9,1.0
+plexiglass,class_0_palm-bay_plexiglass_3_1.wav,alternate picking,0,0,alternate picking,9,9,1.0
+plexiglass,class_0_palm-bay_plexiglass_3_2.wav,alternate picking,0,0,alternate picking,9,9,1.0
+plexiglass,class_0_carvin_plexiglass_2_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_palm-bay_plexiglass_2_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_rwg_plexiglass_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_rwg_plexiglass_1_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_rwg_plexiglass_1_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_rwg_plexiglass_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_rwg_plexiglass_2_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_rwg_plexiglass_2_2.wav,alternate picking,0,0,alternate picking,3,3,1.0
+plexiglass,class_0_rwg_plexiglass_3.wav,alternate picking,0,0,alternate picking,9,9,1.0
+plexiglass,class_0_rwg_plexiglass_3_1.wav,alternate picking,0,0,alternate picking,10,10,1.0
+plexiglass,class_0_rwg_plexiglass_3_2.wav,alternate picking,0,0,alternate picking,10,10,1.0
+plexiglass,class_8_palm-bay_plexiglass_1_4.wav,bend,8,8,bend,2,2,1.0
+plexiglass,class_8_carvin_plexiglass_1_1.wav,bend,8,8,bend,3,3,0.9999995231628418
+plexiglass,class_8_carvin_plexiglass_1_2.wav,bend,8,8,bend,4,4,0.9999936819076538
+plexiglass,class_8_carvin_plexiglass_1_3.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_carvin_plexiglass_1_4.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_carvin_plexiglass_1_5.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_carvin_plexiglass_1_6.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_palm-bay_plexiglass_1_1.wav,bend,8,8,bend,2,2,1.0
+plexiglass,class_8_palm-bay_plexiglass_1_2.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_palm-bay_plexiglass_1_3.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_palm-bay_plexiglass_1_5.wav,bend,8,8,bend,2,2,1.0
+plexiglass,class_8_palm-bay_plexiglass_1_6.wav,bend,8,8,bend,2,2,1.0
+plexiglass,class_8_rwg_plexiglass_1_1.wav,bend,8,8,bend,2,2,1.0
+plexiglass,class_8_rwg_plexiglass_1_2.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_rwg_plexiglass_1_3.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_rwg_plexiglass_1_4.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_rwg_plexiglass_1_5.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_8_rwg_plexiglass_1_6.wav,bend,8,8,bend,3,3,1.0
+plexiglass,class_5_palm-bay_plexiglass_1_4.wav,hammer on,5,5,hammer on,20,15,0.7492934465408325
+plexiglass,class_5_carvin_plexiglass_1_1.wav,hammer on,5,5,hammer on,34,34,0.997909665107727
+plexiglass,class_5_carvin_plexiglass_1_2.wav,hammer on,5,5,hammer on,36,35,0.9723009467124939
+plexiglass,class_5_carvin_plexiglass_1_3.wav,hammer on,5,5,hammer on,35,35,0.9864474534988403
+plexiglass,class_5_carvin_plexiglass_1_4.wav,hammer on,5,5,hammer on,35,35,0.9928196668624878
+plexiglass,class_5_carvin_plexiglass_1_5.wav,hammer on,5,5,hammer on,34,34,0.997632622718811
+plexiglass,class_5_carvin_plexiglass_1_6.wav,hammer on,5,5,hammer on,36,36,0.9808529615402222
+plexiglass,class_5_palm-bay_plexiglass_1_1.wav,hammer on,5,5,hammer on,23,19,0.7909548282623291
+plexiglass,class_5_palm-bay_plexiglass_1_2.wav,hammer on,5,5,hammer on,21,19,0.8349841237068176
+plexiglass,class_5_palm-bay_plexiglass_1_3.wav,hammer on,5,5,hammer on,20,16,0.7852379679679871
+plexiglass,class_5_palm-bay_plexiglass_1_5.wav,hammer on,5,5,hammer on,28,20,0.7625496983528137
+plexiglass,class_5_palm-bay_plexiglass_1_6.wav,hammer on,5,5,hammer on,31,29,0.940223217010498
+plexiglass,class_5_rwg_plexiglass_1_1.wav,hammer on,5,5,hammer on,27,16,0.5604174137115479
+plexiglass,class_5_rwg_plexiglass_1_2.wav,hammer on,5,5,hammer on,27,26,0.9084968566894531
+plexiglass,class_5_rwg_plexiglass_1_3.wav,hammer on,5,5,hammer on,24,20,0.7617702484130859
+plexiglass,class_5_rwg_plexiglass_1_4.wav,hammer on,5,5,hammer on,25,16,0.6192771196365356
+plexiglass,class_5_rwg_plexiglass_1_5.wav,hammer on,5,5,hammer on,23,18,0.7567036747932434
+plexiglass,class_5_rwg_plexiglass_1_6.wav,hammer on,5,5,hammer on,23,16,0.6658741235733032
+plexiglass,class_1_carvin_plexiglass_1_1.wav,legato,1,0,alternate picking,2,2,0.9999824166297913
+plexiglass,class_1_palm-bay_plexiglass_2_3.wav,legato,1,1,legato,3,3,0.9999940991401672
+plexiglass,class_1_palm-bay_plexiglass_3_1.wav,legato,1,1,legato,9,9,0.9940422773361206
+plexiglass,class_1_palm-bay_plexiglass_3_2.wav,legato,1,1,legato,9,9,0.9997227787971497
+plexiglass,class_1_palm-bay_plexiglass_3_3.wav,legato,1,1,legato,9,8,0.9401574730873108
+plexiglass,class_1_rwg_plexiglass_1_1.wav,legato,1,1,legato,3,3,0.9999008178710938
+plexiglass,class_1_rwg_plexiglass_1_2.wav,legato,1,1,legato,3,3,0.9999867081642151
+plexiglass,class_1_rwg_plexiglass_1_3.wav,legato,1,1,legato,3,3,1.0
+plexiglass,class_1_rwg_plexiglass_2_1.wav,legato,1,1,legato,3,3,0.9996781349182129
+plexiglass,class_1_rwg_plexiglass_2_2.wav,legato,1,1,legato,3,3,0.9246823787689209
+plexiglass,class_1_rwg_plexiglass_2_3.wav,legato,1,1,legato,3,2,0.666873037815094
+plexiglass,class_1_carvin_plexiglass_1_2.wav,legato,1,3,sweep picking,3,1,0.33356204628944397
+plexiglass,class_1_palm-bay_plexiglass_2_2.wav,legato,1,1,legato,3,1,0.42686280608177185
+plexiglass,class_1_rwg_plexiglass_3_1.wav,legato,1,1,legato,8,8,0.9989408254623413
+plexiglass,class_1_carvin_plexiglass_1_3.wav,legato,1,1,legato,3,2,0.46001672744750977
+plexiglass,class_1_carvin_plexiglass_2_1.wav,legato,1,1,legato,4,4,0.9992595911026001
+plexiglass,class_1_carvin_plexiglass_2_2.wav,legato,1,1,legato,4,3,0.7723325490951538
+plexiglass,class_1_carvin_plexiglass_2_3.wav,legato,1,1,legato,3,3,0.992520272731781
+plexiglass,class_1_carvin_plexiglass_3_1.wav,legato,1,1,legato,9,6,0.6815705895423889
+plexiglass,class_1_carvin_plexiglass_3_2.wav,legato,1,1,legato,8,8,0.9999867677688599
+plexiglass,class_1_carvin_plexiglass_3_3.wav,legato,1,1,legato,9,9,0.9664416909217834
+plexiglass,class_1_palm-bay_plexiglass_1_1.wav,legato,1,1,legato,3,3,0.9991706013679504
+plexiglass,class_1_palm-bay_plexiglass_1_2.wav,legato,1,1,legato,3,3,0.9947307705879211
+plexiglass,class_1_palm-bay_plexiglass_1_3.wav,legato,1,1,legato,3,2,0.5366659164428711
+plexiglass,class_1_palm-bay_plexiglass_2_1.wav,legato,1,1,legato,3,2,0.7490336894989014
+plexiglass,class_1_rwg_plexiglass_3_2.wav,legato,1,1,legato,8,7,0.8763846755027771
+plexiglass,class_1_rwg_plexiglass_3_3.wav,legato,1,1,legato,8,8,0.9998969435691833
+plexiglass,class_6_palm-bay_plexiglass_1_4.wav,pull off,6,6,pull off,17,14,0.7165068984031677
+plexiglass,class_6_carvin_plexiglass_1_1.wav,pull off,6,6,pull off,32,17,0.5147545337677002
+plexiglass,class_6_carvin_plexiglass_1_2.wav,pull off,6,5,hammer on,38,36,0.9237272143363953
+plexiglass,class_6_carvin_plexiglass_1_3.wav,pull off,6,6,pull off,26,25,0.9417810440063477
+plexiglass,class_6_carvin_plexiglass_1_4.wav,pull off,6,6,pull off,20,19,0.9163044095039368
+plexiglass,class_6_carvin_plexiglass_1_5.wav,pull off,6,6,pull off,21,19,0.8973240852355957
+plexiglass,class_6_carvin_plexiglass_1_6.wav,pull off,6,6,pull off,19,14,0.7440183758735657
+plexiglass,class_6_palm-bay_plexiglass_1_1.wav,pull off,6,6,pull off,25,14,0.5728901028633118
+plexiglass,class_6_palm-bay_plexiglass_1_2.wav,pull off,6,6,pull off,23,17,0.7142314910888672
+plexiglass,class_6_palm-bay_plexiglass_1_3.wav,pull off,6,6,pull off,19,13,0.6706860065460205
+plexiglass,class_6_palm-bay_plexiglass_1_5.wav,pull off,6,6,pull off,17,13,0.7308684587478638
+plexiglass,class_6_palm-bay_plexiglass_1_6.wav,pull off,6,6,pull off,17,15,0.8937039375305176
+plexiglass,class_6_rwg_plexiglass_1_1.wav,pull off,6,6,pull off,22,22,0.9738897681236267
+plexiglass,class_6_rwg_plexiglass_1_2.wav,pull off,6,6,pull off,21,21,0.9986168146133423
+plexiglass,class_6_rwg_plexiglass_1_3.wav,pull off,6,6,pull off,20,18,0.8909671902656555
+plexiglass,class_6_rwg_plexiglass_1_4.wav,pull off,6,6,pull off,18,16,0.8531630635261536
+plexiglass,class_6_rwg_plexiglass_1_5.wav,pull off,6,6,pull off,21,15,0.6925015449523926
+plexiglass,class_6_rwg_plexiglass_1_6.wav,pull off,6,6,pull off,21,18,0.8308285474777222
+plexiglass,class_7_palm-bay_plexiglass_1_4.wav,slide,7,7,slide,22,19,0.843379557132721
+plexiglass,class_7_carvin_plexiglass_1_1.wav,slide,7,7,slide,22,21,0.915033757686615
+plexiglass,class_7_carvin_plexiglass_1_2.wav,slide,7,7,slide,21,20,0.9479460120201111
+plexiglass,class_7_carvin_plexiglass_1_3.wav,slide,7,7,slide,20,17,0.8013761639595032
+plexiglass,class_7_carvin_plexiglass_1_4.wav,slide,7,7,slide,22,21,0.9266244769096375
+plexiglass,class_7_carvin_plexiglass_1_5.wav,slide,7,7,slide,22,16,0.6869286894798279
+plexiglass,class_7_carvin_plexiglass_1_6.wav,slide,7,7,slide,22,15,0.6216526031494141
+plexiglass,class_7_palm-bay_plexiglass_1_1.wav,slide,7,7,slide,22,18,0.8062202334403992
+plexiglass,class_7_palm-bay_plexiglass_1_2.wav,slide,7,7,slide,21,21,0.9918444752693176
+plexiglass,class_7_palm-bay_plexiglass_1_3.wav,slide,7,7,slide,20,20,0.9878286123275757
+plexiglass,class_7_palm-bay_plexiglass_1_5.wav,slide,7,7,slide,22,22,0.9485892653465271
+plexiglass,class_7_palm-bay_plexiglass_1_6.wav,slide,7,7,slide,21,18,0.8365979790687561
+plexiglass,class_7_rwg_plexiglass_1_1.wav,slide,7,7,slide,23,22,0.90522700548172
+plexiglass,class_7_rwg_plexiglass_1_2.wav,slide,7,7,slide,24,21,0.8770213723182678
+plexiglass,class_7_rwg_plexiglass_1_3.wav,slide,7,7,slide,23,23,0.9933840036392212
+plexiglass,class_7_rwg_plexiglass_1_4.wav,slide,7,7,slide,23,22,0.9626465439796448
+plexiglass,class_7_rwg_plexiglass_1_5.wav,slide,7,7,slide,24,23,0.8876104950904846
+plexiglass,class_7_rwg_plexiglass_1_6.wav,slide,7,7,slide,23,23,0.9511724710464478
+plexiglass,class_3_carvin_plexiglass_1_1.wav,sweep picking,3,3,sweep picking,4,4,0.9977468848228455
+plexiglass,class_3_carvin_plexiglass_1_2.wav,sweep picking,3,3,sweep picking,3,3,0.9996347427368164
+plexiglass,class_3_carvin_plexiglass_1_3.wav,sweep picking,3,3,sweep picking,3,3,0.9996256828308105
+plexiglass,class_3_carvin_plexiglass_2.wav,sweep picking,3,3,sweep picking,11,9,0.8195094466209412
+plexiglass,class_3_palm-bay_plexiglass_1_1.wav,sweep picking,3,3,sweep picking,4,4,0.9999257326126099
+plexiglass,class_3_palm-bay_plexiglass_1_2.wav,sweep picking,3,3,sweep picking,4,4,0.9999967813491821
+plexiglass,class_3_palm-bay_plexiglass_1_3.wav,sweep picking,3,3,sweep picking,3,3,0.9999990463256836
+plexiglass,class_3_palm-bay_plexiglass_2.wav,sweep picking,3,3,sweep picking,11,10,0.9069443345069885
+plexiglass,class_3_rwg_plexiglass_1_1.wav,sweep picking,3,3,sweep picking,3,3,0.9999883770942688
+plexiglass,class_3_rwg_plexiglass_1_2.wav,sweep picking,3,3,sweep picking,4,4,0.9975907802581787
+plexiglass,class_3_rwg_plexiglass_1_3.wav,sweep picking,3,3,sweep picking,6,5,0.8404303193092346
+plexiglass,class_3_rwg_plexiglass_2.wav,sweep picking,3,3,sweep picking,14,13,0.8325209021568298
+plexiglass,class_2_carvin_plexiglass_1_1.wav,tapping,2,2,tapping,3,2,0.6535109877586365
+plexiglass,class_2_carvin_plexiglass_1_2.wav,tapping,2,2,tapping,3,2,0.6646649837493896
+plexiglass,class_2_carvin_plexiglass_1_3.wav,tapping,2,2,tapping,3,3,0.9557790160179138
+plexiglass,class_2_carvin_plexiglass_2_1.wav,tapping,2,2,tapping,3,2,0.5564621090888977
+plexiglass,class_2_carvin_plexiglass_2_3.wav,tapping,2,2,tapping,3,3,0.8577136993408203
+plexiglass,class_2_carvin_plexiglass_3_1.wav,tapping,2,2,tapping,8,6,0.7998592853546143
+plexiglass,class_2_carvin_plexiglass_3_2.wav,tapping,2,2,tapping,9,8,0.8833679556846619
+plexiglass,class_2_carvin_plexiglass_3_3.wav,tapping,2,2,tapping,9,7,0.7871655225753784
+plexiglass,class_2_palm-bay_plexiglass_1_1.wav,tapping,2,2,tapping,3,3,0.9852828979492188
+plexiglass,class_2_palm-bay_plexiglass_1_2.wav,tapping,2,2,tapping,2,2,0.9999989867210388
+plexiglass,class_2_palm-bay_plexiglass_1_3.wav,tapping,2,2,tapping,2,2,0.9993740320205688
+plexiglass,class_2_palm-bay_plexiglass_2_1.wav,tapping,2,2,tapping,2,2,0.9999409914016724
+plexiglass,class_2_palm-bay_plexiglass_2_2.wav,tapping,2,2,tapping,2,2,0.9013032913208008
+plexiglass,class_2_palm-bay_plexiglass_3_1.wav,tapping,2,2,tapping,8,7,0.8750247955322266
+plexiglass,class_2_palm-bay_plexiglass_3_2.wav,tapping,2,2,tapping,7,6,0.8320256471633911
+plexiglass,class_2_palm-bay_plexiglass_3_3.wav,tapping,2,2,tapping,8,8,0.9991959929466248
+plexiglass,class_2_carvin_plexiglass_2_2.wav,tapping,2,2,tapping,3,3,0.9662290215492249
+plexiglass,class_2_palm-bay_plexiglass_2_3.wav,tapping,2,2,tapping,3,3,0.9854699969291687
+plexiglass,class_2_rwg_plexiglass_1_1.wav,tapping,2,2,tapping,3,3,0.9407660365104675
+plexiglass,class_2_rwg_plexiglass_1_2.wav,tapping,2,2,tapping,3,3,0.9957039952278137
+plexiglass,class_2_rwg_plexiglass_1_3.wav,tapping,2,2,tapping,3,2,0.6821398138999939
+plexiglass,class_2_rwg_plexiglass_2_1.wav,tapping,2,2,tapping,3,2,0.6666776537895203
+plexiglass,class_2_rwg_plexiglass_2_2.wav,tapping,2,2,tapping,3,2,0.6616411805152893
+plexiglass,class_2_rwg_plexiglass_2_3.wav,tapping,2,2,tapping,3,2,0.6422157883644104
+plexiglass,class_2_rwg_plexiglass_3_1.wav,tapping,2,2,tapping,8,7,0.8665075898170471
+plexiglass,class_2_rwg_plexiglass_3_2.wav,tapping,2,2,tapping,8,6,0.827971339225769
+plexiglass,class_2_rwg_plexiglass_3_3.wav,tapping,2,2,tapping,8,6,0.8621540069580078
+plexiglass,class_4_palm-bay_plexiglass_1_4.wav,vibrato,4,4,vibrato,11,11,1.0
+plexiglass,class_4_carvin_plexiglass_1_1.wav,vibrato,4,4,vibrato,8,8,0.9999998807907104
+plexiglass,class_4_carvin_plexiglass_1_2.wav,vibrato,4,4,vibrato,8,8,1.0
+plexiglass,class_4_carvin_plexiglass_1_3.wav,vibrato,4,4,vibrato,8,8,0.9998210668563843
+plexiglass,class_4_carvin_plexiglass_1_4.wav,vibrato,4,4,vibrato,7,7,1.0
+plexiglass,class_4_carvin_plexiglass_2.wav,vibrato,4,4,vibrato,7,7,0.9422600865364075
+plexiglass,class_4_carvin_plexiglass_3.wav,vibrato,4,4,vibrato,5,5,0.7422248721122742
+plexiglass,class_4_palm-bay_plexiglass_1_1.wav,vibrato,4,4,vibrato,10,10,0.9545515775680542
+plexiglass,class_4_palm-bay_plexiglass_1_2.wav,vibrato,4,4,vibrato,10,10,0.9981886148452759
+plexiglass,class_4_palm-bay_plexiglass_1_3.wav,vibrato,4,4,vibrato,10,10,0.9954286813735962
+plexiglass,class_4_palm-bay_plexiglass_2.wav,vibrato,4,4,vibrato,7,7,0.9371938109397888
+plexiglass,class_4_palm-bay_plexiglass_3.wav,vibrato,4,4,vibrato,5,3,0.5679373145103455
+plexiglass,class_4_rwg_plexiglass_1_1.wav,vibrato,4,4,vibrato,11,9,0.8203856945037842
+plexiglass,class_4_rwg_plexiglass_1_2.wav,vibrato,4,4,vibrato,11,11,1.0
+plexiglass,class_4_rwg_plexiglass_1_3.wav,vibrato,4,4,vibrato,10,10,0.9999982714653015
+plexiglass,class_4_rwg_plexiglass_1_4.wav,vibrato,4,4,vibrato,11,11,0.9999955892562866
+plexiglass,class_4_rwg_plexiglass_2.wav,vibrato,4,4,vibrato,7,7,0.9965387582778931
+plexiglass,class_4_rwg_plexiglass_3.wav,vibrato,4,4,vibrato,5,4,0.7971307039260864
+sl100,class_0_carvin_sl100_1.wav,alternate picking,0,0,alternate picking,4,4,0.9831115007400513
+sl100,class_0_carvin_sl100_1_1.wav,alternate picking,0,0,alternate picking,4,4,0.9191442728042603
+sl100,class_0_carvin_sl100_1_2.wav,alternate picking,0,0,alternate picking,3,3,0.9493046402931213
+sl100,class_0_carvin_sl100_2.wav,alternate picking,0,0,alternate picking,4,2,0.618135392665863
+sl100,class_0_carvin_sl100_2_1.wav,alternate picking,0,0,alternate picking,3,3,0.9949943423271179
+sl100,class_0_carvin_sl100_2_2.wav,alternate picking,0,0,alternate picking,4,4,1.0
+sl100,class_0_carvin_sl100_3.wav,alternate picking,0,0,alternate picking,11,11,1.0
+sl100,class_0_carvin_sl100_3_1.wav,alternate picking,0,0,alternate picking,10,10,0.9999998807907104
+sl100,class_0_carvin_sl100_3_2.wav,alternate picking,0,0,alternate picking,10,10,0.999958336353302
+sl100,class_0_palm-bay_sl100_1.wav,alternate picking,0,0,alternate picking,4,2,0.5951899290084839
+sl100,class_0_palm-bay_sl100_1_1.wav,alternate picking,0,0,alternate picking,3,3,0.9924917817115784
+sl100,class_0_palm-bay_sl100_1_2.wav,alternate picking,0,0,alternate picking,3,2,0.7265835404396057
+sl100,class_0_palm-bay_sl100_2.wav,alternate picking,0,0,alternate picking,3,3,0.99949711561203
+sl100,class_0_palm-bay_sl100_2_1.wav,alternate picking,0,0,alternate picking,4,4,0.9959450960159302
+sl100,class_0_palm-bay_sl100_2_2.wav,alternate picking,0,0,alternate picking,4,3,0.7219884395599365
+sl100,class_0_palm-bay_sl100_3.wav,alternate picking,0,0,alternate picking,9,9,0.9976235628128052
+sl100,class_0_palm-bay_sl100_3_1.wav,alternate picking,0,0,alternate picking,9,9,0.9999988079071045
+sl100,class_0_palm-bay_sl100_3_2.wav,alternate picking,0,0,alternate picking,9,9,0.9999987483024597
+sl100,class_0_rwg_sl100_1.wav,alternate picking,0,0,alternate picking,3,3,0.9989650249481201
+sl100,class_0_rwg_sl100_1_1.wav,alternate picking,0,0,alternate picking,3,3,1.0
+sl100,class_0_rwg_sl100_1_2.wav,alternate picking,0,0,alternate picking,3,3,0.8755337595939636
+sl100,class_0_rwg_sl100_2.wav,alternate picking,0,0,alternate picking,3,3,0.9921886920928955
+sl100,class_0_rwg_sl100_2_1.wav,alternate picking,0,0,alternate picking,3,3,0.9999963641166687
+sl100,class_0_rwg_sl100_2_2.wav,alternate picking,0,0,alternate picking,3,3,0.9990217685699463
+sl100,class_0_rwg_sl100_3.wav,alternate picking,0,0,alternate picking,10,10,0.9999998807907104
+sl100,class_0_rwg_sl100_3_1.wav,alternate picking,0,0,alternate picking,9,9,1.0
+sl100,class_0_rwg_sl100_3_2.wav,alternate picking,0,0,alternate picking,9,9,0.9999991655349731
+sl100,class_8_carvin_sl100_1_2.wav,bend,8,8,bend,3,3,0.9509461522102356
+sl100,class_8_carvin_sl100_1_1.wav,bend,8,8,bend,3,3,0.9999987483024597
+sl100,class_8_carvin_sl100_1_3.wav,bend,8,8,bend,3,3,0.7743151187896729
+sl100,class_8_carvin_sl100_1_4.wav,bend,8,8,bend,4,2,0.5049176216125488
+sl100,class_8_carvin_sl100_1_5.wav,bend,8,8,bend,4,3,0.7698839902877808
+sl100,class_8_carvin_sl100_1_6.wav,bend,8,8,bend,4,4,0.991543173789978
+sl100,class_8_palm-bay_sl100_1_1.wav,bend,8,8,bend,3,3,0.999997615814209
+sl100,class_8_palm-bay_sl100_1_2.wav,bend,8,8,bend,3,3,0.9999259114265442
+sl100,class_8_palm-bay_sl100_1_3.wav,bend,8,8,bend,3,3,1.0
+sl100,class_8_palm-bay_sl100_1_4.wav,bend,8,8,bend,3,3,0.85686856508255
+sl100,class_8_palm-bay_sl100_1_5.wav,bend,8,8,bend,3,3,1.0
+sl100,class_8_palm-bay_sl100_1_6.wav,bend,8,8,bend,4,3,0.7509526014328003
+sl100,class_8_rwg_sl100_1_1.wav,bend,8,8,bend,3,3,1.0
+sl100,class_8_rwg_sl100_1_2.wav,bend,8,8,bend,3,3,1.0
+sl100,class_8_rwg_sl100_1_3.wav,bend,8,8,bend,3,3,1.0
+sl100,class_8_rwg_sl100_1_4.wav,bend,8,8,bend,3,3,1.0
+sl100,class_8_rwg_sl100_1_5.wav,bend,8,8,bend,3,3,0.9999997019767761
+sl100,class_8_rwg_sl100_1_6.wav,bend,8,8,bend,3,3,0.8381507396697998
+sl100,class_5_carvin_sl100_1_2.wav,hammer on,5,6,pull off,41,37,0.8423964977264404
+sl100,class_5_carvin_sl100_1_1.wav,hammer on,5,6,pull off,41,39,0.9287004470825195
+sl100,class_5_carvin_sl100_1_3.wav,hammer on,5,6,pull off,38,36,0.9394472241401672
+sl100,class_5_carvin_sl100_1_4.wav,hammer on,5,6,pull off,39,29,0.6702618598937988
+sl100,class_5_carvin_sl100_1_5.wav,hammer on,5,5,hammer on,35,32,0.8984984755516052
+sl100,class_5_carvin_sl100_1_6.wav,hammer on,5,5,hammer on,36,27,0.7570695281028748
+sl100,class_5_palm-bay_sl100_1_1.wav,hammer on,5,6,pull off,25,21,0.8335520029067993
+sl100,class_5_palm-bay_sl100_1_2.wav,hammer on,5,6,pull off,23,22,0.9367582201957703
+sl100,class_5_palm-bay_sl100_1_3.wav,hammer on,5,6,pull off,20,17,0.8532869219779968
+sl100,class_5_palm-bay_sl100_1_4.wav,hammer on,5,6,pull off,19,18,0.9260734915733337
+sl100,class_5_palm-bay_sl100_1_5.wav,hammer on,5,6,pull off,23,16,0.6571937799453735
+sl100,class_5_palm-bay_sl100_1_6.wav,hammer on,5,5,hammer on,23,15,0.6281688213348389
+sl100,class_5_rwg_sl100_1_1.wav,hammer on,5,6,pull off,33,33,0.9981352090835571
+sl100,class_5_rwg_sl100_1_2.wav,hammer on,5,6,pull off,30,28,0.9345411658287048
+sl100,class_5_rwg_sl100_1_3.wav,hammer on,5,5,hammer on,34,22,0.6621799468994141
+sl100,class_5_rwg_sl100_1_4.wav,hammer on,5,5,hammer on,40,34,0.8449274301528931
+sl100,class_5_rwg_sl100_1_5.wav,hammer on,5,5,hammer on,34,30,0.8538274168968201
+sl100,class_5_rwg_sl100_1_6.wav,hammer on,5,5,hammer on,29,28,0.9246947169303894
+sl100,class_1_palm-bay_sl100_1_1.wav,legato,1,1,legato,3,3,0.9971030354499817
+sl100,class_1_palm-bay_sl100_1_2.wav,legato,1,1,legato,3,3,0.9927451610565186
+sl100,class_1_palm-bay_sl100_1_3.wav,legato,1,1,legato,3,3,0.9885635375976562
+sl100,class_1_carvin_sl100_3_1.wav,legato,1,1,legato,9,9,0.9716706871986389
+sl100,class_1_carvin_sl100_3_2.wav,legato,1,1,legato,8,8,0.9961135387420654
+sl100,class_1_carvin_sl100_3_3.wav,legato,1,1,legato,9,9,0.997893214225769
+sl100,class_1_carvin_sl100_2_3.wav,legato,1,1,legato,4,3,0.5712459683418274
+sl100,class_1_palm-bay_sl100_2_1.wav,legato,1,1,legato,2,2,0.9998343586921692
+sl100,class_1_carvin_sl100_1_1.wav,legato,1,2,tapping,3,1,0.3549030125141144
+sl100,class_1_carvin_sl100_1_2.wav,legato,1,2,tapping,3,2,0.5441567301750183
+sl100,class_1_carvin_sl100_1_3.wav,legato,1,2,tapping,2,2,0.8602370023727417
+sl100,class_1_carvin_sl100_2_1.wav,legato,1,6,pull off,4,2,0.48970717191696167
+sl100,class_1_carvin_sl100_2_2.wav,legato,1,1,legato,3,2,0.6503027081489563
+sl100,class_1_palm-bay_sl100_2_2.wav,legato,1,2,tapping,3,2,0.4832572937011719
+sl100,class_1_palm-bay_sl100_2_3.wav,legato,1,1,legato,3,3,0.9251016974449158
+sl100,class_1_palm-bay_sl100_3_1.wav,legato,1,1,legato,8,8,0.99981290102005
+sl100,class_1_palm-bay_sl100_3_2.wav,legato,1,1,legato,7,7,0.9993564486503601
+sl100,class_1_palm-bay_sl100_3_3.wav,legato,1,1,legato,8,8,0.9999200701713562
+sl100,class_1_rwg_sl100_1_1.wav,legato,1,1,legato,4,3,0.6989098787307739
+sl100,class_1_rwg_sl100_1_2.wav,legato,1,1,legato,3,2,0.6672093868255615
+sl100,class_1_rwg_sl100_1_3.wav,legato,1,1,legato,3,3,0.8834624290466309
+sl100,class_1_rwg_sl100_2_1.wav,legato,1,1,legato,3,3,0.8980268836021423
+sl100,class_1_rwg_sl100_2_2.wav,legato,1,1,legato,3,2,0.6864557862281799
+sl100,class_1_rwg_sl100_2_3.wav,legato,1,1,legato,3,3,0.9853087067604065
+sl100,class_1_rwg_sl100_3_1.wav,legato,1,1,legato,8,7,0.8823531866073608
+sl100,class_1_rwg_sl100_3_2.wav,legato,1,1,legato,9,8,0.8830082416534424
+sl100,class_1_rwg_sl100_3_3.wav,legato,1,1,legato,8,8,0.9980803728103638
+sl100,class_6_carvin_sl100_1_2.wav,pull off,6,6,pull off,28,27,0.9663171768188477
+sl100,class_6_carvin_sl100_1_1.wav,pull off,6,6,pull off,25,25,0.9885648488998413
+sl100,class_6_carvin_sl100_1_3.wav,pull off,6,6,pull off,28,28,0.9951386451721191
+sl100,class_6_carvin_sl100_1_4.wav,pull off,6,6,pull off,30,29,0.9438459277153015
+sl100,class_6_carvin_sl100_1_5.wav,pull off,6,6,pull off,32,23,0.6798208355903625
+sl100,class_6_carvin_sl100_1_6.wav,pull off,6,6,pull off,31,18,0.5319461822509766
+sl100,class_6_palm-bay_sl100_1_1.wav,pull off,6,6,pull off,24,24,0.9995329976081848
+sl100,class_6_palm-bay_sl100_1_2.wav,pull off,6,6,pull off,22,22,0.9989205002784729
+sl100,class_6_palm-bay_sl100_1_3.wav,pull off,6,6,pull off,22,22,0.9806267023086548
+sl100,class_6_palm-bay_sl100_1_4.wav,pull off,6,6,pull off,22,21,0.9433548450469971
+sl100,class_6_palm-bay_sl100_1_5.wav,pull off,6,6,pull off,23,15,0.6705764532089233
+sl100,class_6_palm-bay_sl100_1_6.wav,pull off,6,5,hammer on,27,18,0.7106546759605408
+sl100,class_6_rwg_sl100_1_1.wav,pull off,6,6,pull off,21,21,0.9999993443489075
+sl100,class_6_rwg_sl100_1_2.wav,pull off,6,6,pull off,30,30,0.9999996423721313
+sl100,class_6_rwg_sl100_1_3.wav,pull off,6,6,pull off,24,24,0.9999532699584961
+sl100,class_6_rwg_sl100_1_4.wav,pull off,6,6,pull off,21,21,0.9895423054695129
+sl100,class_6_rwg_sl100_1_5.wav,pull off,6,6,pull off,20,20,0.9935275912284851
+sl100,class_6_rwg_sl100_1_6.wav,pull off,6,6,pull off,19,19,0.9992731809616089
+sl100,class_7_carvin_sl100_1_2.wav,slide,7,7,slide,25,25,0.997182309627533
+sl100,class_7_carvin_sl100_1_1.wav,slide,7,7,slide,27,26,0.9582726359367371
+sl100,class_7_carvin_sl100_1_3.wav,slide,7,7,slide,27,25,0.8832514882087708
+sl100,class_7_carvin_sl100_1_4.wav,slide,7,7,slide,25,24,0.9182863831520081
+sl100,class_7_carvin_sl100_1_5.wav,slide,7,7,slide,24,21,0.8603753447532654
+sl100,class_7_carvin_sl100_1_6.wav,slide,7,7,slide,23,15,0.6658040881156921
+sl100,class_7_palm-bay_sl100_1_1.wav,slide,7,7,slide,27,27,0.9973055720329285
+sl100,class_7_palm-bay_sl100_1_2.wav,slide,7,7,slide,25,25,0.9876144528388977
+sl100,class_7_palm-bay_sl100_1_3.wav,slide,7,7,slide,24,24,0.9712960720062256
+sl100,class_7_palm-bay_sl100_1_4.wav,slide,7,7,slide,24,22,0.8255202770233154
+sl100,class_7_palm-bay_sl100_1_5.wav,slide,7,7,slide,22,21,0.9532650113105774
+sl100,class_7_palm-bay_sl100_1_6.wav,slide,7,7,slide,25,16,0.5938131809234619
+sl100,class_7_rwg_sl100_1_1.wav,slide,7,7,slide,25,24,0.9660817980766296
+sl100,class_7_rwg_sl100_1_2.wav,slide,7,7,slide,25,25,0.9476158022880554
+sl100,class_7_rwg_sl100_1_3.wav,slide,7,7,slide,26,24,0.8898394703865051
+sl100,class_7_rwg_sl100_1_4.wav,slide,7,7,slide,25,25,0.9755055904388428
+sl100,class_7_rwg_sl100_1_5.wav,slide,7,7,slide,25,22,0.8845244646072388
+sl100,class_7_rwg_sl100_1_6.wav,slide,7,7,slide,24,18,0.6792259216308594
+sl100,class_3_carvin_sl100_1_1.wav,sweep picking,3,3,sweep picking,3,2,0.5604059100151062
+sl100,class_3_carvin_sl100_1_2.wav,sweep picking,3,3,sweep picking,4,4,0.971947193145752
+sl100,class_3_carvin_sl100_1_3.wav,sweep picking,3,3,sweep picking,3,3,0.9999999403953552
+sl100,class_3_carvin_sl100_2.wav,sweep picking,3,3,sweep picking,11,11,0.9044187664985657
+sl100,class_3_palm-bay_sl100_1_1.wav,sweep picking,3,3,sweep picking,3,3,0.9920060038566589
+sl100,class_3_palm-bay_sl100_1_2.wav,sweep picking,3,3,sweep picking,3,3,0.9989843964576721
+sl100,class_3_palm-bay_sl100_1_3.wav,sweep picking,3,3,sweep picking,3,3,1.0
+sl100,class_3_palm-bay_sl100_2.wav,sweep picking,3,3,sweep picking,11,11,0.9780822396278381
+sl100,class_3_rwg_sl100_1_1.wav,sweep picking,3,3,sweep picking,3,3,0.9999861717224121
+sl100,class_3_rwg_sl100_1_2.wav,sweep picking,3,3,sweep picking,2,2,0.9999999403953552
+sl100,class_3_rwg_sl100_1_3.wav,sweep picking,3,3,sweep picking,3,3,0.9999456405639648
+sl100,class_3_rwg_sl100_2.wav,sweep picking,3,3,sweep picking,10,9,0.8710201978683472
+sl100,class_2_carvin_sl100_1_1.wav,tapping,2,2,tapping,3,2,0.7658324241638184
+sl100,class_2_carvin_sl100_1_2.wav,tapping,2,2,tapping,3,2,0.8177292943000793
+sl100,class_2_carvin_sl100_1_3.wav,tapping,2,2,tapping,3,3,0.9973230361938477
+sl100,class_2_carvin_sl100_2_1.wav,tapping,2,2,tapping,3,3,0.998805582523346
+sl100,class_2_carvin_sl100_2_2.wav,tapping,2,2,tapping,3,3,0.9996762275695801
+sl100,class_2_carvin_sl100_2_3.wav,tapping,2,2,tapping,3,3,0.9981978535652161
+sl100,class_2_carvin_sl100_3_1.wav,tapping,2,2,tapping,9,8,0.8573100566864014
+sl100,class_2_carvin_sl100_3_2.wav,tapping,2,2,tapping,11,7,0.6776831150054932
+sl100,class_2_carvin_sl100_3_3.wav,tapping,2,2,tapping,9,7,0.7450281381607056
+sl100,class_2_palm-bay_sl100_1_1.wav,tapping,2,2,tapping,3,3,0.8499395847320557
+sl100,class_2_palm-bay_sl100_1_2.wav,tapping,2,2,tapping,3,3,0.9991342425346375
+sl100,class_2_palm-bay_sl100_1_3.wav,tapping,2,2,tapping,3,3,0.9999616742134094
+sl100,class_2_palm-bay_sl100_2_1.wav,tapping,2,2,tapping,3,2,0.7912847399711609
+sl100,class_2_palm-bay_sl100_2_2.wav,tapping,2,2,tapping,3,3,0.9719541668891907
+sl100,class_2_palm-bay_sl100_2_3.wav,tapping,2,2,tapping,3,3,0.9592320919036865
+sl100,class_2_palm-bay_sl100_3_1.wav,tapping,2,2,tapping,7,7,0.9962730407714844
+sl100,class_2_palm-bay_sl100_3_2.wav,tapping,2,2,tapping,8,8,0.9524408578872681
+sl100,class_2_palm-bay_sl100_3_3.wav,tapping,2,2,tapping,7,6,0.8839149475097656
+sl100,class_2_rwg_sl100_1_1.wav,tapping,2,2,tapping,3,3,0.9970698952674866
+sl100,class_2_rwg_sl100_1_2.wav,tapping,2,2,tapping,3,3,0.9570947289466858
+sl100,class_2_rwg_sl100_1_3.wav,tapping,2,2,tapping,3,3,0.9453381896018982
+sl100,class_2_rwg_sl100_2_1.wav,tapping,2,2,tapping,3,2,0.6742565035820007
+sl100,class_2_rwg_sl100_2_2.wav,tapping,2,2,tapping,3,3,0.9629105925559998
+sl100,class_2_rwg_sl100_2_3.wav,tapping,2,2,tapping,3,3,0.9435507655143738
+sl100,class_2_rwg_sl100_3_1.wav,tapping,2,2,tapping,8,6,0.6790257096290588
+sl100,class_2_rwg_sl100_3_2.wav,tapping,2,2,tapping,8,7,0.8799079656600952
+sl100,class_2_rwg_sl100_3_3.wav,tapping,2,2,tapping,9,7,0.7768678069114685
+sl100,class_4_carvin_sl100_1_2.wav,vibrato,4,4,vibrato,11,10,0.9274183511734009
+sl100,class_4_carvin_sl100_1_1.wav,vibrato,4,4,vibrato,10,9,0.9371644258499146
+sl100,class_4_carvin_sl100_1_3.wav,vibrato,4,4,vibrato,11,11,0.9996370673179626
+sl100,class_4_carvin_sl100_1_4.wav,vibrato,4,4,vibrato,11,10,0.888804018497467
+sl100,class_4_carvin_sl100_2.wav,vibrato,4,6,pull off,6,4,0.6539635062217712
+sl100,class_4_carvin_sl100_3.wav,vibrato,4,4,vibrato,4,4,0.8982717990875244
+sl100,class_4_palm-bay_sl100_1_1.wav,vibrato,4,4,vibrato,12,10,0.8308124542236328
+sl100,class_4_palm-bay_sl100_1_2.wav,vibrato,4,4,vibrato,12,12,0.9985111355781555
+sl100,class_4_palm-bay_sl100_1_3.wav,vibrato,4,4,vibrato,11,10,0.9062386155128479
+sl100,class_4_palm-bay_sl100_1_4.wav,vibrato,4,4,vibrato,11,11,0.997863233089447
+sl100,class_4_palm-bay_sl100_2.wav,vibrato,4,4,vibrato,7,6,0.8514348864555359
+sl100,class_4_palm-bay_sl100_3.wav,vibrato,4,6,pull off,5,4,0.7468941807746887
+sl100,class_4_rwg_sl100_1_1.wav,vibrato,4,4,vibrato,7,7,0.9999990463256836
+sl100,class_4_rwg_sl100_1_2.wav,vibrato,4,4,vibrato,8,8,0.9952727556228638
+sl100,class_4_rwg_sl100_1_3.wav,vibrato,4,4,vibrato,8,8,0.9999067783355713
+sl100,class_4_rwg_sl100_1_4.wav,vibrato,4,4,vibrato,8,8,0.999748945236206
+sl100,class_4_rwg_sl100_2.wav,vibrato,4,4,vibrato,7,6,0.8326783776283264
+sl100,class_4_rwg_sl100_3.wav,vibrato,4,4,vibrato,5,4,0.7367068529129028

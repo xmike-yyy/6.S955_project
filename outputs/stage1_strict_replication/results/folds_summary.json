@@ -1,0 +1,9 @@
+{
+  "schema": "folds",
+  "num_folds": 5,
+  "accuracy_mean": 0.6407407407407407,
+  "accuracy_std": 0.04031766862421712,
+  "f1_macro_mean": 0.5886779643912973,
+  "f1_macro_std": 0.06601505399446858,
+  "strict_replication": true
+}
