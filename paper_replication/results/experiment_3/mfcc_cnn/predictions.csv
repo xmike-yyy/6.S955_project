@@ -1,0 +1,2746 @@
+fold,seed,true_class,pred_class,label,pred_label
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,alternate picking,alternate picking,0,0
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,slide,1,7
+dc-modern,0,legato,slide,1,7
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,slide,1,7
+dc-modern,0,legato,slide,1,7
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,vibrato,1,4
+dc-modern,0,legato,slide,1,7
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,legato,legato,1,1
+dc-modern,0,tapping,slide,2,7
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,slide,2,7
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,slide,2,7
+dc-modern,0,tapping,vibrato,2,4
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,slide,2,7
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,tapping,tapping,2,2
+dc-modern,0,sweep picking,sweep picking,3,3
+dc-modern,0,sweep picking,sweep picking,3,3
+dc-modern,0,sweep picking,slide,3,7
+dc-modern,0,sweep picking,sweep picking,3,3
+dc-modern,0,sweep picking,slide,3,7
+dc-modern,0,sweep picking,vibrato,3,4
+dc-modern,0,sweep picking,slide,3,7
+dc-modern,0,sweep picking,slide,3,7
+dc-modern,0,sweep picking,sweep picking,3,3
+dc-modern,0,sweep picking,sweep picking,3,3
+dc-modern,0,sweep picking,sweep picking,3,3
+dc-modern,0,sweep picking,sweep picking,3,3
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,slide,4,7
+dc-modern,0,vibrato,slide,4,7
+dc-modern,0,vibrato,slide,4,7
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,vibrato,vibrato,4,4
+dc-modern,0,hammer on,slide,5,7
+dc-modern,0,hammer on,slide,5,7
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,slide,5,7
+dc-modern,0,hammer on,slide,5,7
+dc-modern,0,hammer on,slide,5,7
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,slide,5,7
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,hammer on,hammer on,5,5
+dc-modern,0,pull off,slide,6,7
+dc-modern,0,pull off,slide,6,7
+dc-modern,0,pull off,slide,6,7
+dc-modern,0,pull off,slide,6,7
+dc-modern,0,pull off,hammer on,6,5
+dc-modern,0,pull off,hammer on,6,5
+dc-modern,0,pull off,slide,6,7
+dc-modern,0,pull off,slide,6,7
+dc-modern,0,pull off,slide,6,7
+dc-modern,0,pull off,hammer on,6,5
+dc-modern,0,pull off,hammer on,6,5
+dc-modern,0,pull off,hammer on,6,5
+dc-modern,0,pull off,slide,6,7
+dc-modern,0,pull off,slide,6,7
+dc-modern,0,pull off,pull off,6,6
+dc-modern,0,pull off,pull off,6,6
+dc-modern,0,pull off,hammer on,6,5
+dc-modern,0,pull off,hammer on,6,5
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,slide,slide,7,7
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,slide,8,7
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,0,bend,bend,8,8
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,alternate picking,alternate picking,0,0
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,slide,1,7
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,slide,1,7
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,slide,1,7
+dc-modern,1,legato,slide,1,7
+dc-modern,1,legato,slide,1,7
+dc-modern,1,legato,slide,1,7
+dc-modern,1,legato,slide,1,7
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,slide,1,7
+dc-modern,1,legato,slide,1,7
+dc-modern,1,legato,vibrato,1,4
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,legato,legato,1,1
+dc-modern,1,tapping,slide,2,7
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,slide,2,7
+dc-modern,1,tapping,hammer on,2,5
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,slide,2,7
+dc-modern,1,tapping,slide,2,7
+dc-modern,1,tapping,slide,2,7
+dc-modern,1,tapping,vibrato,2,4
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,slide,2,7
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,tapping,tapping,2,2
+dc-modern,1,sweep picking,sweep picking,3,3
+dc-modern,1,sweep picking,slide,3,7
+dc-modern,1,sweep picking,sweep picking,3,3
+dc-modern,1,sweep picking,sweep picking,3,3
+dc-modern,1,sweep picking,slide,3,7
+dc-modern,1,sweep picking,sweep picking,3,3
+dc-modern,1,sweep picking,sweep picking,3,3
+dc-modern,1,sweep picking,slide,3,7
+dc-modern,1,sweep picking,sweep picking,3,3
+dc-modern,1,sweep picking,sweep picking,3,3
+dc-modern,1,sweep picking,sweep picking,3,3
+dc-modern,1,sweep picking,sweep picking,3,3
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,slide,4,7
+dc-modern,1,vibrato,slide,4,7
+dc-modern,1,vibrato,slide,4,7
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,slide,4,7
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,slide,4,7
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,vibrato,vibrato,4,4
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,slide,5,7
+dc-modern,1,hammer on,slide,5,7
+dc-modern,1,hammer on,slide,5,7
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,slide,5,7
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,hammer on,hammer on,5,5
+dc-modern,1,pull off,pull off,6,6
+dc-modern,1,pull off,slide,6,7
+dc-modern,1,pull off,slide,6,7
+dc-modern,1,pull off,slide,6,7
+dc-modern,1,pull off,hammer on,6,5
+dc-modern,1,pull off,hammer on,6,5
+dc-modern,1,pull off,slide,6,7
+dc-modern,1,pull off,slide,6,7
+dc-modern,1,pull off,slide,6,7
+dc-modern,1,pull off,hammer on,6,5
+dc-modern,1,pull off,hammer on,6,5
+dc-modern,1,pull off,hammer on,6,5
+dc-modern,1,pull off,slide,6,7
+dc-modern,1,pull off,pull off,6,6
+dc-modern,1,pull off,pull off,6,6
+dc-modern,1,pull off,pull off,6,6
+dc-modern,1,pull off,pull off,6,6
+dc-modern,1,pull off,hammer on,6,5
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,slide,slide,7,7
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,slide,8,7
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,slide,8,7
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,1,bend,bend,8,8
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,alternate picking,alternate picking,0,0
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,tapping,1,2
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,slide,1,7
+dc-modern,2,legato,vibrato,1,4
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,legato,1,1
+dc-modern,2,legato,legato,1,1
+dc-modern,2,tapping,slide,2,7
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,hammer on,2,5
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,slide,2,7
+dc-modern,2,tapping,slide,2,7
+dc-modern,2,tapping,slide,2,7
+dc-modern,2,tapping,slide,2,7
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,slide,2,7
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,tapping,tapping,2,2
+dc-modern,2,sweep picking,sweep picking,3,3
+dc-modern,2,sweep picking,sweep picking,3,3
+dc-modern,2,sweep picking,slide,3,7
+dc-modern,2,sweep picking,slide,3,7
+dc-modern,2,sweep picking,slide,3,7
+dc-modern,2,sweep picking,slide,3,7
+dc-modern,2,sweep picking,slide,3,7
+dc-modern,2,sweep picking,slide,3,7
+dc-modern,2,sweep picking,slide,3,7
+dc-modern,2,sweep picking,sweep picking,3,3
+dc-modern,2,sweep picking,sweep picking,3,3
+dc-modern,2,sweep picking,slide,3,7
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,vibrato,slide,4,7
+dc-modern,2,vibrato,slide,4,7
+dc-modern,2,vibrato,slide,4,7
+dc-modern,2,vibrato,slide,4,7
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,vibrato,slide,4,7
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,vibrato,slide,4,7
+dc-modern,2,vibrato,slide,4,7
+dc-modern,2,vibrato,slide,4,7
+dc-modern,2,vibrato,vibrato,4,4
+dc-modern,2,hammer on,slide,5,7
+dc-modern,2,hammer on,slide,5,7
+dc-modern,2,hammer on,slide,5,7
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,hammer on,slide,5,7
+dc-modern,2,hammer on,slide,5,7
+dc-modern,2,hammer on,slide,5,7
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,hammer on,slide,5,7
+dc-modern,2,hammer on,slide,5,7
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,hammer on,hammer on,5,5
+dc-modern,2,pull off,pull off,6,6
+dc-modern,2,pull off,slide,6,7
+dc-modern,2,pull off,slide,6,7
+dc-modern,2,pull off,slide,6,7
+dc-modern,2,pull off,hammer on,6,5
+dc-modern,2,pull off,hammer on,6,5
+dc-modern,2,pull off,slide,6,7
+dc-modern,2,pull off,slide,6,7
+dc-modern,2,pull off,slide,6,7
+dc-modern,2,pull off,hammer on,6,5
+dc-modern,2,pull off,hammer on,6,5
+dc-modern,2,pull off,hammer on,6,5
+dc-modern,2,pull off,slide,6,7
+dc-modern,2,pull off,pull off,6,6
+dc-modern,2,pull off,slide,6,7
+dc-modern,2,pull off,pull off,6,6
+dc-modern,2,pull off,pull off,6,6
+dc-modern,2,pull off,hammer on,6,5
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,slide,slide,7,7
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,slide,8,7
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,2,bend,bend,8,8
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,alternate picking,alternate picking,0,0
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,tapping,1,2
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,vibrato,1,4
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,slide,1,7
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,tapping,1,2
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,legato,1,1
+dc-modern,3,legato,legato,1,1
+dc-modern,3,tapping,slide,2,7
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,slide,2,7
+dc-modern,3,tapping,slide,2,7
+dc-modern,3,tapping,slide,2,7
+dc-modern,3,tapping,slide,2,7
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,tapping,2,2
+dc-modern,3,tapping,hammer on,2,5
+dc-modern,3,sweep picking,sweep picking,3,3
+dc-modern,3,sweep picking,sweep picking,3,3
+dc-modern,3,sweep picking,slide,3,7
+dc-modern,3,sweep picking,sweep picking,3,3
+dc-modern,3,sweep picking,slide,3,7
+dc-modern,3,sweep picking,sweep picking,3,3
+dc-modern,3,sweep picking,slide,3,7
+dc-modern,3,sweep picking,slide,3,7
+dc-modern,3,sweep picking,sweep picking,3,3
+dc-modern,3,sweep picking,sweep picking,3,3
+dc-modern,3,sweep picking,slide,3,7
+dc-modern,3,sweep picking,sweep picking,3,3
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,slide,4,7
+dc-modern,3,vibrato,slide,4,7
+dc-modern,3,vibrato,slide,4,7
+dc-modern,3,vibrato,slide,4,7
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,vibrato,vibrato,4,4
+dc-modern,3,hammer on,slide,5,7
+dc-modern,3,hammer on,slide,5,7
+dc-modern,3,hammer on,slide,5,7
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,hammer on,slide,5,7
+dc-modern,3,hammer on,slide,5,7
+dc-modern,3,hammer on,slide,5,7
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,hammer on,slide,5,7
+dc-modern,3,hammer on,slide,5,7
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,hammer on,hammer on,5,5
+dc-modern,3,pull off,pull off,6,6
+dc-modern,3,pull off,slide,6,7
+dc-modern,3,pull off,slide,6,7
+dc-modern,3,pull off,slide,6,7
+dc-modern,3,pull off,hammer on,6,5
+dc-modern,3,pull off,hammer on,6,5
+dc-modern,3,pull off,slide,6,7
+dc-modern,3,pull off,slide,6,7
+dc-modern,3,pull off,hammer on,6,5
+dc-modern,3,pull off,hammer on,6,5
+dc-modern,3,pull off,hammer on,6,5
+dc-modern,3,pull off,hammer on,6,5
+dc-modern,3,pull off,slide,6,7
+dc-modern,3,pull off,slide,6,7
+dc-modern,3,pull off,slide,6,7
+dc-modern,3,pull off,pull off,6,6
+dc-modern,3,pull off,hammer on,6,5
+dc-modern,3,pull off,hammer on,6,5
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,slide,slide,7,7
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,slide,8,7
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,3,bend,bend,8,8
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,alternate picking,alternate picking,0,0
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,hammer on,1,5
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,tapping,1,2
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,slide,1,7
+dc-modern,4,legato,tapping,1,2
+dc-modern,4,legato,tapping,1,2
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,legato,1,1
+dc-modern,4,legato,legato,1,1
+dc-modern,4,tapping,slide,2,7
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,hammer on,2,5
+dc-modern,4,tapping,hammer on,2,5
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,slide,2,7
+dc-modern,4,tapping,slide,2,7
+dc-modern,4,tapping,slide,2,7
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,tapping,tapping,2,2
+dc-modern,4,sweep picking,slide,3,7
+dc-modern,4,sweep picking,slide,3,7
+dc-modern,4,sweep picking,sweep picking,3,3
+dc-modern,4,sweep picking,slide,3,7
+dc-modern,4,sweep picking,slide,3,7
+dc-modern,4,sweep picking,hammer on,3,5
+dc-modern,4,sweep picking,sweep picking,3,3
+dc-modern,4,sweep picking,slide,3,7
+dc-modern,4,sweep picking,slide,3,7
+dc-modern,4,sweep picking,sweep picking,3,3
+dc-modern,4,sweep picking,sweep picking,3,3
+dc-modern,4,sweep picking,slide,3,7
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,slide,4,7
+dc-modern,4,vibrato,slide,4,7
+dc-modern,4,vibrato,slide,4,7
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,slide,4,7
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,slide,4,7
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,vibrato,vibrato,4,4
+dc-modern,4,hammer on,slide,5,7
+dc-modern,4,hammer on,slide,5,7
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,slide,5,7
+dc-modern,4,hammer on,slide,5,7
+dc-modern,4,hammer on,slide,5,7
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,slide,5,7
+dc-modern,4,hammer on,slide,5,7
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,hammer on,hammer on,5,5
+dc-modern,4,pull off,pull off,6,6
+dc-modern,4,pull off,slide,6,7
+dc-modern,4,pull off,slide,6,7
+dc-modern,4,pull off,slide,6,7
+dc-modern,4,pull off,hammer on,6,5
+dc-modern,4,pull off,hammer on,6,5
+dc-modern,4,pull off,slide,6,7
+dc-modern,4,pull off,slide,6,7
+dc-modern,4,pull off,hammer on,6,5
+dc-modern,4,pull off,hammer on,6,5
+dc-modern,4,pull off,hammer on,6,5
+dc-modern,4,pull off,hammer on,6,5
+dc-modern,4,pull off,slide,6,7
+dc-modern,4,pull off,pull off,6,6
+dc-modern,4,pull off,pull off,6,6
+dc-modern,4,pull off,pull off,6,6
+dc-modern,4,pull off,pull off,6,6
+dc-modern,4,pull off,pull off,6,6
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,slide,slide,7,7
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,slide,8,7
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,slide,8,7
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+dc-modern,4,bend,bend,8,8
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,vibrato,0,4
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,alternate picking,alternate picking,0,0
+sl100,0,legato,vibrato,1,4
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,legato,1,1
+sl100,0,legato,legato,1,1
+sl100,0,legato,legato,1,1
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,legato,1,1
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,legato,1,1
+sl100,0,legato,legato,1,1
+sl100,0,legato,legato,1,1
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,tapping,1,2
+sl100,0,legato,legato,1,1
+sl100,0,legato,tapping,1,2
+sl100,0,legato,legato,1,1
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,tapping,tapping,2,2
+sl100,0,sweep picking,pull off,3,6
+sl100,0,sweep picking,pull off,3,6
+sl100,0,sweep picking,pull off,3,6
+sl100,0,sweep picking,tapping,3,2
+sl100,0,sweep picking,tapping,3,2
+sl100,0,sweep picking,tapping,3,2
+sl100,0,sweep picking,pull off,3,6
+sl100,0,sweep picking,tapping,3,2
+sl100,0,sweep picking,pull off,3,6
+sl100,0,sweep picking,pull off,3,6
+sl100,0,sweep picking,pull off,3,6
+sl100,0,sweep picking,pull off,3,6
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,tapping,4,2
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,vibrato,4,4
+sl100,0,vibrato,pull off,4,6
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,hammer on,5,5
+sl100,0,hammer on,hammer on,5,5
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,hammer on,5,5
+sl100,0,hammer on,hammer on,5,5
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,pull off,5,6
+sl100,0,hammer on,hammer on,5,5
+sl100,0,hammer on,hammer on,5,5
+sl100,0,hammer on,hammer on,5,5
+sl100,0,hammer on,hammer on,5,5
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,pull off,pull off,6,6
+sl100,0,slide,slide,7,7
+sl100,0,slide,slide,7,7
+sl100,0,slide,pull off,7,6
+sl100,0,slide,hammer on,7,5
+sl100,0,slide,hammer on,7,5
+sl100,0,slide,hammer on,7,5
+sl100,0,slide,slide,7,7
+sl100,0,slide,slide,7,7
+sl100,0,slide,pull off,7,6
+sl100,0,slide,slide,7,7
+sl100,0,slide,slide,7,7
+sl100,0,slide,slide,7,7
+sl100,0,slide,slide,7,7
+sl100,0,slide,slide,7,7
+sl100,0,slide,slide,7,7
+sl100,0,slide,pull off,7,6
+sl100,0,slide,slide,7,7
+sl100,0,slide,slide,7,7
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,slide,8,7
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,0,bend,bend,8,8
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,tapping,0,2
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,alternate picking,alternate picking,0,0
+sl100,1,legato,vibrato,1,4
+sl100,1,legato,vibrato,1,4
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,legato,1,1
+sl100,1,legato,legato,1,1
+sl100,1,legato,legato,1,1
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,legato,1,1
+sl100,1,legato,legato,1,1
+sl100,1,legato,tapping,1,2
+sl100,1,legato,legato,1,1
+sl100,1,legato,legato,1,1
+sl100,1,legato,legato,1,1
+sl100,1,legato,legato,1,1
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,tapping,1,2
+sl100,1,legato,legato,1,1
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,tapping,tapping,2,2
+sl100,1,sweep picking,tapping,3,2
+sl100,1,sweep picking,pull off,3,6
+sl100,1,sweep picking,pull off,3,6
+sl100,1,sweep picking,tapping,3,2
+sl100,1,sweep picking,tapping,3,2
+sl100,1,sweep picking,tapping,3,2
+sl100,1,sweep picking,tapping,3,2
+sl100,1,sweep picking,tapping,3,2
+sl100,1,sweep picking,tapping,3,2
+sl100,1,sweep picking,tapping,3,2
+sl100,1,sweep picking,tapping,3,2
+sl100,1,sweep picking,tapping,3,2
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,tapping,4,2
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,vibrato,4,4
+sl100,1,vibrato,tapping,4,2
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,tapping,5,2
+sl100,1,hammer on,tapping,5,2
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,pull off,5,6
+sl100,1,hammer on,tapping,5,2
+sl100,1,hammer on,hammer on,5,5
+sl100,1,hammer on,hammer on,5,5
+sl100,1,hammer on,pull off,5,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,tapping,6,2
+sl100,1,pull off,tapping,6,2
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,pull off,pull off,6,6
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,pull off,7,6
+sl100,1,slide,tapping,7,2
+sl100,1,slide,tapping,7,2
+sl100,1,slide,tapping,7,2
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,slide,slide,7,7
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,bend,8,8
+sl100,1,bend,tapping,8,2
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,alternate picking,alternate picking,0,0
+sl100,2,legato,vibrato,1,4
+sl100,2,legato,vibrato,1,4
+sl100,2,legato,vibrato,1,4
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,tapping,1,2
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,tapping,1,2
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,legato,legato,1,1
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,legato,2,1
+sl100,2,tapping,legato,2,1
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,tapping,tapping,2,2
+sl100,2,sweep picking,vibrato,3,4
+sl100,2,sweep picking,tapping,3,2
+sl100,2,sweep picking,pull off,3,6
+sl100,2,sweep picking,vibrato,3,4
+sl100,2,sweep picking,tapping,3,2
+sl100,2,sweep picking,tapping,3,2
+sl100,2,sweep picking,tapping,3,2
+sl100,2,sweep picking,vibrato,3,4
+sl100,2,sweep picking,pull off,3,6
+sl100,2,sweep picking,tapping,3,2
+sl100,2,sweep picking,tapping,3,2
+sl100,2,sweep picking,pull off,3,6
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,vibrato,vibrato,4,4
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,hammer on,5,5
+sl100,2,hammer on,hammer on,5,5
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,pull off,5,6
+sl100,2,hammer on,hammer on,5,5
+sl100,2,hammer on,hammer on,5,5
+sl100,2,hammer on,hammer on,5,5
+sl100,2,hammer on,hammer on,5,5
+sl100,2,hammer on,hammer on,5,5
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,pull off,pull off,6,6
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,slide,slide,7,7
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,2,bend,bend,8,8
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,alternate picking,alternate picking,0,0
+sl100,3,legato,vibrato,1,4
+sl100,3,legato,vibrato,1,4
+sl100,3,legato,vibrato,1,4
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,tapping,1,2
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,pull off,1,6
+sl100,3,legato,legato,1,1
+sl100,3,legato,tapping,1,2
+sl100,3,legato,legato,1,1
+sl100,3,legato,tapping,1,2
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,legato,legato,1,1
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,pull off,2,6
+sl100,3,tapping,pull off,2,6
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,pull off,2,6
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,tapping,tapping,2,2
+sl100,3,sweep picking,pull off,3,6
+sl100,3,sweep picking,pull off,3,6
+sl100,3,sweep picking,pull off,3,6
+sl100,3,sweep picking,pull off,3,6
+sl100,3,sweep picking,tapping,3,2
+sl100,3,sweep picking,vibrato,3,4
+sl100,3,sweep picking,pull off,3,6
+sl100,3,sweep picking,vibrato,3,4
+sl100,3,sweep picking,pull off,3,6
+sl100,3,sweep picking,pull off,3,6
+sl100,3,sweep picking,pull off,3,6
+sl100,3,sweep picking,pull off,3,6
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,pull off,4,6
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,vibrato,4,4
+sl100,3,vibrato,pull off,4,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,hammer on,5,5
+sl100,3,hammer on,hammer on,5,5
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,pull off,5,6
+sl100,3,hammer on,hammer on,5,5
+sl100,3,hammer on,hammer on,5,5
+sl100,3,hammer on,hammer on,5,5
+sl100,3,hammer on,pull off,5,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,pull off,pull off,6,6
+sl100,3,slide,slide,7,7
+sl100,3,slide,slide,7,7
+sl100,3,slide,pull off,7,6
+sl100,3,slide,pull off,7,6
+sl100,3,slide,pull off,7,6
+sl100,3,slide,pull off,7,6
+sl100,3,slide,slide,7,7
+sl100,3,slide,slide,7,7
+sl100,3,slide,pull off,7,6
+sl100,3,slide,slide,7,7
+sl100,3,slide,pull off,7,6
+sl100,3,slide,slide,7,7
+sl100,3,slide,slide,7,7
+sl100,3,slide,slide,7,7
+sl100,3,slide,slide,7,7
+sl100,3,slide,pull off,7,6
+sl100,3,slide,slide,7,7
+sl100,3,slide,slide,7,7
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,3,bend,bend,8,8
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,vibrato,0,4
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,vibrato,0,4
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,alternate picking,alternate picking,0,0
+sl100,4,legato,vibrato,1,4
+sl100,4,legato,vibrato,1,4
+sl100,4,legato,vibrato,1,4
+sl100,4,legato,tapping,1,2
+sl100,4,legato,tapping,1,2
+sl100,4,legato,tapping,1,2
+sl100,4,legato,legato,1,1
+sl100,4,legato,legato,1,1
+sl100,4,legato,legato,1,1
+sl100,4,legato,tapping,1,2
+sl100,4,legato,tapping,1,2
+sl100,4,legato,legato,1,1
+sl100,4,legato,legato,1,1
+sl100,4,legato,tapping,1,2
+sl100,4,legato,legato,1,1
+sl100,4,legato,legato,1,1
+sl100,4,legato,legato,1,1
+sl100,4,legato,legato,1,1
+sl100,4,legato,tapping,1,2
+sl100,4,legato,legato,1,1
+sl100,4,legato,tapping,1,2
+sl100,4,legato,tapping,1,2
+sl100,4,legato,tapping,1,2
+sl100,4,legato,legato,1,1
+sl100,4,legato,legato,1,1
+sl100,4,legato,legato,1,1
+sl100,4,legato,legato,1,1
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,tapping,tapping,2,2
+sl100,4,sweep picking,vibrato,3,4
+sl100,4,sweep picking,pull off,3,6
+sl100,4,sweep picking,pull off,3,6
+sl100,4,sweep picking,vibrato,3,4
+sl100,4,sweep picking,tapping,3,2
+sl100,4,sweep picking,tapping,3,2
+sl100,4,sweep picking,tapping,3,2
+sl100,4,sweep picking,vibrato,3,4
+sl100,4,sweep picking,pull off,3,6
+sl100,4,sweep picking,pull off,3,6
+sl100,4,sweep picking,pull off,3,6
+sl100,4,sweep picking,pull off,3,6
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,vibrato,vibrato,4,4
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,hammer on,5,5
+sl100,4,hammer on,hammer on,5,5
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,pull off,5,6
+sl100,4,hammer on,hammer on,5,5
+sl100,4,hammer on,hammer on,5,5
+sl100,4,hammer on,hammer on,5,5
+sl100,4,hammer on,hammer on,5,5
+sl100,4,hammer on,hammer on,5,5
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,pull off,pull off,6,6
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,hammer on,7,5
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,slide,slide,7,7
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+sl100,4,bend,bend,8,8
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,alternate picking,alternate picking,0,0
+plexiglass,0,legato,vibrato,1,4
+plexiglass,0,legato,vibrato,1,4
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,legato,legato,1,1
+plexiglass,0,tapping,pull off,2,6
+plexiglass,0,tapping,sweep picking,2,3
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,tapping,pull off,2,6
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,tapping,slide,2,7
+plexiglass,0,tapping,slide,2,7
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,tapping,tapping,2,2
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,tapping,legato,2,1
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,sweep picking,slide,3,7
+plexiglass,0,sweep picking,sweep picking,3,3
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,vibrato,vibrato,4,4
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,pull off,5,6
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,slide,5,7
+plexiglass,0,hammer on,slide,5,7
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,slide,5,7
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,hammer on,hammer on,5,5
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,slide,6,7
+plexiglass,0,pull off,slide,6,7
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,slide,6,7
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,slide,6,7
+plexiglass,0,pull off,sweep picking,6,3
+plexiglass,0,pull off,pull off,6,6
+plexiglass,0,pull off,hammer on,6,5
+plexiglass,0,pull off,hammer on,6,5
+plexiglass,0,pull off,hammer on,6,5
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,slide,slide,7,7
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,slide,8,7
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,0,bend,bend,8,8
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,alternate picking,alternate picking,0,0
+plexiglass,1,legato,vibrato,1,4
+plexiglass,1,legato,vibrato,1,4
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,slide,1,7
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,legato,legato,1,1
+plexiglass,1,tapping,pull off,2,6
+plexiglass,1,tapping,tapping,2,2
+plexiglass,1,tapping,tapping,2,2
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,slide,2,7
+plexiglass,1,tapping,pull off,2,6
+plexiglass,1,tapping,tapping,2,2
+plexiglass,1,tapping,tapping,2,2
+plexiglass,1,tapping,tapping,2,2
+plexiglass,1,tapping,pull off,2,6
+plexiglass,1,tapping,tapping,2,2
+plexiglass,1,tapping,tapping,2,2
+plexiglass,1,tapping,tapping,2,2
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,slide,2,7
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,tapping,2,2
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,tapping,legato,2,1
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,sweep picking,slide,3,7
+plexiglass,1,sweep picking,slide,3,7
+plexiglass,1,sweep picking,sweep picking,3,3
+plexiglass,1,vibrato,hammer on,4,5
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,hammer on,4,5
+plexiglass,1,vibrato,hammer on,4,5
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,vibrato,vibrato,4,4
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,hammer on,slide,5,7
+plexiglass,1,hammer on,pull off,5,6
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,hammer on,slide,5,7
+plexiglass,1,hammer on,slide,5,7
+plexiglass,1,hammer on,slide,5,7
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,hammer on,slide,5,7
+plexiglass,1,hammer on,slide,5,7
+plexiglass,1,hammer on,legato,5,1
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,hammer on,hammer on,5,5
+plexiglass,1,pull off,slide,6,7
+plexiglass,1,pull off,slide,6,7
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,slide,6,7
+plexiglass,1,pull off,hammer on,6,5
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,slide,6,7
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,slide,6,7
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,pull off,6,6
+plexiglass,1,pull off,hammer on,6,5
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,slide,slide,7,7
+plexiglass,1,bend,slide,8,7
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,1,bend,bend,8,8
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,alternate picking,alternate picking,0,0
+plexiglass,2,legato,vibrato,1,4
+plexiglass,2,legato,sweep picking,1,3
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,slide,1,7
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,legato,legato,1,1
+plexiglass,2,tapping,hammer on,2,5
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,legato,2,1
+plexiglass,2,tapping,pull off,2,6
+plexiglass,2,tapping,legato,2,1
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,legato,2,1
+plexiglass,2,tapping,slide,2,7
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,tapping,2,2
+plexiglass,2,tapping,legato,2,1
+plexiglass,2,tapping,slide,2,7
+plexiglass,2,tapping,legato,2,1
+plexiglass,2,tapping,legato,2,1
+plexiglass,2,tapping,slide,2,7
+plexiglass,2,tapping,slide,2,7
+plexiglass,2,tapping,slide,2,7
+plexiglass,2,tapping,legato,2,1
+plexiglass,2,tapping,legato,2,1
+plexiglass,2,tapping,legato,2,1
+plexiglass,2,sweep picking,sweep picking,3,3
+plexiglass,2,sweep picking,sweep picking,3,3
+plexiglass,2,sweep picking,sweep picking,3,3
+plexiglass,2,sweep picking,sweep picking,3,3
+plexiglass,2,sweep picking,sweep picking,3,3
+plexiglass,2,sweep picking,sweep picking,3,3
+plexiglass,2,sweep picking,sweep picking,3,3
+plexiglass,2,sweep picking,sweep picking,3,3
+plexiglass,2,sweep picking,slide,3,7
+plexiglass,2,sweep picking,sweep picking,3,3
+plexiglass,2,sweep picking,slide,3,7
+plexiglass,2,sweep picking,slide,3,7
+plexiglass,2,vibrato,hammer on,4,5
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,hammer on,4,5
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,vibrato,vibrato,4,4
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,pull off,5,6
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,slide,5,7
+plexiglass,2,hammer on,slide,5,7
+plexiglass,2,hammer on,slide,5,7
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,slide,5,7
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,hammer on,hammer on,5,5
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,slide,6,7
+plexiglass,2,pull off,slide,6,7
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,slide,6,7
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,slide,6,7
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,pull off,6,6
+plexiglass,2,pull off,hammer on,6,5
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,slide,slide,7,7
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,2,bend,bend,8,8
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,alternate picking,alternate picking,0,0
+plexiglass,3,legato,vibrato,1,4
+plexiglass,3,legato,vibrato,1,4
+plexiglass,3,legato,vibrato,1,4
+plexiglass,3,legato,slide,1,7
+plexiglass,3,legato,slide,1,7
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,legato,legato,1,1
+plexiglass,3,tapping,slide,2,7
+plexiglass,3,tapping,slide,2,7
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,slide,2,7
+plexiglass,3,tapping,tapping,2,2
+plexiglass,3,tapping,tapping,2,2
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,tapping,2,2
+plexiglass,3,tapping,tapping,2,2
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,tapping,2,2
+plexiglass,3,tapping,slide,2,7
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,slide,2,7
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,slide,2,7
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,tapping,legato,2,1
+plexiglass,3,sweep picking,sweep picking,3,3
+plexiglass,3,sweep picking,sweep picking,3,3
+plexiglass,3,sweep picking,slide,3,7
+plexiglass,3,sweep picking,slide,3,7
+plexiglass,3,sweep picking,slide,3,7
+plexiglass,3,sweep picking,sweep picking,3,3
+plexiglass,3,sweep picking,slide,3,7
+plexiglass,3,sweep picking,slide,3,7
+plexiglass,3,sweep picking,sweep picking,3,3
+plexiglass,3,sweep picking,slide,3,7
+plexiglass,3,sweep picking,slide,3,7
+plexiglass,3,sweep picking,slide,3,7
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,slide,4,7
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,vibrato,vibrato,4,4
+plexiglass,3,hammer on,hammer on,5,5
+plexiglass,3,hammer on,slide,5,7
+plexiglass,3,hammer on,slide,5,7
+plexiglass,3,hammer on,slide,5,7
+plexiglass,3,hammer on,hammer on,5,5
+plexiglass,3,hammer on,hammer on,5,5
+plexiglass,3,hammer on,slide,5,7
+plexiglass,3,hammer on,slide,5,7
+plexiglass,3,hammer on,slide,5,7
+plexiglass,3,hammer on,pull off,5,6
+plexiglass,3,hammer on,hammer on,5,5
+plexiglass,3,hammer on,hammer on,5,5
+plexiglass,3,hammer on,slide,5,7
+plexiglass,3,hammer on,slide,5,7
+plexiglass,3,hammer on,legato,5,1
+plexiglass,3,hammer on,hammer on,5,5
+plexiglass,3,hammer on,hammer on,5,5
+plexiglass,3,hammer on,hammer on,5,5
+plexiglass,3,pull off,slide,6,7
+plexiglass,3,pull off,slide,6,7
+plexiglass,3,pull off,slide,6,7
+plexiglass,3,pull off,pull off,6,6
+plexiglass,3,pull off,pull off,6,6
+plexiglass,3,pull off,pull off,6,6
+plexiglass,3,pull off,slide,6,7
+plexiglass,3,pull off,slide,6,7
+plexiglass,3,pull off,slide,6,7
+plexiglass,3,pull off,slide,6,7
+plexiglass,3,pull off,pull off,6,6
+plexiglass,3,pull off,pull off,6,6
+plexiglass,3,pull off,slide,6,7
+plexiglass,3,pull off,slide,6,7
+plexiglass,3,pull off,pull off,6,6
+plexiglass,3,pull off,pull off,6,6
+plexiglass,3,pull off,pull off,6,6
+plexiglass,3,pull off,pull off,6,6
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,slide,slide,7,7
+plexiglass,3,bend,slide,8,7
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,slide,8,7
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,slide,8,7
+plexiglass,3,bend,slide,8,7
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,slide,8,7
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,slide,8,7
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,bend,8,8
+plexiglass,3,bend,slide,8,7
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,alternate picking,alternate picking,0,0
+plexiglass,4,legato,vibrato,1,4
+plexiglass,4,legato,vibrato,1,4
+plexiglass,4,legato,vibrato,1,4
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,slide,1,7
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,legato,legato,1,1
+plexiglass,4,tapping,pull off,2,6
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,vibrato,2,4
+plexiglass,4,tapping,tapping,2,2
+plexiglass,4,tapping,tapping,2,2
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,tapping,2,2
+plexiglass,4,tapping,tapping,2,2
+plexiglass,4,tapping,tapping,2,2
+plexiglass,4,tapping,tapping,2,2
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,slide,2,7
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,tapping,2,2
+plexiglass,4,tapping,legato,2,1
+plexiglass,4,tapping,tapping,2,2
+plexiglass,4,sweep picking,sweep picking,3,3
+plexiglass,4,sweep picking,sweep picking,3,3
+plexiglass,4,sweep picking,sweep picking,3,3
+plexiglass,4,sweep picking,sweep picking,3,3
+plexiglass,4,sweep picking,vibrato,3,4
+plexiglass,4,sweep picking,sweep picking,3,3
+plexiglass,4,sweep picking,sweep picking,3,3
+plexiglass,4,sweep picking,sweep picking,3,3
+plexiglass,4,sweep picking,vibrato,3,4
+plexiglass,4,sweep picking,sweep picking,3,3
+plexiglass,4,sweep picking,legato,3,1
+plexiglass,4,sweep picking,slide,3,7
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,vibrato,vibrato,4,4
+plexiglass,4,hammer on,slide,5,7
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,hammer on,pull off,5,6
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,hammer on,slide,5,7
+plexiglass,4,hammer on,slide,5,7
+plexiglass,4,hammer on,slide,5,7
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,hammer on,slide,5,7
+plexiglass,4,hammer on,slide,5,7
+plexiglass,4,hammer on,legato,5,1
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,hammer on,hammer on,5,5
+plexiglass,4,pull off,slide,6,7
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,slide,6,7
+plexiglass,4,pull off,slide,6,7
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,slide,6,7
+plexiglass,4,pull off,slide,6,7
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,pull off,pull off,6,6
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,slide,slide,7,7
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8
+plexiglass,4,bend,bend,8,8

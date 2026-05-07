@@ -1,4 +1,0 @@
-fold,n_train_files,n_test_files,n_train_segments,n_valid_segments,best_epoch,best_valid_accuracy,best_valid_f1_macro,test_accuracy,test_f1_macro,checkpoint_path
-carvin,366,183,3040,761,85,0.9448094612352168,0.9593808780474726,0.8415300546448088,0.8082306442007182,/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/outputs/stage2_cnn_replication/checkpoints/guitars_carvin_best.pt
-palm-bay,366,183,3357,840,150,0.9654761904761905,0.9634176221229581,0.8961748633879781,0.8697264478396554,/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/outputs/stage2_cnn_replication/checkpoints/guitars_palm-bay_best.pt
-rwg,366,183,3272,818,30,0.9511002444987775,0.9578683639311364,0.912568306010929,0.8953357086541709,/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/outputs/stage2_cnn_replication/checkpoints/guitars_rwg_best.pt

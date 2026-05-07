@@ -1,0 +1,727 @@
+^DTorch version: 2.9.0
+MFCC CNN experiment: experiment_3
+MFCC CNN method: mfcc_cnn_aligned
+Effective MFCC n_fft: 4096
+Prepared segment work root: /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3
+
+================ MFCC CNN experiment_3 dc-modern ================
+Variant config: variant=aligned SR=48000 seg=0.5s n_mfcc=26 n_fft=4096 hop=1024 center=True CMVN=off conv_kernels=[3,3,2] pool_kernels=[3,3,2] conv_padding=valid init=keras_glorot bn_keras=True adam_eps=1e-07 audio_backend=librosa seeds=[0,1,2,3,4] optimizer=Adam lr=0.0001 batch=32 epochs=50 early_stopping=False
+--- seed=0 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/dc-modern
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6561 | Val segments: 1641
+Test segments: 3886
+Epoch 005: train_loss=0.7365 train_acc=0.7406 val_loss=0.5517 val_acc=0.8184
+Epoch 010: train_loss=0.4656 train_acc=0.8348 val_loss=0.3899 val_acc=0.8653
+Epoch 015: train_loss=0.3194 train_acc=0.8877 val_loss=0.2978 val_acc=0.8988
+Epoch 020: train_loss=0.2647 train_acc=0.9064 val_loss=0.2536 val_acc=0.9153
+Epoch 025: train_loss=0.2135 train_acc=0.9276 val_loss=0.2613 val_acc=0.9068
+Epoch 030: train_loss=0.1529 train_acc=0.9482 val_loss=0.2292 val_acc=0.9190
+Epoch 035: train_loss=0.1367 train_acc=0.9506 val_loss=0.2357 val_acc=0.9116
+Epoch 040: train_loss=0.1412 train_acc=0.9526 val_loss=0.2152 val_acc=0.9250
+Epoch 045: train_loss=0.0846 train_acc=0.9747 val_loss=0.1928 val_acc=0.9311
+Epoch 050: train_loss=0.1044 train_acc=0.9619 val_loss=0.2019 val_acc=0.9311
+Accuracy: 0.770492
+Repo F1 from macro precision/recall: 0.804125
+Sklearn macro F1: 0.743625
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       1.00      0.78      0.88        27
+          tapping       1.00      0.81      0.90        27
+    sweep picking       1.00      0.58      0.74        12
+          vibrato       0.83      0.83      0.83        18
+        hammer on       0.63      0.67      0.65        18
+         pull off       1.00      0.11      0.20        18
+            slide       0.36      1.00      0.53        18
+             bend       1.00      0.94      0.97        18
+
+         accuracy                           0.77       183
+        macro avg       0.87      0.75      0.74       183
+     weighted avg       0.88      0.77      0.77       183
+
+--- seed=1 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/dc-modern
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6561 | Val segments: 1641
+Test segments: 3886
+Epoch 005: train_loss=0.7557 train_acc=0.7392 val_loss=0.5729 val_acc=0.8074
+Epoch 010: train_loss=0.4687 train_acc=0.8336 val_loss=0.3698 val_acc=0.8659
+Epoch 015: train_loss=0.3191 train_acc=0.8895 val_loss=0.2931 val_acc=0.9055
+Epoch 020: train_loss=0.2491 train_acc=0.9128 val_loss=0.2461 val_acc=0.9098
+Epoch 025: train_loss=0.1805 train_acc=0.9415 val_loss=0.2143 val_acc=0.9257
+Epoch 030: train_loss=0.1465 train_acc=0.9518 val_loss=0.1937 val_acc=0.9275
+Epoch 035: train_loss=0.1618 train_acc=0.9444 val_loss=0.1915 val_acc=0.9348
+Epoch 040: train_loss=0.0906 train_acc=0.9704 val_loss=0.1836 val_acc=0.9342
+Epoch 045: train_loss=0.1012 train_acc=0.9643 val_loss=0.1858 val_acc=0.9336
+Epoch 050: train_loss=0.0949 train_acc=0.9683 val_loss=0.1627 val_acc=0.9439
+Accuracy: 0.754098
+Repo F1 from macro precision/recall: 0.807298
+Sklearn macro F1: 0.759749
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       1.00      0.63      0.77        27
+          tapping       1.00      0.70      0.83        27
+    sweep picking       1.00      0.75      0.86        12
+          vibrato       0.87      0.72      0.79        18
+        hammer on       0.67      0.78      0.72        18
+         pull off       1.00      0.28      0.43        18
+            slide       0.33      1.00      0.50        18
+             bend       1.00      0.89      0.94        18
+
+         accuracy                           0.75       183
+        macro avg       0.87      0.75      0.76       183
+     weighted avg       0.89      0.75      0.77       183
+
+--- seed=2 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/dc-modern
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6561 | Val segments: 1641
+Test segments: 3886
+Epoch 005: train_loss=0.7199 train_acc=0.7511 val_loss=0.5649 val_acc=0.8087
+Epoch 010: train_loss=0.4576 train_acc=0.8455 val_loss=0.3735 val_acc=0.8635
+Epoch 015: train_loss=0.3392 train_acc=0.8840 val_loss=0.3110 val_acc=0.8927
+Epoch 020: train_loss=0.2573 train_acc=0.9105 val_loss=0.2754 val_acc=0.8976
+Epoch 025: train_loss=0.2011 train_acc=0.9317 val_loss=0.2342 val_acc=0.9159
+Epoch 030: train_loss=0.1581 train_acc=0.9456 val_loss=0.2161 val_acc=0.9250
+Epoch 035: train_loss=0.1528 train_acc=0.9485 val_loss=0.2237 val_acc=0.9171
+Epoch 040: train_loss=0.1004 train_acc=0.9691 val_loss=0.2274 val_acc=0.9177
+Epoch 045: train_loss=0.0813 train_acc=0.9745 val_loss=0.2199 val_acc=0.9244
+Epoch 050: train_loss=0.0708 train_acc=0.9771 val_loss=0.2207 val_acc=0.9293
+Accuracy: 0.677596
+Repo F1 from macro precision/recall: 0.740804
+Sklearn macro F1: 0.670113
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       1.00      0.52      0.68        27
+          tapping       0.95      0.74      0.83        27
+    sweep picking       1.00      0.33      0.50        12
+          vibrato       0.91      0.56      0.69        18
+        hammer on       0.59      0.56      0.57        18
+         pull off       1.00      0.22      0.36        18
+            slide       0.26      1.00      0.42        18
+             bend       1.00      0.94      0.97        18
+
+         accuracy                           0.68       183
+        macro avg       0.86      0.65      0.67       183
+     weighted avg       0.87      0.68      0.70       183
+
+--- seed=3 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/dc-modern
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6561 | Val segments: 1641
+Test segments: 3886
+Epoch 005: train_loss=0.6797 train_acc=0.7644 val_loss=0.5418 val_acc=0.8044
+Epoch 010: train_loss=0.4228 train_acc=0.8505 val_loss=0.3437 val_acc=0.8787
+Epoch 015: train_loss=0.3261 train_acc=0.8846 val_loss=0.2851 val_acc=0.8952
+Epoch 020: train_loss=0.2271 train_acc=0.9242 val_loss=0.2373 val_acc=0.9122
+Epoch 025: train_loss=0.1779 train_acc=0.9396 val_loss=0.2237 val_acc=0.9183
+Epoch 030: train_loss=0.1561 train_acc=0.9471 val_loss=0.1985 val_acc=0.9263
+Epoch 035: train_loss=0.1366 train_acc=0.9561 val_loss=0.1848 val_acc=0.9336
+Epoch 040: train_loss=0.1226 train_acc=0.9584 val_loss=0.1997 val_acc=0.9263
+Epoch 045: train_loss=0.0837 train_acc=0.9712 val_loss=0.1980 val_acc=0.9299
+Epoch 050: train_loss=0.0758 train_acc=0.9758 val_loss=0.1789 val_acc=0.9415
+Accuracy: 0.710383
+Repo F1 from macro precision/recall: 0.766883
+Sklearn macro F1: 0.698639
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       1.00      0.52      0.68        27
+          tapping       0.91      0.78      0.84        27
+    sweep picking       1.00      0.58      0.74        12
+          vibrato       0.93      0.78      0.85        18
+        hammer on       0.53      0.56      0.54        18
+         pull off       1.00      0.11      0.20        18
+            slide       0.31      1.00      0.47        18
+             bend       1.00      0.94      0.97        18
+
+         accuracy                           0.71       183
+        macro avg       0.85      0.70      0.70       183
+     weighted avg       0.87      0.71      0.72       183
+
+--- seed=4 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/dc-modern
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6561 | Val segments: 1641
+Test segments: 3886
+Epoch 005: train_loss=0.7225 train_acc=0.7517 val_loss=0.5576 val_acc=0.8178
+Epoch 010: train_loss=0.4502 train_acc=0.8464 val_loss=0.3962 val_acc=0.8739
+Epoch 015: train_loss=0.3225 train_acc=0.8840 val_loss=0.3254 val_acc=0.8921
+Epoch 020: train_loss=0.2483 train_acc=0.9156 val_loss=0.3034 val_acc=0.9055
+Epoch 025: train_loss=0.1968 train_acc=0.9316 val_loss=0.2569 val_acc=0.9165
+Epoch 030: train_loss=0.1573 train_acc=0.9465 val_loss=0.2499 val_acc=0.9196
+Epoch 035: train_loss=0.1353 train_acc=0.9547 val_loss=0.2651 val_acc=0.9214
+Epoch 040: train_loss=0.1027 train_acc=0.9660 val_loss=0.2228 val_acc=0.9281
+Epoch 045: train_loss=0.0985 train_acc=0.9675 val_loss=0.2336 val_acc=0.9214
+Epoch 050: train_loss=0.0946 train_acc=0.9683 val_loss=0.2457 val_acc=0.9232
+Accuracy: 0.704918
+Repo F1 from macro precision/recall: 0.759851
+Sklearn macro F1: 0.698339
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       1.00      0.48      0.65        27
+          tapping       0.88      0.78      0.82        27
+    sweep picking       1.00      0.33      0.50        12
+          vibrato       1.00      0.72      0.84        18
+        hammer on       0.52      0.61      0.56        18
+         pull off       1.00      0.33      0.50        18
+            slide       0.31      1.00      0.47        18
+             bend       1.00      0.89      0.94        18
+
+         accuracy                           0.70       183
+        macro avg       0.86      0.68      0.70       183
+     weighted avg       0.87      0.70      0.72       183
+
+
+================ MFCC CNN experiment_3 sl100 ================
+Variant config: variant=aligned SR=48000 seg=0.5s n_mfcc=26 n_fft=4096 hop=1024 center=True CMVN=off conv_kernels=[3,3,2] pool_kernels=[3,3,2] conv_padding=valid init=keras_glorot bn_keras=True adam_eps=1e-07 audio_backend=librosa seeds=[0,1,2,3,4] optimizer=Adam lr=0.0001 batch=32 epochs=50 early_stopping=False
+--- seed=0 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/sl100
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6251 | Val segments: 1563
+Test segments: 4274
+Epoch 005: train_loss=0.7261 train_acc=0.7359 val_loss=0.5547 val_acc=0.8241
+Epoch 010: train_loss=0.4497 train_acc=0.8397 val_loss=0.3722 val_acc=0.8695
+Epoch 015: train_loss=0.3185 train_acc=0.8875 val_loss=0.2911 val_acc=0.8932
+Epoch 020: train_loss=0.2239 train_acc=0.9175 val_loss=0.2556 val_acc=0.9021
+Epoch 025: train_loss=0.1685 train_acc=0.9416 val_loss=0.2150 val_acc=0.9245
+Epoch 030: train_loss=0.1298 train_acc=0.9574 val_loss=0.2013 val_acc=0.9264
+Epoch 035: train_loss=0.1066 train_acc=0.9630 val_loss=0.2016 val_acc=0.9283
+Epoch 040: train_loss=0.0786 train_acc=0.9742 val_loss=0.1898 val_acc=0.9309
+Epoch 045: train_loss=0.0604 train_acc=0.9805 val_loss=0.1725 val_acc=0.9411
+Epoch 050: train_loss=0.0480 train_acc=0.9832 val_loss=0.2356 val_acc=0.9194
+Accuracy: 0.726776
+Repo F1 from macro precision/recall: 0.709666
+Sklearn macro F1: 0.666509
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      0.96      0.98        27
+           legato       1.00      0.33      0.50        27
+          tapping       0.55      1.00      0.71        27
+    sweep picking       0.00      0.00      0.00        12
+          vibrato       0.89      0.89      0.89        18
+        hammer on       0.73      0.44      0.55        18
+         pull off       0.45      1.00      0.62        18
+            slide       0.92      0.67      0.77        18
+             bend       1.00      0.94      0.97        18
+
+         accuracy                           0.73       183
+        macro avg       0.73      0.69      0.67       183
+     weighted avg       0.77      0.73      0.70       183
+
+--- seed=1 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/sl100
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6251 | Val segments: 1563
+Test segments: 4274
+Epoch 005: train_loss=0.7705 train_acc=0.7340 val_loss=0.6149 val_acc=0.7831
+Epoch 010: train_loss=0.4684 train_acc=0.8359 val_loss=0.4104 val_acc=0.8554
+Epoch 015: train_loss=0.2980 train_acc=0.8944 val_loss=0.3016 val_acc=0.8887
+Epoch 020: train_loss=0.2001 train_acc=0.9322 val_loss=0.2588 val_acc=0.9104
+Epoch 025: train_loss=0.1530 train_acc=0.9494 val_loss=0.2270 val_acc=0.9175
+Epoch 030: train_loss=0.1120 train_acc=0.9653 val_loss=0.2164 val_acc=0.9232
+Epoch 035: train_loss=0.0850 train_acc=0.9722 val_loss=0.2019 val_acc=0.9309
+Epoch 040: train_loss=0.0729 train_acc=0.9749 val_loss=0.1947 val_acc=0.9347
+Epoch 045: train_loss=0.0513 train_acc=0.9853 val_loss=0.2143 val_acc=0.9335
+Epoch 050: train_loss=0.0472 train_acc=0.9850 val_loss=0.2419 val_acc=0.9277
+Accuracy: 0.699454
+Repo F1 from macro precision/recall: 0.705354
+Sklearn macro F1: 0.632266
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      0.96      0.98        27
+           legato       1.00      0.37      0.54        27
+          tapping       0.42      1.00      0.59        27
+    sweep picking       0.00      0.00      0.00        12
+          vibrato       0.89      0.89      0.89        18
+        hammer on       1.00      0.11      0.20        18
+         pull off       0.50      0.89      0.64        18
+            slide       1.00      0.78      0.88        18
+             bend       1.00      0.94      0.97        18
+
+         accuracy                           0.70       183
+        macro avg       0.76      0.66      0.63       183
+     weighted avg       0.79      0.70      0.66       183
+
+--- seed=2 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/sl100
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6251 | Val segments: 1563
+Test segments: 4274
+Epoch 005: train_loss=0.7425 train_acc=0.7391 val_loss=0.5532 val_acc=0.8138
+Epoch 010: train_loss=0.4376 train_acc=0.8448 val_loss=0.3535 val_acc=0.8804
+Epoch 015: train_loss=0.3010 train_acc=0.8939 val_loss=0.3044 val_acc=0.8938
+Epoch 020: train_loss=0.2337 train_acc=0.9184 val_loss=0.2635 val_acc=0.9085
+Epoch 025: train_loss=0.1626 train_acc=0.9482 val_loss=0.2198 val_acc=0.9226
+Epoch 030: train_loss=0.1197 train_acc=0.9611 val_loss=0.2197 val_acc=0.9309
+Epoch 035: train_loss=0.0876 train_acc=0.9733 val_loss=0.2105 val_acc=0.9347
+Epoch 040: train_loss=0.0745 train_acc=0.9760 val_loss=0.2014 val_acc=0.9335
+Epoch 045: train_loss=0.0564 train_acc=0.9832 val_loss=0.1972 val_acc=0.9405
+Epoch 050: train_loss=0.0518 train_acc=0.9837 val_loss=0.1950 val_acc=0.9456
+Accuracy: 0.836066
+Repo F1 from macro precision/recall: 0.784163
+Sklearn macro F1: 0.759247
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       0.92      0.81      0.86        27
+          tapping       0.76      0.93      0.83        27
+    sweep picking       0.00      0.00      0.00        12
+          vibrato       0.75      1.00      0.86        18
+        hammer on       1.00      0.39      0.56        18
+         pull off       0.56      1.00      0.72        18
+            slide       1.00      1.00      1.00        18
+             bend       1.00      1.00      1.00        18
+
+         accuracy                           0.84       183
+        macro avg       0.78      0.79      0.76       183
+     weighted avg       0.82      0.84      0.80       183
+
+--- seed=3 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/sl100
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6251 | Val segments: 1563
+Test segments: 4274
+Epoch 005: train_loss=0.7351 train_acc=0.7362 val_loss=0.5963 val_acc=0.7921
+Epoch 010: train_loss=0.4386 train_acc=0.8479 val_loss=0.3938 val_acc=0.8676
+Epoch 015: train_loss=0.3048 train_acc=0.8970 val_loss=0.3175 val_acc=0.8919
+Epoch 020: train_loss=0.2213 train_acc=0.9226 val_loss=0.2814 val_acc=0.9034
+Epoch 025: train_loss=0.1669 train_acc=0.9418 val_loss=0.2459 val_acc=0.9111
+Epoch 030: train_loss=0.1250 train_acc=0.9570 val_loss=0.2463 val_acc=0.9200
+Epoch 035: train_loss=0.0993 train_acc=0.9659 val_loss=0.2323 val_acc=0.9232
+Epoch 040: train_loss=0.0731 train_acc=0.9766 val_loss=0.2563 val_acc=0.9168
+Epoch 045: train_loss=0.0642 train_acc=0.9795 val_loss=0.3890 val_acc=0.8829
+Epoch 050: train_loss=0.0564 train_acc=0.9813 val_loss=0.2317 val_acc=0.9219
+Accuracy: 0.759563
+Repo F1 from macro precision/recall: 0.741297
+Sklearn macro F1: 0.693861
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       1.00      0.74      0.85        27
+          tapping       0.86      0.89      0.87        27
+    sweep picking       0.00      0.00      0.00        12
+          vibrato       0.76      0.89      0.82        18
+        hammer on       1.00      0.28      0.43        18
+         pull off       0.34      1.00      0.51        18
+            slide       1.00      0.61      0.76        18
+             bend       1.00      1.00      1.00        18
+
+         accuracy                           0.76       183
+        macro avg       0.77      0.71      0.69       183
+     weighted avg       0.82      0.76      0.75       183
+
+--- seed=4 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/sl100
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6251 | Val segments: 1563
+Test segments: 4274
+Epoch 005: train_loss=0.7500 train_acc=0.7399 val_loss=0.6262 val_acc=0.7614
+Epoch 010: train_loss=0.4411 train_acc=0.8455 val_loss=0.3890 val_acc=0.8560
+Epoch 015: train_loss=0.2937 train_acc=0.8984 val_loss=0.3029 val_acc=0.8970
+Epoch 020: train_loss=0.2113 train_acc=0.9277 val_loss=0.2653 val_acc=0.9028
+Epoch 025: train_loss=0.1596 train_acc=0.9459 val_loss=0.2380 val_acc=0.9168
+Epoch 030: train_loss=0.1216 train_acc=0.9579 val_loss=0.2562 val_acc=0.9091
+Epoch 035: train_loss=0.0876 train_acc=0.9701 val_loss=0.2280 val_acc=0.9219
+Epoch 040: train_loss=0.0717 train_acc=0.9786 val_loss=0.2360 val_acc=0.9200
+Epoch 045: train_loss=0.0565 train_acc=0.9827 val_loss=0.2316 val_acc=0.9175
+Epoch 050: train_loss=0.0480 train_acc=0.9840 val_loss=0.2055 val_acc=0.9322
+Accuracy: 0.786885
+Repo F1 from macro precision/recall: 0.751908
+Sklearn macro F1: 0.717528
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      0.93      0.96        27
+           legato       1.00      0.52      0.68        27
+          tapping       0.68      1.00      0.81        27
+    sweep picking       0.00      0.00      0.00        12
+          vibrato       0.69      1.00      0.82        18
+        hammer on       0.88      0.39      0.54        18
+         pull off       0.51      1.00      0.68        18
+            slide       1.00      0.94      0.97        18
+             bend       1.00      1.00      1.00        18
+
+         accuracy                           0.79       183
+        macro avg       0.75      0.75      0.72       183
+     weighted avg       0.80      0.79      0.76       183
+
+
+================ MFCC CNN experiment_3 plexiglass ================
+Variant config: variant=aligned SR=48000 seg=0.5s n_mfcc=26 n_fft=4096 hop=1024 center=True CMVN=off conv_kernels=[3,3,2] pool_kernels=[3,3,2] conv_padding=valid init=keras_glorot bn_keras=True adam_eps=1e-07 audio_backend=librosa seeds=[0,1,2,3,4] optimizer=Adam lr=0.0001 batch=32 epochs=50 early_stopping=False
+--- seed=0 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/plexiglass
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6528 | Val segments: 1632
+Test segments: 3928
+Epoch 005: train_loss=0.7085 train_acc=0.7485 val_loss=0.5356 val_acc=0.8150
+Epoch 010: train_loss=0.4134 train_acc=0.8595 val_loss=0.3405 val_acc=0.8866
+Epoch 015: train_loss=0.2909 train_acc=0.9007 val_loss=0.2644 val_acc=0.9093
+Epoch 020: train_loss=0.2085 train_acc=0.9292 val_loss=0.2192 val_acc=0.9222
+Epoch 025: train_loss=0.1621 train_acc=0.9429 val_loss=0.2272 val_acc=0.9154
+Epoch 030: train_loss=0.1190 train_acc=0.9609 val_loss=0.1946 val_acc=0.9240
+Epoch 035: train_loss=0.0857 train_acc=0.9740 val_loss=0.1919 val_acc=0.9295
+Epoch 040: train_loss=0.0733 train_acc=0.9761 val_loss=0.1842 val_acc=0.9363
+Epoch 045: train_loss=0.0542 train_acc=0.9833 val_loss=0.2007 val_acc=0.9350
+Epoch 050: train_loss=0.0485 train_acc=0.9835 val_loss=0.1824 val_acc=0.9344
+Accuracy: 0.830601
+Repo F1 from macro precision/recall: 0.846551
+Sklearn macro F1: 0.825750
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       0.71      0.93      0.81        27
+          tapping       1.00      0.44      0.62        27
+    sweep picking       0.85      0.92      0.88        12
+          vibrato       0.90      1.00      0.95        18
+        hammer on       0.82      0.78      0.80        18
+         pull off       0.77      0.56      0.65        18
+            slide       0.62      1.00      0.77        18
+             bend       1.00      0.94      0.97        18
+
+         accuracy                           0.83       183
+        macro avg       0.85      0.84      0.83       183
+     weighted avg       0.86      0.83      0.82       183
+
+--- seed=1 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/plexiglass
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6528 | Val segments: 1632
+Test segments: 3928
+Epoch 005: train_loss=0.7138 train_acc=0.7465 val_loss=0.5259 val_acc=0.8180
+Epoch 010: train_loss=0.4073 train_acc=0.8559 val_loss=0.3682 val_acc=0.8707
+Epoch 015: train_loss=0.2552 train_acc=0.9116 val_loss=0.2525 val_acc=0.9148
+Epoch 020: train_loss=0.1828 train_acc=0.9395 val_loss=0.2477 val_acc=0.9161
+Epoch 025: train_loss=0.1296 train_acc=0.9559 val_loss=0.2181 val_acc=0.9210
+Epoch 030: train_loss=0.0995 train_acc=0.9678 val_loss=0.2302 val_acc=0.9179
+Epoch 035: train_loss=0.0807 train_acc=0.9732 val_loss=0.1983 val_acc=0.9295
+Epoch 040: train_loss=0.0612 train_acc=0.9790 val_loss=0.2240 val_acc=0.9161
+Epoch 045: train_loss=0.0455 train_acc=0.9867 val_loss=0.2189 val_acc=0.9271
+Epoch 050: train_loss=0.0416 train_acc=0.9856 val_loss=0.2193 val_acc=0.9283
+Accuracy: 0.770492
+Repo F1 from macro precision/recall: 0.800862
+Sklearn macro F1: 0.769788
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       0.63      0.89      0.74        27
+          tapping       1.00      0.33      0.50        27
+    sweep picking       1.00      0.83      0.91        12
+          vibrato       0.88      0.83      0.86        18
+        hammer on       0.67      0.56      0.61        18
+         pull off       0.73      0.61      0.67        18
+            slide       0.51      1.00      0.68        18
+             bend       1.00      0.94      0.97        18
+
+         accuracy                           0.77       183
+        macro avg       0.83      0.78      0.77       183
+     weighted avg       0.83      0.77      0.76       183
+
+--- seed=2 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/plexiglass
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6528 | Val segments: 1632
+Test segments: 3928
+Epoch 005: train_loss=0.7050 train_acc=0.7529 val_loss=0.5674 val_acc=0.7978
+Epoch 010: train_loss=0.4201 train_acc=0.8539 val_loss=0.3692 val_acc=0.8640
+Epoch 015: train_loss=0.2816 train_acc=0.9021 val_loss=0.3302 val_acc=0.8787
+Epoch 020: train_loss=0.2058 train_acc=0.9285 val_loss=0.2752 val_acc=0.8928
+Epoch 025: train_loss=0.1536 train_acc=0.9453 val_loss=0.2718 val_acc=0.9062
+Epoch 030: train_loss=0.1131 train_acc=0.9625 val_loss=0.2624 val_acc=0.9099
+Epoch 035: train_loss=0.0858 train_acc=0.9726 val_loss=0.2263 val_acc=0.9252
+Epoch 040: train_loss=0.0719 train_acc=0.9761 val_loss=0.2658 val_acc=0.9228
+Epoch 045: train_loss=0.0537 train_acc=0.9822 val_loss=0.2725 val_acc=0.9179
+Epoch 050: train_loss=0.0380 train_acc=0.9899 val_loss=0.2755 val_acc=0.9203
+Accuracy: 0.814208
+Repo F1 from macro precision/recall: 0.838129
+Sklearn macro F1: 0.813488
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       0.73      0.89      0.80        27
+          tapping       1.00      0.41      0.58        27
+    sweep picking       0.90      0.75      0.82        12
+          vibrato       0.94      0.89      0.91        18
+        hammer on       0.76      0.72      0.74        18
+         pull off       0.87      0.72      0.79        18
+            slide       0.51      1.00      0.68        18
+             bend       1.00      1.00      1.00        18
+
+         accuracy                           0.81       183
+        macro avg       0.86      0.82      0.81       183
+     weighted avg       0.86      0.81      0.81       183
+
+--- seed=3 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/plexiglass
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6528 | Val segments: 1632
+Test segments: 3928
+Epoch 005: train_loss=0.6788 train_acc=0.7652 val_loss=0.5243 val_acc=0.8045
+Epoch 010: train_loss=0.4010 train_acc=0.8618 val_loss=0.3440 val_acc=0.8824
+Epoch 015: train_loss=0.2613 train_acc=0.9154 val_loss=0.2818 val_acc=0.8977
+Epoch 020: train_loss=0.1928 train_acc=0.9355 val_loss=0.2397 val_acc=0.9142
+Epoch 025: train_loss=0.1428 train_acc=0.9476 val_loss=0.2155 val_acc=0.9173
+Epoch 030: train_loss=0.1095 train_acc=0.9591 val_loss=0.1962 val_acc=0.9240
+Epoch 035: train_loss=0.0786 train_acc=0.9744 val_loss=0.2067 val_acc=0.9240
+Epoch 040: train_loss=0.0614 train_acc=0.9816 val_loss=0.1983 val_acc=0.9320
+Epoch 045: train_loss=0.0494 train_acc=0.9850 val_loss=0.1942 val_acc=0.9344
+Epoch 050: train_loss=0.0373 train_acc=0.9894 val_loss=0.2470 val_acc=0.9277
+Accuracy: 0.661202
+Repo F1 from macro precision/recall: 0.734191
+Sklearn macro F1: 0.650922
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       0.56      0.81      0.67        27
+          tapping       1.00      0.19      0.31        27
+    sweep picking       1.00      0.33      0.50        12
+          vibrato       0.85      0.94      0.89        18
+        hammer on       1.00      0.44      0.62        18
+         pull off       0.90      0.50      0.64        18
+            slide       0.31      1.00      0.47        18
+             bend       1.00      0.61      0.76        18
+
+         accuracy                           0.66       183
+        macro avg       0.85      0.65      0.65       183
+     weighted avg       0.84      0.66      0.66       183
+
+--- seed=4 ---
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments_aligned/experiment_3/plexiglass
+Train files: 366
+Test files: 183
+Effective MFCC n_fft: 4096
+Effective MFCC hop_length: 1024
+Effective MFCC center: True
+Effective MFCC CMVN: off
+MFCC input shape: (1, 26, 24)
+MFCC CNN conv_kernels: [3, 3, 2]
+MFCC CNN pool_kernels: [3, 3, 2]
+MFCC CNN conv_padding: valid
+MFCC CNN flat_dim: 512
+Device for MFCC CNN: cpu
+Train segments: 6528 | Val segments: 1632
+Test segments: 3928
+Epoch 005: train_loss=0.7078 train_acc=0.7534 val_loss=0.5448 val_acc=0.8100
+Epoch 010: train_loss=0.4164 train_acc=0.8551 val_loss=0.3409 val_acc=0.8725
+Epoch 015: train_loss=0.2799 train_acc=0.9069 val_loss=0.2449 val_acc=0.9124
+Epoch 020: train_loss=0.1904 train_acc=0.9352 val_loss=0.2297 val_acc=0.9142
+Epoch 025: train_loss=0.1395 train_acc=0.9524 val_loss=0.2020 val_acc=0.9283
+Epoch 030: train_loss=0.1088 train_acc=0.9642 val_loss=0.1726 val_acc=0.9400
+Epoch 035: train_loss=0.0833 train_acc=0.9729 val_loss=0.1869 val_acc=0.9344
+Epoch 040: train_loss=0.0680 train_acc=0.9776 val_loss=0.1736 val_acc=0.9393
+Epoch 045: train_loss=0.0557 train_acc=0.9818 val_loss=0.1690 val_acc=0.9381
+Epoch 050: train_loss=0.0427 train_acc=0.9871 val_loss=0.1555 val_acc=0.9430
+Accuracy: 0.781421
+Repo F1 from macro precision/recall: 0.822470
+Sklearn macro F1: 0.779213
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       0.56      0.85      0.68        27
+          tapping       1.00      0.30      0.46        27
+    sweep picking       1.00      0.67      0.80        12
+          vibrato       0.75      1.00      0.86        18
+        hammer on       1.00      0.56      0.71        18
+         pull off       0.87      0.72      0.79        18
+            slide       0.56      1.00      0.72        18
+             bend       1.00      1.00      1.00        18
+
+         accuracy                           0.78       183
+        macro avg       0.86      0.79      0.78       183
+     weighted avg       0.85      0.78      0.77       183
+
+{
+  "experiment_id": "experiment_3",
+  "method": "mfcc_cnn_aligned",
+  "split_schema": "amplifiers",
+  "num_folds": 3,
+  "accuracy_mean_pct": 75.22768670309654,
+  "accuracy_std_pct": 2.0742646040782216,
+  "f1_mean_pct": 77.4236701626116,
+  "f1_std_pct": 2.8583629538298845,
+  "sklearn_macro_f1_mean_pct": 72.52692869320376,
+  "sklearn_macro_f1_std_pct": 3.1207270689159476,
+  "runtime_seconds": 4257.363901853561,
+  "paper_target": {
+    "accuracy_pct": 80.7,
+    "f1_pct": 82.3,
+    "f1_std_pct": 3.7
+  },
+  "notes": [
+    "MFCC inputs use 26 coefficients, n_fft=4096, hop_length=1024, center=True, and no CMVN.",
+    "Aligned Stage 3 MFCC audio is resampled to 48000 Hz with librosa.load(..., mono=True), matching the notebook resampling path; ffmpeg is used only for time segmentation of already-resampled FLOAT WAV audio.",
+    "Notebook-strict aligned architecture uses conv_kernels=[3,3,2] with conv_padding=valid and pool_kernels=[3,3,2] with Keras same stride-2 pooling.",
+    "Keras-default parity uses init_scheme=keras_glorot, bn_keras_defaults=True, optimizer_eps=1e-07.",
+    "Aligned metrics use seeds=[0,1,2,3,4]: metrics are averaged across seeds within each fold, then summarized across fold means with t-based 95% CIs.",
+    "Training wall-clock in compute_report.json is measured around fit_model only; confusion matrices are summed over seeds and folds for visualization.",
+    "Optimizer is Adam with lr=0.0001, batch_size=32, epochs=50, and early_stopping=False.",
+    "Training data comes from Stage 3 0.5-second clips; test WAVs are evaluated as 0.5-second MFCC windows and aggregated per file.",
+    "Architecture follows the Alar et al. Proposed CNN pattern: Conv/MaxPool/BatchNorm blocks with 32, 64, and 128 channels.",
+    "Dense(128) is followed by Dropout(0.5), matching the author Proposed notebook rather than the Benchmark dropout.",
+    "The final layer is linear and has a 9-class guitar head.",
+    "Primary F1 is the repo definition: harmonic mean of macro precision and macro recall."
+  ],
+  "seed_count": 5,
+  "n_seeds_per_fold": 5,
+  "accuracy_ci95_low_pct": 70.07492777595697,
+  "accuracy_ci95_high_pct": 80.38044563023612,
+  "f1_ci95_low_pct": 70.32310295513273,
+  "f1_ci95_high_pct": 84.52423737009049
+}

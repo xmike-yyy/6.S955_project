@@ -1,0 +1,550 @@
+fold,true_class,pred_class,label,pred_label
+carvin,bend,bend,8,8
+carvin,alternate picking,alternate picking,0,0
+carvin,tapping,tapping,2,2
+carvin,legato,legato,1,1
+carvin,vibrato,vibrato,4,4
+carvin,sweep picking,sweep picking,3,3
+carvin,alternate picking,alternate picking,0,0
+carvin,vibrato,vibrato,4,4
+carvin,slide,slide,7,7
+carvin,slide,slide,7,7
+carvin,bend,bend,8,8
+carvin,hammer on,hammer on,5,5
+carvin,vibrato,vibrato,4,4
+carvin,pull off,hammer on,6,5
+carvin,alternate picking,alternate picking,0,0
+carvin,slide,slide,7,7
+carvin,legato,sweep picking,1,3
+carvin,sweep picking,sweep picking,3,3
+carvin,pull off,hammer on,6,5
+carvin,alternate picking,alternate picking,0,0
+carvin,bend,bend,8,8
+carvin,tapping,tapping,2,2
+carvin,tapping,tapping,2,2
+carvin,legato,sweep picking,1,3
+carvin,hammer on,hammer on,5,5
+carvin,slide,slide,7,7
+carvin,pull off,pull off,6,6
+carvin,bend,bend,8,8
+carvin,legato,tapping,1,2
+carvin,hammer on,hammer on,5,5
+carvin,alternate picking,alternate picking,0,0
+carvin,hammer on,hammer on,5,5
+carvin,tapping,tapping,2,2
+carvin,legato,tapping,1,2
+carvin,bend,bend,8,8
+carvin,pull off,hammer on,6,5
+carvin,alternate picking,alternate picking,0,0
+carvin,pull off,hammer on,6,5
+carvin,bend,bend,8,8
+carvin,tapping,tapping,2,2
+carvin,hammer on,hammer on,5,5
+carvin,tapping,tapping,2,2
+carvin,slide,slide,7,7
+carvin,vibrato,vibrato,4,4
+carvin,legato,tapping,1,2
+carvin,vibrato,vibrato,4,4
+carvin,vibrato,hammer on,4,5
+carvin,legato,legato,1,1
+carvin,vibrato,vibrato,4,4
+carvin,tapping,tapping,2,2
+carvin,vibrato,vibrato,4,4
+carvin,hammer on,hammer on,5,5
+carvin,bend,bend,8,8
+carvin,tapping,legato,2,1
+carvin,legato,legato,1,1
+carvin,alternate picking,alternate picking,0,0
+carvin,pull off,hammer on,6,5
+carvin,legato,legato,1,1
+carvin,pull off,hammer on,6,5
+carvin,bend,bend,8,8
+carvin,tapping,tapping,2,2
+carvin,hammer on,hammer on,5,5
+carvin,hammer on,hammer on,5,5
+carvin,vibrato,vibrato,4,4
+carvin,slide,slide,7,7
+carvin,alternate picking,alternate picking,0,0
+carvin,tapping,tapping,2,2
+carvin,legato,tapping,1,2
+carvin,alternate picking,alternate picking,0,0
+carvin,legato,tapping,1,2
+carvin,tapping,tapping,2,2
+carvin,pull off,pull off,6,6
+carvin,tapping,legato,2,1
+carvin,slide,slide,7,7
+carvin,alternate picking,alternate picking,0,0
+carvin,tapping,legato,2,1
+carvin,slide,slide,7,7
+carvin,vibrato,vibrato,4,4
+carvin,pull off,hammer on,6,5
+carvin,sweep picking,sweep picking,3,3
+carvin,bend,bend,8,8
+carvin,alternate picking,alternate picking,0,0
+carvin,sweep picking,sweep picking,3,3
+carvin,slide,slide,7,7
+carvin,vibrato,vibrato,4,4
+carvin,sweep picking,sweep picking,3,3
+carvin,alternate picking,alternate picking,0,0
+carvin,legato,legato,1,1
+carvin,legato,tapping,1,2
+carvin,vibrato,vibrato,4,4
+carvin,hammer on,hammer on,5,5
+carvin,sweep picking,sweep picking,3,3
+carvin,sweep picking,sweep picking,3,3
+carvin,slide,slide,7,7
+carvin,tapping,legato,2,1
+carvin,vibrato,vibrato,4,4
+carvin,tapping,tapping,2,2
+carvin,hammer on,hammer on,5,5
+carvin,tapping,tapping,2,2
+carvin,alternate picking,alternate picking,0,0
+carvin,tapping,tapping,2,2
+carvin,legato,legato,1,1
+carvin,pull off,hammer on,6,5
+carvin,alternate picking,alternate picking,0,0
+carvin,legato,sweep picking,1,3
+carvin,tapping,tapping,2,2
+carvin,slide,slide,7,7
+carvin,slide,slide,7,7
+carvin,legato,tapping,1,2
+carvin,bend,bend,8,8
+carvin,pull off,hammer on,6,5
+carvin,tapping,tapping,2,2
+carvin,pull off,pull off,6,6
+carvin,bend,bend,8,8
+carvin,alternate picking,alternate picking,0,0
+carvin,sweep picking,sweep picking,3,3
+carvin,pull off,hammer on,6,5
+carvin,hammer on,hammer on,5,5
+carvin,alternate picking,alternate picking,0,0
+carvin,legato,legato,1,1
+carvin,alternate picking,alternate picking,0,0
+carvin,legato,legato,1,1
+carvin,vibrato,vibrato,4,4
+carvin,hammer on,hammer on,5,5
+carvin,slide,slide,7,7
+carvin,tapping,tapping,2,2
+carvin,legato,tapping,1,2
+carvin,alternate picking,alternate picking,0,0
+carvin,alternate picking,alternate picking,0,0
+carvin,sweep picking,sweep picking,3,3
+carvin,sweep picking,sweep picking,3,3
+carvin,hammer on,hammer on,5,5
+carvin,alternate picking,alternate picking,0,0
+carvin,legato,legato,1,1
+carvin,tapping,tapping,2,2
+carvin,bend,bend,8,8
+carvin,legato,legato,1,1
+carvin,alternate picking,alternate picking,0,0
+carvin,legato,legato,1,1
+carvin,bend,slide,8,7
+carvin,tapping,tapping,2,2
+carvin,sweep picking,sweep picking,3,3
+carvin,hammer on,hammer on,5,5
+carvin,vibrato,vibrato,4,4
+carvin,alternate picking,alternate picking,0,0
+carvin,slide,slide,7,7
+carvin,vibrato,vibrato,4,4
+carvin,legato,tapping,1,2
+carvin,slide,slide,7,7
+carvin,bend,bend,8,8
+carvin,hammer on,hammer on,5,5
+carvin,pull off,hammer on,6,5
+carvin,tapping,tapping,2,2
+carvin,alternate picking,alternate picking,0,0
+carvin,tapping,tapping,2,2
+carvin,alternate picking,alternate picking,0,0
+carvin,hammer on,hammer on,5,5
+carvin,legato,legato,1,1
+carvin,pull off,hammer on,6,5
+carvin,sweep picking,sweep picking,3,3
+carvin,bend,bend,8,8
+carvin,pull off,hammer on,6,5
+carvin,alternate picking,alternate picking,0,0
+carvin,slide,slide,7,7
+carvin,pull off,hammer on,6,5
+carvin,bend,bend,8,8
+carvin,hammer on,hammer on,5,5
+carvin,legato,alternate picking,1,0
+carvin,slide,slide,7,7
+carvin,tapping,tapping,2,2
+carvin,bend,bend,8,8
+carvin,legato,legato,1,1
+carvin,pull off,hammer on,6,5
+carvin,alternate picking,alternate picking,0,0
+carvin,hammer on,hammer on,5,5
+carvin,tapping,legato,2,1
+carvin,alternate picking,alternate picking,0,0
+carvin,vibrato,vibrato,4,4
+carvin,tapping,tapping,2,2
+carvin,bend,bend,8,8
+carvin,legato,tapping,1,2
+carvin,slide,slide,7,7
+carvin,vibrato,vibrato,4,4
+palm-bay,vibrato,vibrato,4,4
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,tapping,tapping,2,2
+palm-bay,legato,tapping,1,2
+palm-bay,tapping,tapping,2,2
+palm-bay,hammer on,hammer on,5,5
+palm-bay,hammer on,hammer on,5,5
+palm-bay,vibrato,vibrato,4,4
+palm-bay,vibrato,vibrato,4,4
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,legato,legato,1,1
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,vibrato,vibrato,4,4
+palm-bay,vibrato,vibrato,4,4
+palm-bay,hammer on,pull off,5,6
+palm-bay,slide,slide,7,7
+palm-bay,tapping,tapping,2,2
+palm-bay,vibrato,vibrato,4,4
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,pull off,pull off,6,6
+palm-bay,slide,slide,7,7
+palm-bay,legato,tapping,1,2
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,bend,slide,8,7
+palm-bay,legato,legato,1,1
+palm-bay,pull off,pull off,6,6
+palm-bay,slide,slide,7,7
+palm-bay,slide,slide,7,7
+palm-bay,tapping,tapping,2,2
+palm-bay,pull off,pull off,6,6
+palm-bay,legato,legato,1,1
+palm-bay,tapping,tapping,2,2
+palm-bay,tapping,tapping,2,2
+palm-bay,legato,legato,1,1
+palm-bay,bend,bend,8,8
+palm-bay,legato,legato,1,1
+palm-bay,legato,legato,1,1
+palm-bay,tapping,legato,2,1
+palm-bay,legato,legato,1,1
+palm-bay,tapping,tapping,2,2
+palm-bay,hammer on,pull off,5,6
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,pull off,hammer on,6,5
+palm-bay,vibrato,vibrato,4,4
+palm-bay,slide,slide,7,7
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,bend,bend,8,8
+palm-bay,bend,bend,8,8
+palm-bay,tapping,legato,2,1
+palm-bay,bend,bend,8,8
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,tapping,tapping,2,2
+palm-bay,bend,bend,8,8
+palm-bay,hammer on,pull off,5,6
+palm-bay,vibrato,vibrato,4,4
+palm-bay,legato,legato,1,1
+palm-bay,tapping,tapping,2,2
+palm-bay,legato,legato,1,1
+palm-bay,vibrato,vibrato,4,4
+palm-bay,hammer on,pull off,5,6
+palm-bay,pull off,slide,6,7
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,bend,bend,8,8
+palm-bay,legato,tapping,1,2
+palm-bay,tapping,tapping,2,2
+palm-bay,slide,slide,7,7
+palm-bay,pull off,pull off,6,6
+palm-bay,pull off,pull off,6,6
+palm-bay,legato,tapping,1,2
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,pull off,pull off,6,6
+palm-bay,slide,slide,7,7
+palm-bay,slide,slide,7,7
+palm-bay,tapping,tapping,2,2
+palm-bay,hammer on,pull off,5,6
+palm-bay,slide,slide,7,7
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,bend,bend,8,8
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,bend,bend,8,8
+palm-bay,hammer on,hammer on,5,5
+palm-bay,hammer on,hammer on,5,5
+palm-bay,pull off,pull off,6,6
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,vibrato,vibrato,4,4
+palm-bay,tapping,tapping,2,2
+palm-bay,legato,tapping,1,2
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,slide,slide,7,7
+palm-bay,hammer on,pull off,5,6
+palm-bay,bend,bend,8,8
+palm-bay,bend,bend,8,8
+palm-bay,pull off,pull off,6,6
+palm-bay,hammer on,pull off,5,6
+palm-bay,hammer on,pull off,5,6
+palm-bay,tapping,legato,2,1
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,legato,legato,1,1
+palm-bay,tapping,legato,2,1
+palm-bay,legato,legato,1,1
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,slide,slide,7,7
+palm-bay,pull off,pull off,6,6
+palm-bay,tapping,legato,2,1
+palm-bay,slide,slide,7,7
+palm-bay,bend,bend,8,8
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,legato,tapping,1,2
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,slide,slide,7,7
+palm-bay,pull off,pull off,6,6
+palm-bay,pull off,pull off,6,6
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,sweep picking,legato,3,1
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,bend,bend,8,8
+palm-bay,bend,bend,8,8
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,hammer on,pull off,5,6
+palm-bay,vibrato,vibrato,4,4
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,vibrato,slide,4,7
+palm-bay,tapping,tapping,2,2
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,vibrato,slide,4,7
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,legato,legato,1,1
+palm-bay,vibrato,vibrato,4,4
+palm-bay,vibrato,vibrato,4,4
+palm-bay,pull off,pull off,6,6
+palm-bay,hammer on,pull off,5,6
+palm-bay,legato,legato,1,1
+palm-bay,pull off,pull off,6,6
+palm-bay,hammer on,pull off,5,6
+palm-bay,tapping,tapping,2,2
+palm-bay,legato,tapping,1,2
+palm-bay,tapping,tapping,2,2
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,slide,slide,7,7
+palm-bay,vibrato,vibrato,4,4
+palm-bay,tapping,legato,2,1
+palm-bay,bend,bend,8,8
+palm-bay,sweep picking,sweep picking,3,3
+palm-bay,bend,bend,8,8
+palm-bay,slide,slide,7,7
+palm-bay,pull off,pull off,6,6
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,slide,slide,7,7
+palm-bay,pull off,pull off,6,6
+palm-bay,legato,legato,1,1
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,bend,slide,8,7
+palm-bay,legato,tapping,1,2
+palm-bay,pull off,pull off,6,6
+palm-bay,tapping,tapping,2,2
+palm-bay,slide,slide,7,7
+palm-bay,legato,tapping,1,2
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,bend,bend,8,8
+palm-bay,legato,legato,1,1
+palm-bay,tapping,tapping,2,2
+palm-bay,legato,legato,1,1
+palm-bay,tapping,tapping,2,2
+palm-bay,alternate picking,alternate picking,0,0
+palm-bay,hammer on,pull off,5,6
+palm-bay,hammer on,pull off,5,6
+palm-bay,legato,legato,1,1
+palm-bay,tapping,tapping,2,2
+palm-bay,tapping,tapping,2,2
+palm-bay,legato,tapping,1,2
+palm-bay,tapping,legato,2,1
+palm-bay,vibrato,vibrato,4,4
+palm-bay,slide,slide,7,7
+palm-bay,hammer on,pull off,5,6
+palm-bay,vibrato,vibrato,4,4
+rwg,legato,legato,1,1
+rwg,bend,bend,8,8
+rwg,tapping,tapping,2,2
+rwg,legato,tapping,1,2
+rwg,slide,slide,7,7
+rwg,legato,legato,1,1
+rwg,slide,slide,7,7
+rwg,vibrato,vibrato,4,4
+rwg,sweep picking,sweep picking,3,3
+rwg,pull off,pull off,6,6
+rwg,hammer on,hammer on,5,5
+rwg,alternate picking,alternate picking,0,0
+rwg,legato,legato,1,1
+rwg,alternate picking,alternate picking,0,0
+rwg,slide,slide,7,7
+rwg,pull off,pull off,6,6
+rwg,tapping,tapping,2,2
+rwg,bend,bend,8,8
+rwg,pull off,pull off,6,6
+rwg,alternate picking,alternate picking,0,0
+rwg,bend,bend,8,8
+rwg,legato,tapping,1,2
+rwg,tapping,tapping,2,2
+rwg,alternate picking,alternate picking,0,0
+rwg,slide,slide,7,7
+rwg,alternate picking,alternate picking,0,0
+rwg,alternate picking,alternate picking,0,0
+rwg,tapping,tapping,2,2
+rwg,legato,legato,1,1
+rwg,tapping,tapping,2,2
+rwg,bend,bend,8,8
+rwg,pull off,pull off,6,6
+rwg,legato,tapping,1,2
+rwg,vibrato,vibrato,4,4
+rwg,sweep picking,sweep picking,3,3
+rwg,slide,slide,7,7
+rwg,tapping,tapping,2,2
+rwg,alternate picking,alternate picking,0,0
+rwg,legato,legato,1,1
+rwg,bend,bend,8,8
+rwg,tapping,tapping,2,2
+rwg,pull off,pull off,6,6
+rwg,hammer on,hammer on,5,5
+rwg,hammer on,hammer on,5,5
+rwg,vibrato,vibrato,4,4
+rwg,vibrato,vibrato,4,4
+rwg,legato,legato,1,1
+rwg,hammer on,pull off,5,6
+rwg,hammer on,pull off,5,6
+rwg,hammer on,hammer on,5,5
+rwg,slide,slide,7,7
+rwg,hammer on,pull off,5,6
+rwg,legato,tapping,1,2
+rwg,tapping,tapping,2,2
+rwg,legato,legato,1,1
+rwg,tapping,tapping,2,2
+rwg,tapping,tapping,2,2
+rwg,sweep picking,sweep picking,3,3
+rwg,alternate picking,alternate picking,0,0
+rwg,vibrato,vibrato,4,4
+rwg,bend,bend,8,8
+rwg,pull off,pull off,6,6
+rwg,vibrato,vibrato,4,4
+rwg,bend,bend,8,8
+rwg,vibrato,vibrato,4,4
+rwg,alternate picking,alternate picking,0,0
+rwg,alternate picking,alternate picking,0,0
+rwg,tapping,tapping,2,2
+rwg,slide,slide,7,7
+rwg,alternate picking,alternate picking,0,0
+rwg,pull off,pull off,6,6
+rwg,bend,bend,8,8
+rwg,bend,bend,8,8
+rwg,alternate picking,alternate picking,0,0
+rwg,alternate picking,alternate picking,0,0
+rwg,pull off,pull off,6,6
+rwg,sweep picking,sweep picking,3,3
+rwg,vibrato,vibrato,4,4
+rwg,vibrato,vibrato,4,4
+rwg,hammer on,pull off,5,6
+rwg,slide,slide,7,7
+rwg,hammer on,pull off,5,6
+rwg,pull off,pull off,6,6
+rwg,sweep picking,sweep picking,3,3
+rwg,legato,legato,1,1
+rwg,sweep picking,sweep picking,3,3
+rwg,slide,slide,7,7
+rwg,vibrato,vibrato,4,4
+rwg,tapping,legato,2,1
+rwg,legato,tapping,1,2
+rwg,tapping,tapping,2,2
+rwg,legato,tapping,1,2
+rwg,hammer on,pull off,5,6
+rwg,slide,slide,7,7
+rwg,vibrato,vibrato,4,4
+rwg,hammer on,hammer on,5,5
+rwg,pull off,pull off,6,6
+rwg,alternate picking,alternate picking,0,0
+rwg,alternate picking,alternate picking,0,0
+rwg,tapping,tapping,2,2
+rwg,sweep picking,slide,3,7
+rwg,slide,slide,7,7
+rwg,vibrato,vibrato,4,4
+rwg,tapping,tapping,2,2
+rwg,alternate picking,alternate picking,0,0
+rwg,legato,legato,1,1
+rwg,tapping,tapping,2,2
+rwg,alternate picking,alternate picking,0,0
+rwg,bend,bend,8,8
+rwg,legato,legato,1,1
+rwg,vibrato,vibrato,4,4
+rwg,bend,bend,8,8
+rwg,pull off,pull off,6,6
+rwg,pull off,pull off,6,6
+rwg,vibrato,vibrato,4,4
+rwg,bend,bend,8,8
+rwg,tapping,tapping,2,2
+rwg,alternate picking,alternate picking,0,0
+rwg,tapping,tapping,2,2
+rwg,legato,legato,1,1
+rwg,legato,tapping,1,2
+rwg,alternate picking,alternate picking,0,0
+rwg,pull off,pull off,6,6
+rwg,slide,slide,7,7
+rwg,sweep picking,sweep picking,3,3
+rwg,hammer on,pull off,5,6
+rwg,hammer on,pull off,5,6
+rwg,sweep picking,sweep picking,3,3
+rwg,alternate picking,alternate picking,0,0
+rwg,slide,slide,7,7
+rwg,hammer on,hammer on,5,5
+rwg,tapping,tapping,2,2
+rwg,bend,bend,8,8
+rwg,legato,legato,1,1
+rwg,tapping,tapping,2,2
+rwg,slide,slide,7,7
+rwg,bend,bend,8,8
+rwg,legato,legato,1,1
+rwg,tapping,tapping,2,2
+rwg,alternate picking,alternate picking,0,0
+rwg,pull off,pull off,6,6
+rwg,hammer on,pull off,5,6
+rwg,hammer on,pull off,5,6
+rwg,hammer on,hammer on,5,5
+rwg,vibrato,vibrato,4,4
+rwg,sweep picking,sweep picking,3,3
+rwg,legato,tapping,1,2
+rwg,slide,slide,7,7
+rwg,legato,legato,1,1
+rwg,vibrato,vibrato,4,4
+rwg,alternate picking,alternate picking,0,0
+rwg,sweep picking,sweep picking,3,3
+rwg,sweep picking,sweep picking,3,3
+rwg,tapping,tapping,2,2
+rwg,legato,legato,1,1
+rwg,pull off,pull off,6,6
+rwg,bend,bend,8,8
+rwg,tapping,legato,2,1
+rwg,alternate picking,alternate picking,0,0
+rwg,pull off,pull off,6,6
+rwg,alternate picking,alternate picking,0,0
+rwg,slide,slide,7,7
+rwg,vibrato,vibrato,4,4
+rwg,legato,legato,1,1
+rwg,bend,bend,8,8
+rwg,bend,bend,8,8
+rwg,vibrato,vibrato,4,4
+rwg,pull off,pull off,6,6
+rwg,legato,legato,1,1
+rwg,tapping,tapping,2,2
+rwg,alternate picking,alternate picking,0,0
+rwg,tapping,tapping,2,2
+rwg,bend,bend,8,8
+rwg,alternate picking,alternate picking,0,0
+rwg,tapping,tapping,2,2
+rwg,slide,slide,7,7
+rwg,tapping,tapping,2,2
+rwg,legato,legato,1,1
+rwg,alternate picking,alternate picking,0,0
+rwg,legato,tapping,1,2
+rwg,slide,slide,7,7
+rwg,pull off,pull off,6,6
+rwg,hammer on,pull off,5,6

@@ -1,0 +1,38 @@
+{
+  "experiment_id": "experiment_2",
+  "method": "mfcc_cnn",
+  "split_schema": "guitars",
+  "num_folds": 3,
+  "accuracy_mean_pct": 80.21857923497268,
+  "accuracy_std_pct": 3.3040910290340904,
+  "f1_mean_pct": 80.19076973286617,
+  "f1_std_pct": 4.251956345267015,
+  "sklearn_macro_f1_mean_pct": 78.17324372079085,
+  "sklearn_macro_f1_std_pct": 3.335024717985279,
+  "runtime_seconds": 3540.722995996475,
+  "paper_target": {
+    "accuracy_pct": 81.1,
+    "f1_pct": 83.1,
+    "f1_std_pct": 1.2
+  },
+  "notes": [
+    "MFCC inputs use 26 coefficients, n_fft=4096, hop_length=1024, center=True, and no CMVN.",
+    "Aligned Stage 3 MFCC audio is resampled to 48000 Hz with librosa.load(..., mono=True), matching the notebook resampling path; ffmpeg is used only for time segmentation of already-resampled FLOAT WAV audio.",
+    "Notebook-strict aligned architecture uses conv_kernels=[3,3,2] with conv_padding=valid and pool_kernels=[3,3,2] with Keras same stride-2 pooling.",
+    "Keras-default parity uses init_scheme=keras_glorot, bn_keras_defaults=True, optimizer_eps=1e-07.",
+    "Aligned metrics use seeds=[0,1,2,3,4]: metrics are averaged across seeds within each fold, then summarized across fold means with t-based 95% CIs.",
+    "Training wall-clock in compute_report.json is measured around fit_model only; confusion matrices are summed over seeds and folds for visualization.",
+    "Optimizer is Adam with lr=0.0001, batch_size=32, epochs=50, and early_stopping=False.",
+    "Training data comes from Stage 3 0.5-second clips; test WAVs are evaluated as 0.5-second MFCC windows and aggregated per file.",
+    "Architecture follows the Alar et al. Proposed CNN pattern: Conv/MaxPool/BatchNorm blocks with 32, 64, and 128 channels.",
+    "Dense(128) is followed by Dropout(0.5), matching the author Proposed notebook rather than the Benchmark dropout.",
+    "The final layer is linear and has a 9-class guitar head.",
+    "Primary F1 is the repo definition: harmonic mean of macro precision and macro recall."
+  ],
+  "seed_count": 5,
+  "n_seeds_per_fold": 5,
+  "accuracy_ci95_low_pct": 72.01076210669315,
+  "accuracy_ci95_high_pct": 88.42639636325222,
+  "f1_ci95_low_pct": 69.62832462687227,
+  "f1_ci95_high_pct": 90.75321483886007
+}

@@ -1,0 +1,4 @@
+fold,n_train_files,n_test_files,accuracy,precision_macro,recall_macro,repo_f1_from_macro_pr,sklearn_macro_f1,model_path
+carvin,366,183,0.8032786885245902,0.8500875691407166,0.8168724279835391,0.833149083122047,0.7875666282445943,/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/pkl/experiment_2_carvin_cnn.pt
+palm-bay,366,183,0.7923497267759563,0.8291787439613526,0.7973251028806584,0.8129400107095576,0.7874463060254405,/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/pkl/experiment_2_palm-bay_cnn.pt
+rwg,366,183,0.8743169398907104,0.9114835770969005,0.8775720164609053,0.894206399850571,0.8712313040964411,/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/pkl/experiment_2_rwg_cnn.pt

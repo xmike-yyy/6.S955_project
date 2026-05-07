@@ -1,0 +1,127 @@
+{
+  "experiment_id": "experiment_1",
+  "config_path": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/configs/experiment_1.yaml",
+  "paper_pdf": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/Guitar_dataset.pdf",
+  "paper_pdf_sha256": "66b89d0adbb286fa122556c2a301d0ffbff440fef46d7ec2d92c7d2c9a6e4caa",
+  "dataset_root": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data",
+  "wav_root": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data/wav",
+  "split_json": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data/folds.json",
+  "split": {
+    "split_sha256": "811309624f4625520091c81b1d5ec621cc5463864cff3a8fccb7ace2a34b8c8f",
+    "num_folds": 5,
+    "folds": [
+      {
+        "fold": "fold_0",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "fold_1",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "fold_2",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "fold_3",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "fold_4",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      }
+    ],
+    "unique_test_files": 504,
+    "repeated_test_files": 36
+  },
+  "wav_inventory": {
+    "wav_file_count": 549,
+    "class_counts": {
+      "alternate picking": 81,
+      "bend": 54,
+      "hammer on": 54,
+      "legato": 81,
+      "pull off": 54,
+      "slide": 54,
+      "sweep picking": 36,
+      "tapping": 81,
+      "vibrato": 54
+    },
+    "sample_rates": {
+      "48000": 549
+    },
+    "channels": {
+      "2": 549
+    },
+    "whole_second_segments_by_class": {
+      "alternate picking": 466,
+      "bend": 159,
+      "hammer on": 1524,
+      "legato": 391,
+      "pull off": 1235,
+      "slide": 1256,
+      "sweep picking": 187,
+      "tapping": 371,
+      "vibrato": 455
+    },
+    "duration_summary_by_class": {
+      "alternate picking": {
+        "mean_seconds": 6.298074074074074,
+        "min_seconds": 3.264,
+        "max_seconds": 21.888
+      },
+      "bend": {
+        "mean_seconds": 3.374617283950617,
+        "min_seconds": 2.304,
+        "max_seconds": 4.458666666666667
+      },
+      "hammer on": {
+        "mean_seconds": 28.705580246913588,
+        "min_seconds": 17.813333333333333,
+        "max_seconds": 41.856
+      },
+      "legato": {
+        "mean_seconds": 5.262748971193414,
+        "min_seconds": 2.538666666666667,
+        "max_seconds": 10.517333333333333
+      },
+      "pull off": {
+        "mean_seconds": 23.399901234567906,
+        "min_seconds": 16.981333333333332,
+        "max_seconds": 38.69866666666667
+      },
+      "slide": {
+        "mean_seconds": 23.777580246913587,
+        "min_seconds": 20.181333333333335,
+        "max_seconds": 27.861333333333334
+      },
+      "sweep picking": {
+        "mean_seconds": 5.712592592592593,
+        "min_seconds": 2.24,
+        "max_seconds": 14.293333333333333
+      },
+      "tapping": {
+        "mean_seconds": 5.02808230452675,
+        "min_seconds": 2.7093333333333334,
+        "max_seconds": 11.392
+      },
+      "vibrato": {
+        "mean_seconds": 8.954469135802468,
+        "min_seconds": 4.778666666666667,
+        "max_seconds": 12.544
+      }
+    }
+  },
+  "archive_path": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset-v1.0.0.zip",
+  "archive_md5": "081794e5682b3e70e886dcd7344f3a8a"
+}

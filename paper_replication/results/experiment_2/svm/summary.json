@@ -1,0 +1,25 @@
+{
+  "experiment_id": "experiment_2",
+  "method": "svm",
+  "split_schema": "guitars",
+  "num_folds": 3,
+  "accuracy_mean_pct": 82.33151183970855,
+  "accuracy_std_pct": 2.9029831421692567,
+  "f1_mean_pct": 81.754051094356,
+  "f1_std_pct": 2.4009776511983256,
+  "feature_matrix_shape": [
+    549,
+    136
+  ],
+  "feature_granularity": "original_repo_file_level_long_term_average",
+  "runtime_seconds": 4.255612134933472,
+  "paper_target": {
+    "accuracy_pct": 84.2,
+    "f1_pct": 81.2,
+    "f1_std_pct": 2.0
+  },
+  "notes": [
+    "Uses the original repository pyAudioAnalysis directory_feature_extraction path.",
+    "That original helper long-term-averages each WAV into one feature vector, despite the paper prose describing 1-second segment vectors."
+  ]
+}

@@ -1,0 +1,281 @@
+Command: scripts/run_mfcc_experiment_3.sh
+Config: configs/experiment_3.yaml
+Started: 2026-05-03 04:07:31 EDT
+{
+  "experiment_id": "experiment_3",
+  "config_path": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/configs/experiment_3.yaml",
+  "paper_pdf": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/Guitar_dataset.pdf",
+  "paper_pdf_sha256": "66b89d0adbb286fa122556c2a301d0ffbff440fef46d7ec2d92c7d2c9a6e4caa",
+  "dataset_root": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data",
+  "wav_root": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data/wav",
+  "split_json": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data/amplifiers.json",
+  "split": {
+    "split_sha256": "a7b5dcdfff62a466e8b6bd1d56883a9f830232e669e3d1ee44f957278538b17f",
+    "num_folds": 3,
+    "folds": [
+      {
+        "fold": "dc-modern",
+        "train_files": 366,
+        "test_files": 183,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "sl100",
+        "train_files": 366,
+        "test_files": 183,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "plexiglass",
+        "train_files": 366,
+        "test_files": 183,
+        "train_test_overlap": 0
+      }
+    ],
+    "unique_test_files": 549,
+    "repeated_test_files": 0
+  },
+  "wav_inventory": {
+    "wav_file_count": 549,
+    "class_counts": {
+      "alternate picking": 81,
+      "bend": 54,
+      "hammer on": 54,
+      "legato": 81,
+      "pull off": 54,
+      "slide": 54,
+      "sweep picking": 36,
+      "tapping": 81,
+      "vibrato": 54
+    },
+    "sample_rates": {
+      "48000": 549
+    },
+    "channels": {
+      "2": 549
+    },
+    "whole_second_segments_by_class": {
+      "alternate picking": 466,
+      "bend": 159,
+      "hammer on": 1524,
+      "legato": 391,
+      "pull off": 1235,
+      "slide": 1256,
+      "sweep picking": 187,
+      "tapping": 371,
+      "vibrato": 455
+    },
+    "duration_summary_by_class": {
+      "alternate picking": {
+        "mean_seconds": 6.298074074074074,
+        "min_seconds": 3.264,
+        "max_seconds": 21.888
+      },
+      "bend": {
+        "mean_seconds": 3.374617283950617,
+        "min_seconds": 2.304,
+        "max_seconds": 4.458666666666667
+      },
+      "hammer on": {
+        "mean_seconds": 28.705580246913588,
+        "min_seconds": 17.813333333333333,
+        "max_seconds": 41.856
+      },
+      "legato": {
+        "mean_seconds": 5.262748971193414,
+        "min_seconds": 2.538666666666667,
+        "max_seconds": 10.517333333333333
+      },
+      "pull off": {
+        "mean_seconds": 23.399901234567906,
+        "min_seconds": 16.981333333333332,
+        "max_seconds": 38.69866666666667
+      },
+      "slide": {
+        "mean_seconds": 23.777580246913587,
+        "min_seconds": 20.181333333333335,
+        "max_seconds": 27.861333333333334
+      },
+      "sweep picking": {
+        "mean_seconds": 5.712592592592593,
+        "min_seconds": 2.24,
+        "max_seconds": 14.293333333333333
+      },
+      "tapping": {
+        "mean_seconds": 5.02808230452675,
+        "min_seconds": 2.7093333333333334,
+        "max_seconds": 11.392
+      },
+      "vibrato": {
+        "mean_seconds": 8.954469135802468,
+        "min_seconds": 4.778666666666667,
+        "max_seconds": 12.544
+      }
+    }
+  },
+  "archive_path": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset-v1.0.0.zip",
+  "archive_md5": "081794e5682b3e70e886dcd7344f3a8a"
+}
+Saved input validation to /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_3/input_validation.json
+Torch version: 2.9.0
+MFCC CNN experiment: experiment_3
+Prepared segment work root: /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_3
+
+================ MFCC CNN experiment_3 dc-modern ================
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_3/dc-modern
+Train files: 366
+Test files: 183
+MFCC input shape: (1, 40, 8)
+Device for MFCC CNN: cpu
+Train segments: 3280 | Val segments: 821
+Test segments: 1943
+Epoch 005: train_loss=0.7627 train_acc=0.7122 val_loss=1.6315 val_acc=0.4568
+Epoch 010: train_loss=0.2358 train_acc=0.9149 val_loss=2.5902 val_acc=0.4312
+Epoch 015: train_loss=0.1849 train_acc=0.9332 val_loss=3.0482 val_acc=0.4409
+Epoch 020: train_loss=0.1629 train_acc=0.9454 val_loss=3.2515 val_acc=0.4239
+Epoch 025: train_loss=0.1071 train_acc=0.9637 val_loss=3.3939 val_acc=0.4287
+Epoch 030: train_loss=0.1254 train_acc=0.9628 val_loss=3.6209 val_acc=0.4519
+Epoch 035: train_loss=0.0906 train_acc=0.9720 val_loss=3.7026 val_acc=0.4446
+Epoch 040: train_loss=0.1120 train_acc=0.9643 val_loss=4.0127 val_acc=0.4202
+Epoch 045: train_loss=0.0658 train_acc=0.9790 val_loss=4.0190 val_acc=0.4397
+Epoch 050: train_loss=0.0919 train_acc=0.9704 val_loss=4.3211 val_acc=0.4093
+Epoch 055: train_loss=0.0516 train_acc=0.9814 val_loss=3.8361 val_acc=0.4385
+Early stopping at epoch 55 after 10 stale validations.
+Accuracy: 0.508197
+Repo F1 from macro precision/recall: 0.580859
+Sklearn macro F1: 0.501345
+                   precision    recall  f1-score   support
+
+alternate picking       0.61      0.41      0.49        27
+           legato       0.59      0.59      0.59        27
+          tapping       0.60      0.22      0.32        27
+    sweep picking       0.82      0.75      0.78        12
+          vibrato       1.00      0.11      0.20        18
+        hammer on       0.28      0.94      0.43        18
+         pull off       0.25      0.17      0.20        18
+            slide       0.58      1.00      0.73        18
+             bend       1.00      0.61      0.76        18
+
+         accuracy                           0.51       183
+        macro avg       0.64      0.53      0.50       183
+     weighted avg       0.63      0.51      0.49       183
+
+
+================ MFCC CNN experiment_3 sl100 ================
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_3/sl100
+Train files: 366
+Test files: 183
+MFCC input shape: (1, 40, 8)
+Device for MFCC CNN: cpu
+Train segments: 3125 | Val segments: 782
+Test segments: 2137
+Epoch 005: train_loss=0.7467 train_acc=0.7117 val_loss=1.6233 val_acc=0.4757
+Epoch 010: train_loss=0.3018 train_acc=0.8925 val_loss=2.3547 val_acc=0.4616
+Epoch 015: train_loss=0.1312 train_acc=0.9594 val_loss=2.7557 val_acc=0.4642
+Epoch 020: train_loss=0.1275 train_acc=0.9578 val_loss=3.2844 val_acc=0.4476
+Epoch 025: train_loss=0.1014 train_acc=0.9667 val_loss=3.3390 val_acc=0.4629
+Epoch 030: train_loss=0.1173 train_acc=0.9629 val_loss=3.2576 val_acc=0.4910
+Epoch 035: train_loss=0.0672 train_acc=0.9734 val_loss=3.7189 val_acc=0.4680
+Epoch 040: train_loss=0.0989 train_acc=0.9677 val_loss=3.3983 val_acc=0.4540
+Epoch 045: train_loss=0.0854 train_acc=0.9722 val_loss=3.5241 val_acc=0.4578
+Epoch 050: train_loss=0.0883 train_acc=0.9738 val_loss=3.6933 val_acc=0.4604
+Epoch 055: train_loss=0.0537 train_acc=0.9802 val_loss=3.7942 val_acc=0.4706
+Early stopping at epoch 55 after 10 stale validations.
+Accuracy: 0.437158
+Repo F1 from macro precision/recall: 0.496223
+Sklearn macro F1: 0.444167
+                   precision    recall  f1-score   support
+
+alternate picking       0.52      0.44      0.48        27
+           legato       0.50      0.11      0.18        27
+          tapping       0.39      0.26      0.31        27
+    sweep picking       0.83      0.83      0.83        12
+          vibrato       0.43      0.17      0.24        18
+        hammer on       0.25      0.83      0.38        18
+         pull off       0.12      0.11      0.12        18
+            slide       0.58      1.00      0.73        18
+             bend       1.00      0.56      0.71        18
+
+         accuracy                           0.44       183
+        macro avg       0.51      0.48      0.44       183
+     weighted avg       0.50      0.44      0.41       183
+
+
+================ MFCC CNN experiment_3 plexiglass ================
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_3/plexiglass
+Train files: 366
+Test files: 183
+MFCC input shape: (1, 40, 8)
+Device for MFCC CNN: cpu
+Train segments: 3264 | Val segments: 816
+Test segments: 1964
+Epoch 005: train_loss=0.7312 train_acc=0.7154 val_loss=1.8068 val_acc=0.4436
+Epoch 010: train_loss=0.2440 train_acc=0.9108 val_loss=2.7455 val_acc=0.4510
+Epoch 015: train_loss=0.1764 train_acc=0.9366 val_loss=3.1228 val_acc=0.4056
+Epoch 020: train_loss=0.1376 train_acc=0.9534 val_loss=3.5402 val_acc=0.4191
+Epoch 025: train_loss=0.1391 train_acc=0.9516 val_loss=3.6402 val_acc=0.4154
+Epoch 030: train_loss=0.0870 train_acc=0.9694 val_loss=4.1913 val_acc=0.4105
+Epoch 035: train_loss=0.1017 train_acc=0.9688 val_loss=3.8953 val_acc=0.4142
+Epoch 040: train_loss=0.0910 train_acc=0.9684 val_loss=4.3837 val_acc=0.4203
+Epoch 045: train_loss=0.0590 train_acc=0.9792 val_loss=4.1519 val_acc=0.4301
+Epoch 050: train_loss=0.0515 train_acc=0.9819 val_loss=4.2019 val_acc=0.4387
+Epoch 055: train_loss=0.0717 train_acc=0.9770 val_loss=3.8702 val_acc=0.4130
+Early stopping at epoch 55 after 10 stale validations.
+Accuracy: 0.491803
+Repo F1 from macro precision/recall: 0.516485
+Sklearn macro F1: 0.468739
+                   precision    recall  f1-score   support
+
+alternate picking       0.58      0.41      0.48        27
+           legato       0.56      0.33      0.42        27
+          tapping       0.68      0.56      0.61        27
+    sweep picking       1.00      0.33      0.50        12
+          vibrato       0.00      0.00      0.00        18
+        hammer on       0.30      0.78      0.44        18
+         pull off       0.22      0.33      0.27        18
+            slide       0.50      1.00      0.67        18
+             bend       1.00      0.72      0.84        18
+
+         accuracy                           0.49       183
+        macro avg       0.54      0.50      0.47       183
+     weighted avg       0.53      0.49      0.47       183
+
+{
+  "experiment_id": "experiment_3",
+  "method": "mfcc_cnn",
+  "split_schema": "amplifiers",
+  "num_folds": 3,
+  "accuracy_mean_pct": 47.90528233151184,
+  "accuracy_std_pct": 3.037036794268319,
+  "f1_mean_pct": 53.118877932214346,
+  "f1_std_pct": 3.6082807374401344,
+  "sklearn_macro_f1_mean_pct": 47.141729283250996,
+  "sklearn_macro_f1_std_pct": 2.3419601735309525,
+  "runtime_seconds": 470.2137770652771,
+  "paper_target": {
+    "accuracy_pct": 80.7,
+    "f1_pct": 82.3,
+    "f1_std_pct": 3.7
+  },
+  "notes": [
+    "MFCC inputs use 40 coefficients, n_fft=4096, hop_length=512, center=False, and per-clip CMVN.",
+    "Every segment is resampled to 8 kHz for parity with the guitar-paper mel CNN harness.",
+    "Training data comes from prepare_dirs 1-second clips; test WAVs are evaluated as 1-second MFCC windows and aggregated per file.",
+    "Architecture follows the Alar et al. Proposed CNN pattern: Conv/MaxPool/BatchNorm blocks with 32, 64, and 128 channels.",
+    "Dense(128) is followed by Dropout(0.5), matching the author Proposed notebook rather than the Benchmark dropout.",
+    "The final layer is linear and has a 9-class guitar head.",
+    "Primary F1 is the repo definition: harmonic mean of macro precision and macro recall."
+  ]
+}
+experiment_id   method    status split_schema  num_folds  num_folds_completed  paper_accuracy_pct  reproduced_accuracy_pct  accuracy_delta_pct_points  paper_f1_pct  reproduced_f1_pct  f1_delta_pct_points  paper_f1_std_pct  reproduced_f1_std_pct                                                                                                                                                  summary_path  within_paper_f1_std
+ experiment_1      svm completed        folds          5                    5                67.8                64.444444                  -3.355556          62.3          59.565402            -2.734598              11.6               7.274348      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_1/svm/summary.json                 True
+ experiment_1      cnn completed        folds          5                    5                76.5                74.074074                  -2.425926          76.9          75.366026            -1.533974               8.0               8.690167      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_1/cnn/summary.json                 True
+ experiment_1 mfcc_cnn completed        folds          5                    5                76.5                34.259259                 -42.240741          76.9          40.225810           -36.674190               8.0               4.789377 /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_1/mfcc_cnn/summary.json                False
+ experiment_2      svm completed      guitars          3                    3                84.2                82.331512                  -1.868488          81.2          81.754051             0.554051               2.0               2.400978      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_2/svm/summary.json                 True
+ experiment_2      cnn completed      guitars          3                    3                81.1                82.331512                   1.231512          83.1          84.676516             1.576516               1.2               3.454567      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_2/cnn/summary.json                False
+ experiment_2 mfcc_cnn completed      guitars          3                    3                81.1                45.355191                 -35.744809          83.1          52.302255           -30.797745               1.2               3.404066 /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_2/mfcc_cnn/summary.json                False
+ experiment_3      svm completed   amplifiers          3                    3                83.4                84.881603                   1.481603          81.9          85.291559             3.391559               5.0               3.174391      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_3/svm/summary.json                 True
+ experiment_3      cnn completed   amplifiers          3                    3                80.7                78.142077                  -2.557923          82.3          80.382369            -1.917631               3.7              10.877268      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_3/cnn/summary.json                 True
+ experiment_3 mfcc_cnn completed   amplifiers          3                    3                80.7                47.905282                 -32.794718          82.3          53.118878           -29.181122               3.7               3.608281 /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_3/mfcc_cnn/summary.json                False
+Finished: 2026-05-03 04:15:53 EDT
+Exit status: 0

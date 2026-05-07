@@ -1,0 +1,23 @@
+{
+  "experiment_id": "experiment_3",
+  "method": "cnn",
+  "split_schema": "amplifiers",
+  "num_folds": 3,
+  "accuracy_mean_pct": 78.14207650273225,
+  "accuracy_std_pct": 10.956250085116622,
+  "f1_mean_pct": 80.38236908747058,
+  "f1_std_pct": 10.87726767411402,
+  "sklearn_macro_f1_mean_pct": 75.8078750911956,
+  "sklearn_macro_f1_std_pct": 15.166785001499274,
+  "runtime_seconds": 4868.124325990677,
+  "paper_target": {
+    "accuracy_pct": 80.7,
+    "f1_pct": 82.3,
+    "f1_std_pct": 3.7
+  },
+  "notes": [
+    "Uses original repository deep_audio_features_wrapper logic.",
+    "Applies a local PyTorch 2.9 compatibility shim for ReduceLROnPlateau(verbose=...).",
+    "Primary F1 matches original wrapper formula: harmonic mean of macro precision and macro recall."
+  ]
+}
