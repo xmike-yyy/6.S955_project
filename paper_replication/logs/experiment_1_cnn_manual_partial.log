@@ -1,0 +1,23 @@
+Command:
+bash -lc 'source scripts/common_env.sh && cd "$REPLICATION_ROOT" && "$PYTHON_BIN" scripts/run_cnn_original.py --config configs/experiment_1.yaml'
+
+Status:
+Partial runtime-interrupted run on 2026-04-29 EDT.
+
+Captured terminal milestones:
+- Torch version: 2.9.0
+- Device seen by deep_audio_features: cpu
+- Fold 0 completed.
+- Best model's validation accuracy: 0.7602397602397603
+- Best model's validation f1 score: 0.7816372522975235
+- Best model's validation loss: 0.47982062759899324
+- Saved model to: pkl/experiment_1_fold_0_cnn.pt
+- Fold 0 test accuracy from saved classification report: 0.6481481481481481
+- Fold 0 test sklearn macro-F1 from saved classification report: 0.6231457020930704
+- Fold 0 test original-wrapper F1 from macro precision/recall: 0.634038435379955
+- Fold 1 was interrupted during epoch 15 after the CNN runtime was classified as an interactive-session blocker.
+
+Compatibility notes:
+- The run skipped only the diagnostic spectrogram-size histogram plot, which previously caused a macOS Abort trap after feature extraction.
+- The run forced DataLoader num_workers=0 because torch_shm_manager could not start in the sandbox.
+- The run used a Torch scheduler shim to ignore the removed ReduceLROnPlateau(verbose=...) argument in Torch 2.9.

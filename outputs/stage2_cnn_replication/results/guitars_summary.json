@@ -1,9 +1,0 @@
-{
-  "schema": "guitars",
-  "num_folds": 3,
-  "accuracy_mean": 0.883424408014572,
-  "accuracy_std": 0.030370367942683163,
-  "f1_macro_mean": 0.8577642668981816,
-  "f1_macro_std": 0.0365526414277405,
-  "cnn_replication": true
-}

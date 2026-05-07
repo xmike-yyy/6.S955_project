@@ -1,0 +1,74 @@
+experiment_id: experiment_2
+name: "Experiment 2: leave-one-guitar-out folds"
+paper_task: "generalize independently of guitar type"
+split_schema: guitars
+split_json: "../guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data/guitars.json"
+paper_pdf: "../../Guitar_dataset.pdf"
+dataset_root: "../guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data"
+wav_root: "../guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data/wav"
+original_repo_root: "../guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b"
+paper_targets:
+  svm:
+    accuracy_pct: 84.2
+    f1_pct: 81.2
+    f1_std_pct: 2.0
+  cnn:
+    accuracy_pct: 81.1
+    f1_pct: 83.1
+    f1_std_pct: 1.2
+expected_split:
+  folds: 3
+  train_files_per_fold: 366
+  test_files_per_fold: 183
+seed: 0
+mfcc_cnn:
+  sample_rate_hz: 48000
+  n_fft: 4096
+  segment_seconds: 0.5
+  n_mfcc: 26
+  hop_length: 1024
+  center: true
+  use_cmvn: false
+  conv_kernels: [3, 3, 2]
+  pool_kernels: [3, 3, 2]
+  conv_padding: valid
+  init_scheme: keras_glorot
+  bn_keras_defaults: true
+  optimizer_eps: 1.0e-7
+  seeds: [0, 1, 2, 3, 4]
+  training:
+    optimizer: Adam
+    learning_rate: 0.0001
+    batch_size: 32
+    epochs: 50
+    early_stopping: false
+    validation_split_from_training_segments: 0.2
+    validation_every_epochs: 5
+svm:
+  feature_granularity: "original_repo_file_level_long_term_average"
+  mid_window_seconds: 1.0
+  mid_step_seconds: 1.0
+  short_window_seconds: 0.05
+  short_step_seconds: 0.05
+  grid_c: [0.1, 1, 10, 50, 100, 1000]
+  grid_gamma: [0.0001, 0.001, 0.01, 0.1, 1, 10]
+  kernel: rbf
+  inner_cv: 5
+  n_jobs: 1
+cnn:
+  segment_seconds: 1
+  sample_rate_hz: 8000
+  channels: mono
+  feature_type: "deep_audio_features MEL_SPECTROGRAM log-mel dB"
+  stft_window_ms: 50
+  stft_hop_ms: 50
+  mel_bins: 128
+  epochs: 500
+  batch_size: 16
+  optimizer: AdamW
+  learning_rate: 0.002
+  weight_decay: 0.02
+  validation_split_from_training_segments: 0.2
+  early_stopping: true
+  early_stopping_patience: 10
+  validation_every_epochs: 5

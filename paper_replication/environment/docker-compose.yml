@@ -1,0 +1,15 @@
+services:
+  replication:
+    build:
+      context: ..
+      dockerfile: environment/Dockerfile
+    working_dir: /work/paper_replication
+    volumes:
+      - ..:/work/paper_replication
+      - ../..:/work/project
+    environment:
+      MPLCONFIGDIR: /work/paper_replication/.cache/matplotlib
+      NUMBA_CACHE_DIR: /work/paper_replication/.cache/numba
+      XDG_CACHE_HOME: /work/paper_replication/.cache/xdg
+    command: bash
+

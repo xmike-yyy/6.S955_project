@@ -1,0 +1,4 @@
+fold,n_train_files,n_test_files,accuracy,precision_macro,recall_macro,repo_f1_from_macro_pr,sklearn_macro_f1,model_path
+dc-modern,366,183,0.6338797814207651,0.7167441763029999,0.602880658436214,0.6549000739672634,0.5488654662567706,/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/pkl/experiment_3_dc-modern_cnn.pt
+sl100,366,183,0.8142076502732241,0.8590102576149089,0.831275720164609,0.8449154520771442,0.8217335161751608,/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/pkl/experiment_3_sl100_cnn.pt
+plexiglass,366,183,0.8961748633879781,0.9180497540146663,0.9053497942386832,0.9116555465797099,0.9036372703039368,/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/pkl/experiment_3_plexiglass_cnn.pt

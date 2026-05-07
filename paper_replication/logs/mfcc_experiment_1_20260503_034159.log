@@ -1,0 +1,373 @@
+Command: scripts/run_mfcc_experiment_1.sh
+Config: configs/experiment_1.yaml
+Started: 2026-05-03 03:41:59 EDT
+{
+  "experiment_id": "experiment_1",
+  "config_path": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/configs/experiment_1.yaml",
+  "paper_pdf": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/Guitar_dataset.pdf",
+  "paper_pdf_sha256": "66b89d0adbb286fa122556c2a301d0ffbff440fef46d7ec2d92c7d2c9a6e4caa",
+  "dataset_root": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data",
+  "wav_root": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data/wav",
+  "split_json": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset/magcil-guitar_style_dataset-eb27d7b/data/folds.json",
+  "split": {
+    "split_sha256": "811309624f4625520091c81b1d5ec621cc5463864cff3a8fccb7ace2a34b8c8f",
+    "num_folds": 5,
+    "folds": [
+      {
+        "fold": "fold_0",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "fold_1",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "fold_2",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "fold_3",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      },
+      {
+        "fold": "fold_4",
+        "train_files": 441,
+        "test_files": 108,
+        "train_test_overlap": 0
+      }
+    ],
+    "unique_test_files": 504,
+    "repeated_test_files": 36
+  },
+  "wav_inventory": {
+    "wav_file_count": 549,
+    "class_counts": {
+      "alternate picking": 81,
+      "bend": 54,
+      "hammer on": 54,
+      "legato": 81,
+      "pull off": 54,
+      "slide": 54,
+      "sweep picking": 36,
+      "tapping": 81,
+      "vibrato": 54
+    },
+    "sample_rates": {
+      "48000": 549
+    },
+    "channels": {
+      "2": 549
+    },
+    "whole_second_segments_by_class": {
+      "alternate picking": 466,
+      "bend": 159,
+      "hammer on": 1524,
+      "legato": 391,
+      "pull off": 1235,
+      "slide": 1256,
+      "sweep picking": 187,
+      "tapping": 371,
+      "vibrato": 455
+    },
+    "duration_summary_by_class": {
+      "alternate picking": {
+        "mean_seconds": 6.298074074074074,
+        "min_seconds": 3.264,
+        "max_seconds": 21.888
+      },
+      "bend": {
+        "mean_seconds": 3.374617283950617,
+        "min_seconds": 2.304,
+        "max_seconds": 4.458666666666667
+      },
+      "hammer on": {
+        "mean_seconds": 28.705580246913588,
+        "min_seconds": 17.813333333333333,
+        "max_seconds": 41.856
+      },
+      "legato": {
+        "mean_seconds": 5.262748971193414,
+        "min_seconds": 2.538666666666667,
+        "max_seconds": 10.517333333333333
+      },
+      "pull off": {
+        "mean_seconds": 23.399901234567906,
+        "min_seconds": 16.981333333333332,
+        "max_seconds": 38.69866666666667
+      },
+      "slide": {
+        "mean_seconds": 23.777580246913587,
+        "min_seconds": 20.181333333333335,
+        "max_seconds": 27.861333333333334
+      },
+      "sweep picking": {
+        "mean_seconds": 5.712592592592593,
+        "min_seconds": 2.24,
+        "max_seconds": 14.293333333333333
+      },
+      "tapping": {
+        "mean_seconds": 5.02808230452675,
+        "min_seconds": 2.7093333333333334,
+        "max_seconds": 11.392
+      },
+      "vibrato": {
+        "mean_seconds": 8.954469135802468,
+        "min_seconds": 4.778666666666667,
+        "max_seconds": 12.544
+      }
+    }
+  },
+  "archive_path": "/Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/guitar_style_dataset-v1.0.0.zip",
+  "archive_md5": "081794e5682b3e70e886dcd7344f3a8a"
+}
+Saved input validation to /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_1/input_validation.json
+Torch version: 2.9.0
+MFCC CNN experiment: experiment_1
+Prepared segment work root: /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_1
+
+================ MFCC CNN experiment_1 fold_0 ================
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_1/fold_0
+Train files: 441
+Test files: 108
+MFCC input shape: (1, 40, 8)
+Device for MFCC CNN: cpu
+Train segments: 4003 | Val segments: 1001
+Test segments: 1040
+Epoch 005: train_loss=0.8083 train_acc=0.6922 val_loss=1.4533 val_acc=0.4885
+Epoch 010: train_loss=0.3363 train_acc=0.8783 val_loss=2.1878 val_acc=0.4765
+Epoch 015: train_loss=0.1842 train_acc=0.9343 val_loss=2.6290 val_acc=0.4665
+Epoch 020: train_loss=0.1140 train_acc=0.9625 val_loss=3.3409 val_acc=0.4685
+Epoch 025: train_loss=0.1273 train_acc=0.9593 val_loss=3.3076 val_acc=0.4535
+Epoch 030: train_loss=0.1364 train_acc=0.9538 val_loss=3.5520 val_acc=0.4416
+Epoch 035: train_loss=0.0997 train_acc=0.9693 val_loss=3.4744 val_acc=0.4665
+Epoch 040: train_loss=0.0791 train_acc=0.9745 val_loss=3.5381 val_acc=0.4575
+Epoch 045: train_loss=0.0950 train_acc=0.9663 val_loss=3.7292 val_acc=0.4406
+Epoch 050: train_loss=0.0696 train_acc=0.9780 val_loss=3.6781 val_acc=0.4665
+Epoch 055: train_loss=0.0879 train_acc=0.9693 val_loss=3.9397 val_acc=0.4476
+Early stopping at epoch 55 after 10 stale validations.
+Accuracy: 0.379630
+Repo F1 from macro precision/recall: 0.439260
+Sklearn macro F1: 0.387656
+                   precision    recall  f1-score   support
+
+alternate picking       0.40      0.11      0.17        18
+           legato       0.78      0.39      0.52        18
+          tapping       0.50      0.44      0.47        18
+    sweep picking       1.00      0.33      0.50         9
+          vibrato       0.00      0.00      0.00         9
+        hammer on       0.12      0.33      0.18         9
+         pull off       0.12      0.33      0.18         9
+            slide       0.44      0.89      0.59         9
+             bend       1.00      0.78      0.88         9
+
+         accuracy                           0.38       108
+        macro avg       0.49      0.40      0.39       108
+     weighted avg       0.50      0.38      0.39       108
+
+
+================ MFCC CNN experiment_1 fold_1 ================
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_1/fold_1
+Train files: 441
+Test files: 108
+MFCC input shape: (1, 40, 8)
+Device for MFCC CNN: cpu
+Train segments: 3884 | Val segments: 972
+Test segments: 1188
+Epoch 005: train_loss=0.7451 train_acc=0.7170 val_loss=1.6770 val_acc=0.4403
+Epoch 010: train_loss=0.2824 train_acc=0.8993 val_loss=2.6008 val_acc=0.4331
+Epoch 015: train_loss=0.1752 train_acc=0.9385 val_loss=3.0650 val_acc=0.4650
+Epoch 020: train_loss=0.1800 train_acc=0.9361 val_loss=3.0362 val_acc=0.4733
+Epoch 025: train_loss=0.1315 train_acc=0.9542 val_loss=3.5985 val_acc=0.4424
+Epoch 030: train_loss=0.1079 train_acc=0.9642 val_loss=3.6616 val_acc=0.4506
+Epoch 035: train_loss=0.1181 train_acc=0.9601 val_loss=3.8893 val_acc=0.4455
+Epoch 040: train_loss=0.0640 train_acc=0.9771 val_loss=4.1148 val_acc=0.4547
+Epoch 045: train_loss=0.0568 train_acc=0.9804 val_loss=4.3810 val_acc=0.4434
+Epoch 050: train_loss=0.0821 train_acc=0.9717 val_loss=4.0872 val_acc=0.4383
+Epoch 055: train_loss=0.0960 train_acc=0.9694 val_loss=3.9949 val_acc=0.4434
+Early stopping at epoch 55 after 10 stale validations.
+Accuracy: 0.296296
+Repo F1 from macro precision/recall: 0.321212
+Sklearn macro F1: 0.284968
+                   precision    recall  f1-score   support
+
+alternate picking       0.50      0.33      0.40        18
+           legato       0.33      0.22      0.27        18
+          tapping       0.36      0.22      0.28        18
+    sweep picking       0.00      0.00      0.00         9
+          vibrato       0.00      0.00      0.00         9
+        hammer on       0.00      0.00      0.00         9
+         pull off       0.15      0.67      0.24         9
+            slide       0.67      0.89      0.76         9
+             bend       1.00      0.44      0.62         9
+
+         accuracy                           0.30       108
+        macro avg       0.33      0.31      0.28       108
+     weighted avg       0.35      0.30      0.29       108
+
+
+================ MFCC CNN experiment_1 fold_2 ================
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_1/fold_2
+Train files: 441
+Test files: 108
+MFCC input shape: (1, 40, 8)
+Device for MFCC CNN: cpu
+Train segments: 3962 | Val segments: 991
+Test segments: 1091
+Epoch 005: train_loss=0.7540 train_acc=0.7065 val_loss=1.5888 val_acc=0.4551
+Epoch 010: train_loss=0.3040 train_acc=0.8955 val_loss=2.2817 val_acc=0.4531
+Epoch 015: train_loss=0.2072 train_acc=0.9341 val_loss=2.6926 val_acc=0.4581
+Epoch 020: train_loss=0.1533 train_acc=0.9498 val_loss=3.1766 val_acc=0.4339
+Epoch 025: train_loss=0.1230 train_acc=0.9591 val_loss=3.3779 val_acc=0.4490
+Epoch 030: train_loss=0.1309 train_acc=0.9536 val_loss=3.2696 val_acc=0.4501
+Epoch 035: train_loss=0.1276 train_acc=0.9629 val_loss=3.6659 val_acc=0.4612
+Epoch 040: train_loss=0.0967 train_acc=0.9700 val_loss=3.6667 val_acc=0.4521
+Epoch 045: train_loss=0.0857 train_acc=0.9720 val_loss=3.5971 val_acc=0.4622
+Epoch 050: train_loss=0.1061 train_acc=0.9667 val_loss=3.7807 val_acc=0.4238
+Epoch 055: train_loss=0.0575 train_acc=0.9811 val_loss=3.8365 val_acc=0.4501
+Early stopping at epoch 55 after 10 stale validations.
+Accuracy: 0.361111
+Repo F1 from macro precision/recall: 0.398235
+Sklearn macro F1: 0.355307
+                   precision    recall  f1-score   support
+
+alternate picking       0.42      0.61      0.50        18
+           legato       0.33      0.17      0.22        18
+          tapping       0.38      0.17      0.23        18
+    sweep picking       1.00      0.56      0.71         9
+          vibrato       0.00      0.00      0.00         9
+        hammer on       0.24      0.44      0.31         9
+         pull off       0.06      0.11      0.07         9
+            slide       0.38      0.89      0.53         9
+             bend       1.00      0.44      0.62         9
+
+         accuracy                           0.36       108
+        macro avg       0.42      0.38      0.36       108
+     weighted avg       0.41      0.36      0.35       108
+
+
+================ MFCC CNN experiment_1 fold_3 ================
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_1/fold_3
+Train files: 441
+Test files: 108
+MFCC input shape: (1, 40, 8)
+Device for MFCC CNN: cpu
+Train segments: 3916 | Val segments: 980
+Test segments: 1148
+Epoch 005: train_loss=0.7757 train_acc=0.6966 val_loss=1.6856 val_acc=0.4490
+Epoch 010: train_loss=0.3121 train_acc=0.8887 val_loss=2.3721 val_acc=0.4429
+Epoch 015: train_loss=0.2091 train_acc=0.9311 val_loss=2.7821 val_acc=0.4480
+Epoch 020: train_loss=0.1197 train_acc=0.9591 val_loss=3.3838 val_acc=0.4541
+Epoch 025: train_loss=0.1031 train_acc=0.9653 val_loss=3.3891 val_acc=0.4490
+Epoch 030: train_loss=0.1143 train_acc=0.9614 val_loss=3.3674 val_acc=0.4582
+Epoch 035: train_loss=0.1042 train_acc=0.9640 val_loss=3.7019 val_acc=0.4510
+Epoch 040: train_loss=0.1168 train_acc=0.9627 val_loss=3.4374 val_acc=0.4520
+Epoch 045: train_loss=0.0808 train_acc=0.9706 val_loss=3.7910 val_acc=0.4398
+Epoch 050: train_loss=0.1267 train_acc=0.9591 val_loss=3.6706 val_acc=0.4551
+Epoch 055: train_loss=0.0704 train_acc=0.9742 val_loss=3.8166 val_acc=0.4541
+Early stopping at epoch 55 after 10 stale validations.
+Accuracy: 0.351852
+Repo F1 from macro precision/recall: 0.391941
+Sklearn macro F1: 0.344138
+                   precision    recall  f1-score   support
+
+alternate picking       0.50      0.67      0.57        18
+           legato       0.00      0.00      0.00        18
+          tapping       0.40      0.11      0.17        18
+    sweep picking       0.50      0.11      0.18         9
+          vibrato       0.50      0.33      0.40         9
+        hammer on       0.19      0.56      0.28         9
+         pull off       0.00      0.00      0.00         9
+            slide       0.53      1.00      0.69         9
+             bend       1.00      0.67      0.80         9
+
+         accuracy                           0.35       108
+        macro avg       0.40      0.38      0.34       108
+     weighted avg       0.38      0.35      0.32       108
+
+
+================ MFCC CNN experiment_1 fold_4 ================
+Preparing segmented directories in /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/mfcc_cnn_segments/experiment_1/fold_4
+Train files: 441
+Test files: 108
+MFCC input shape: (1, 40, 8)
+Device for MFCC CNN: cpu
+Train segments: 4074 | Val segments: 1019
+Test segments: 951
+Epoch 005: train_loss=0.7472 train_acc=0.7116 val_loss=1.5856 val_acc=0.4504
+Epoch 010: train_loss=0.2722 train_acc=0.8996 val_loss=2.4714 val_acc=0.4632
+Epoch 015: train_loss=0.1808 train_acc=0.9401 val_loss=2.9597 val_acc=0.4593
+Epoch 020: train_loss=0.1748 train_acc=0.9435 val_loss=2.9415 val_acc=0.4524
+Epoch 025: train_loss=0.1732 train_acc=0.9408 val_loss=3.0305 val_acc=0.4642
+Epoch 030: train_loss=0.1096 train_acc=0.9620 val_loss=3.4963 val_acc=0.4455
+Epoch 035: train_loss=0.0883 train_acc=0.9713 val_loss=3.4249 val_acc=0.4868
+Epoch 040: train_loss=0.1150 train_acc=0.9610 val_loss=3.3042 val_acc=0.4750
+Epoch 045: train_loss=0.0768 train_acc=0.9725 val_loss=3.5264 val_acc=0.4681
+Epoch 050: train_loss=0.0946 train_acc=0.9725 val_loss=3.5535 val_acc=0.4652
+Epoch 055: train_loss=0.0649 train_acc=0.9806 val_loss=3.5113 val_acc=0.4377
+Early stopping at epoch 55 after 10 stale validations.
+Accuracy: 0.324074
+Repo F1 from macro precision/recall: 0.460643
+Sklearn macro F1: 0.315276
+                   precision    recall  f1-score   support
+
+alternate picking       0.40      0.11      0.17        18
+           legato       1.00      0.06      0.11        18
+          tapping       0.33      0.39      0.36        18
+    sweep picking       1.00      0.11      0.20         9
+          vibrato       1.00      0.11      0.20         9
+        hammer on       0.20      1.00      0.33         9
+         pull off       0.20      0.22      0.21         9
+            slide       0.35      0.67      0.46         9
+             bend       1.00      0.67      0.80         9
+
+         accuracy                           0.32       108
+        macro avg       0.61      0.37      0.32       108
+     weighted avg       0.60      0.32      0.29       108
+
+{
+  "experiment_id": "experiment_1",
+  "method": "mfcc_cnn",
+  "split_schema": "folds",
+  "num_folds": 5,
+  "accuracy_mean_pct": 34.25925925925925,
+  "accuracy_std_pct": 2.928034870526278,
+  "f1_mean_pct": 40.22580989688843,
+  "f1_std_pct": 4.789376593435574,
+  "sklearn_macro_f1_mean_pct": 33.74691569236045,
+  "sklearn_macro_f1_std_pct": 3.5014821663371456,
+  "runtime_seconds": 970.9087059497833,
+  "paper_target": {
+    "accuracy_pct": 76.5,
+    "f1_pct": 76.9,
+    "f1_std_pct": 8.0
+  },
+  "notes": [
+    "MFCC inputs use 40 coefficients, n_fft=4096, hop_length=512, center=False, and per-clip CMVN.",
+    "Every segment is resampled to 8 kHz for parity with the guitar-paper mel CNN harness.",
+    "Training data comes from prepare_dirs 1-second clips; test WAVs are evaluated as 1-second MFCC windows and aggregated per file.",
+    "Architecture follows the Alar et al. Proposed CNN pattern: Conv/MaxPool/BatchNorm blocks with 32, 64, and 128 channels.",
+    "Dense(128) is followed by Dropout(0.5), matching the author Proposed notebook rather than the Benchmark dropout.",
+    "The final layer is linear and has a 9-class guitar head.",
+    "Primary F1 is the repo definition: harmonic mean of macro precision and macro recall."
+  ]
+}
+experiment_id   method    status split_schema  num_folds  num_folds_completed  paper_accuracy_pct  reproduced_accuracy_pct  accuracy_delta_pct_points  paper_f1_pct  reproduced_f1_pct  f1_delta_pct_points  paper_f1_std_pct  reproduced_f1_std_pct                                                                                                                                                  summary_path  within_paper_f1_std
+ experiment_1      svm completed        folds          5                    5                67.8                64.444444                  -3.355556          62.3          59.565402            -2.734598              11.6               7.274348      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_1/svm/summary.json                 True
+ experiment_1      cnn completed        folds          5                    5                76.5                74.074074                  -2.425926          76.9          75.366026            -1.533974               8.0               8.690167      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_1/cnn/summary.json                 True
+ experiment_1 mfcc_cnn completed        folds          5                    5                76.5                34.259259                 -42.240741          76.9          40.225810           -36.674190               8.0               4.789377 /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_1/mfcc_cnn/summary.json                False
+ experiment_2      svm completed      guitars          3                    3                84.2                82.331512                  -1.868488          81.2          81.754051             0.554051               2.0               2.400978      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_2/svm/summary.json                 True
+ experiment_2      cnn completed      guitars          3                    3                81.1                82.331512                   1.231512          83.1          84.676516             1.576516               1.2               3.454567      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_2/cnn/summary.json                False
+ experiment_2 mfcc_cnn completed      guitars          3                    3                81.1                45.355191                 -35.744809          83.1          52.302255           -30.797745               1.2               3.404066 /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_2/mfcc_cnn/summary.json                False
+ experiment_3      svm completed   amplifiers          3                    3                83.4                84.881603                   1.481603          81.9          85.291559             3.391559               5.0               3.174391      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_3/svm/summary.json                 True
+ experiment_3      cnn completed   amplifiers          3                    3                80.7                78.142077                  -2.557923          82.3          80.382369            -1.917631               3.7              10.877268      /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_3/cnn/summary.json                 True
+ experiment_3 mfcc_cnn completed   amplifiers          3                    3                80.7                47.905282                 -32.794718          82.3          53.118878           -29.181122               3.7               3.608281 /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/results/experiment_3/mfcc_cnn/summary.json                False
+Finished: 2026-05-03 03:58:42 EDT
+Exit status: 0

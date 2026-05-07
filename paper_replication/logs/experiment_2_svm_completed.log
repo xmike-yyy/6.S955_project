@@ -1,0 +1,143 @@
+/Users/juansantiago/.matplotlib is not a writable directory
+Matplotlib created a temporary cache directory at /var/folders/px/2fj70_6s1f93ss6ss8sv7vn80000gn/T/matplotlib-j4_0fovu because there was an issue with the default path (/Users/juansantiago/.matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/juansantiago/.cache/fontconfig
+	/Users/juansantiago/.fontconfig
+2026-04-29 19:43:44.619 system_profiler[39350:12775631] XType: Using static font registry.
+Matplotlib is building the font cache; this may take a moment.
+Loading cached SVM features from /Users/juansantiago/Desktop/MIT Classes 2023-2027/Spring 2026/6.S955/FinalProject/6.S955_project/paper_replication/work/svm_features/X_original_file_level.npy
+
+================ SVM experiment_2 carvin ================
+Best params: {'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}
+Accuracy: 0.786885
+Macro F1: 0.795978
+                   precision    recall  f1-score   support
+
+alternate picking       0.96      0.93      0.94        27
+           legato       0.61      0.70      0.66        27
+          tapping       0.73      0.59      0.65        27
+    sweep picking       0.91      0.83      0.87        12
+          vibrato       0.88      0.83      0.86        18
+        hammer on       0.62      0.72      0.67        18
+         pull off       0.59      0.56      0.57        18
+            slide       0.90      1.00      0.95        18
+             bend       1.00      1.00      1.00        18
+
+         accuracy                           0.79       183
+        macro avg       0.80      0.80      0.80       183
+     weighted avg       0.79      0.79      0.79       183
+
+
+================ SVM experiment_2 palm-bay ================
+Best params: {'C': 50, 'gamma': 0.001, 'kernel': 'rbf'}
+Accuracy: 0.825137
+Macro F1: 0.805606
+                   precision    recall  f1-score   support
+
+alternate picking       0.93      0.96      0.95        27
+           legato       0.88      0.85      0.87        27
+          tapping       0.85      0.85      0.85        27
+    sweep picking       1.00      1.00      1.00        12
+          vibrato       0.89      0.94      0.92        18
+        hammer on       0.29      0.11      0.16        18
+         pull off       0.44      0.67      0.53        18
+            slide       0.95      1.00      0.97        18
+             bend       1.00      1.00      1.00        18
+
+         accuracy                           0.83       183
+        macro avg       0.80      0.82      0.81       183
+     weighted avg       0.81      0.83      0.81       183
+
+
+================ SVM experiment_2 rwg ================
+Best params: {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}
+Accuracy: 0.857923
+Macro F1: 0.851037
+                   precision    recall  f1-score   support
+
+alternate picking       1.00      1.00      1.00        27
+           legato       0.81      0.93      0.86        27
+          tapping       0.95      0.78      0.86        27
+    sweep picking       0.92      1.00      0.96        12
+          vibrato       1.00      0.94      0.97        18
+        hammer on       0.60      0.33      0.43        18
+         pull off       0.50      0.78      0.61        18
+            slide       1.00      0.94      0.97        18
+             bend       1.00      1.00      1.00        18
+
+         accuracy                           0.86       183
+        macro avg       0.86      0.86      0.85       183
+     weighted avg       0.87      0.86      0.86       183
+
+{
+  "experiment_id": "experiment_2",
+  "method": "svm",
+  "split_schema": "guitars",
+  "num_folds": 3,
+  "accuracy_mean_pct": 82.33151183970855,
+  "accuracy_std_pct": 2.9029831421692567,
+  "f1_mean_pct": 81.754051094356,
+  "f1_std_pct": 2.4009776511983256,
+  "feature_matrix_shape": [
+    549,
+    136
+  ],
+  "feature_granularity": "original_repo_file_level_long_term_average",
+  "runtime_seconds": 4.255612134933472,
+  "paper_target": {
+    "accuracy_pct": 84.2,
+    "f1_pct": 81.2,
+    "f1_std_pct": 2.0
+  },
+  "notes": [
+    "Uses the original repository pyAudioAnalysis directory_feature_extraction path.",
+    "That original helper long-term-averages each WAV into one feature vector, despite the paper prose describing 1-second segment vectors."
+  ]
+}
