@@ -47,7 +47,7 @@ Overall verdict: **partially replicated**.
 - Local Python 3.11 required Torch 2.9 rather than the original CNN requirement `torch==1.9.0`.
 - The original SVM code path extracts one long-term averaged feature vector per WAV file, while the paper prose describes 1-second segment-level vectors.
 - CNN F1 uses the original wrapper formula, the harmonic mean of macro precision and macro recall; sklearn macro-F1 is also saved in fold metrics.
-- CNN full reproduction was blocked by CPU runtime in this interactive session: experiment 1 fold 0 completed, fold 1 was interrupted at epoch 15, and experiments 2-3 were left as full-fidelity rerun commands.
+- The interactive CPU-only attempt at experiment 1 was abandoned (fold 0 completed, fold 1 interrupted at epoch 15) and the published mel-CNN numbers come from a clean overnight batch rerun of `scripts/run_experiment_1.sh` started ~20 minutes after the interactive run was killed; per-fold artifacts in `results/experiment_1/cnn/` carry timestamps from that rerun (2026-04-29 20:29 through 2026-04-30 08:45). Experiments 2 and 3 likewise come from full batch runs via `scripts/run_experiment_{2,3}.sh`. See `decisions_and_changes.md` (2026-04-29 19:44 EDT row) for the audit trail.
 
 ## Confidence
 
